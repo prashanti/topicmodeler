@@ -1,0 +1,11 @@
+Notes on Comparison between Abstract and No abstract
+
+
+1. Dictionary -- No abstract has far less words in the dictionary. Naturally, counts associated with the words is less in no anstract. 
+
+2. 04ldacol+...+nIter=...+topics.txt Both files have 20 topics as specified in the parameters. Also both files have equal number of words in each topic. 
+Scores for words in the topics are different. Sometimes one is higher, other times the second one is higher. 
+
+3. 07clusterDocs+....tab: No abstract kmeans20 confidences start higher and end higher than the ones with abstract. Clusters seem different too. 
+5. 08clusterTopics+...+clusters_hierarchy.tab: 
+Same number of clusters in both as specified but the words in the clusters are different. Don't know how to quantify the differences. 

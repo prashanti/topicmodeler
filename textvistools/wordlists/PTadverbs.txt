@@ -1,0 +1,126 @@
+%%% http://www.orbilat.com/Languages/Portuguese/Grammar/Portuguese-Adverb.html
+% Time
+agora
+ainda
+amanhã
+antes
+cedo
+dantes
+depois
+doravante
+enfim
+então
+hoje
+já
+jamais
+logo
+nunca
+ontem
+ora
+outrora
+primeiro
+sempre
+tarde
+% Place
+abaixo
+acima
+acolá
+adiante
+além
+algures
+ali
+antes
+aonde
+aquém
+aqui
+atrás
+cá
+debaixo
+defronte
+dentro
+detrás
+fora
+lá
+longe
+nenhures
+onde
+perto
+% Manner
+bem
+mal
+melhor
+pior
+assim
+aliás
+depressa
+devagar
+como
+debalde
+nada
+sobremodo
+sobretudo
+sobremaneira
+quase
+% Quantity 
+muito
+pouco
+mais
+ainda
+menos
+demasiado
+quão
+que
+tanto
+tão
+assaz
+% Affirmation 	
+sim yes
+certamente certainly
+decerto
+% Negation
+não no
+nem neither
+nunca never
+jamais
+% Doubt
+acaso
+porventura
+quiçá
+talvez	
+% Exclusion
+apenas
+salvo
+senão
+só
+tãopouco
+tampouco
+% Inclusion
+ainda
+até
+mesmo
+também
+% Order 	
+depois
+% Designation
+eis
+% Interrogation
+onde
+quando
+quanto
+porquê
+% Comparative Degree
+devagar
+rapidamente
+bem
+mal
+muito
+mais
+pouco
+menos
+% Superlative Degree
+devagar
+rapidamente
+bem
+mal
+muito
+pouco

@@ -1,0 +1,15 @@
+ArCGIS
+------
+
+Add toolbox: Windows/ArcToolbox [right-click] Add Toolbox
+	Som Analyist.Tools (SOM Analyst Tools.tbx)
+
+4-Postprocessing 
+	COD to Polygons: create shape file from .cod file
+	(SOM to shape in google)
+	--- can already see points
+	
+	BMU to Point:  .vis -> point .shp 
+	(Projected data on google)
+	--- remove labels from the end of .vis ???
+        --- max of 10000 points

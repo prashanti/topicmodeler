@@ -1,0 +1,1 @@
+General information for users of SOM Analyst.

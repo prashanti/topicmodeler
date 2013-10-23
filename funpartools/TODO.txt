@@ -1,0 +1,11 @@
+createPedigree()
+
+. it is annoying that the filename reveals noting of the
+pedigree. Perhaps one could optionally ask for some pedigree
+parameters to be added to the filename.
+
+
+archivePedigreeChildren()
+
+. should take parameters in the general funpartools form
+

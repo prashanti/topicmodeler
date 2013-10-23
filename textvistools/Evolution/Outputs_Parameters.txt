@@ -1,0 +1,39 @@
+These are the relevant output files and parameters :
+
+Files :
+
+1. 01dictionary+....txt : Dictionary file with words and counts. 
+	Format: Word \t Unique Word ID \t Word Count
+
+2. 04ldacol+...+nIter=...+topics.txt -- GET THE FILENAME WITH HIGHEST ITERATIONS.
+	Format: Topic Number \t Score
+			Word in Topic \t Score                  
+
+	Change parameters.ldacol.nTopics=50; to change the number of topics wanted. 
+	MORE INFO :: This tab-separated file is produced by ldacol.m and includes information about the words and/or collocations associated with each of the extracted latent topics.  The number of topics extracted and the number of iterations are among the input parameters to the LDACOL algorithm.  Topic numbers assigned to the latent topics are displayed in the first column followed by the words/collocations most frequently associated with that topic.  The second column contains values that represent the overall weight of the topic within the corpus and the weight of each of the words/collocations within the associated topic.  Generally there are several different versions of this file, which correspond to outputs from different numbers of iterations of the GibbsSamplerLDACOL algorithm.  While the file with the largest number of iterations should be the most accurate, outputs based on different numbers of iterations can be used to  understand how well the algorithm is converging.
+
+3. 07clusterDocs+....tab: 
+
+	Document \t ClusterNumber
+	Format: rowID	hkmeans5	hkmeans25	hkmeans125	hkmeans490	hkmeans993	hkmeans1197	hkmeans1240	hkmeans1241	hkmeans5_conf	hkmeans25_conf	hkmeans125_conf	hkmeans490_conf	hkmeans993_conf	hkmeans1197_conf	hkmeans1240_conf	hkmeans1241_conf	rowName
+
+	hkmeans column specifies what cluster the document belongs to. 
+	This is supposed to contain the cluster membership for each document but the membership information is not obvious from the file. 
+
+4.  08clusterTopics+...+clusters_hierarchy.tab: 
+	This file contains cluster membership of topics. Multiple levels of clustering. Level1, Level2 .... indicate the cluster ID at that level of clustering.
+	Format : clusterLevel \t	clusterID	 \t words
+
+	Change 'maxNClusters',... 'DefaultValue',2000,... in clusterTopics.m to restrict number of clusters. 
+
+	Insert  parameters.cluster4SOM.nClusters=X; to get X number of clusters. Change culstering to kmeans. 
+
+	MORE INFO:: This tab-separated text file is created by clusterTopics.m and contains a table that specifies cluster membership for each LDACOL topic.  The clustering method to be used is specified in the tvtParameters.m file.  More details about the parameters can be discovered by typing 'clusterTopics help' at the matlab prompt.
+
+5. clusterTopics+...+clusters_words.tab
+	This file shows the cluster level, number of clusters identified at each clustering level and all words in the clusters.
+
+	MORE INFO:: This tab-separated text file is created by clusterTopics.m and contains a table that shows the top words of all of the metatopics (topic clusters) corresponding to each class. For hierarchical methods, this file includes the metatopics for all levels of the hierarchy.  The clustering method to be used is specified in the tvtParameters.m file.  More details about the parameters can be discovered by typing 'clusterTopics help' at the matlab prompt.\
+
+
+	Desired Output: Document \t\t Cluster ID :: This is in 07clusterDocs+....tab

@@ -1,0 +1,198 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 1000 838
+%%Title: outputFiles/06sompak+TS=20131023-121502-507900+neurons.cod
+%%Creator: umat V1.0
+%%CreationDate: Wed Oct 23 12:17:52 2013
+%%Pages: 0
+%%DocumentFonts: Helvetica
+%%DocumentNeededFonts: Helvetica
+%%EndComments
+%
+% PS header for umat - SOM to PS converter
+% Version 1.0 Tue Feb 28 1995
+% Author: Jussi Hynninen <hynde@nucleus.hut.fi>
+100 dict begin
+
+% predefine variables
+/yoff 0 def /xoff 0 def /xstep 0 def /ystep 0 def /y 0 def /radius 0 def
+/doborder false def
+% default font
+/fontname /Helvetica def
+% font size relative to radius
+/fontsize 1.0 def
+
+% default black and white tresholds
+/bt 0.0 def /wt 1.0 def
+
+% labelpallon sade suhteessa hexan sateeseen
+/ballrad 0.2 def
+
+% newline function. Moves the y coordinate to the next line
+/NL 
+{ /yoff yoff ystep sub def % next row
+  /y y 1 add def % add y by one
+  } bind def
+
+% start of line (for hexagonal lattice) - moves the current position in 
+% x direction to the correct place of the line
+/XSH
+{ xoff 
+  y 4 mod
+  dup 3 eq {pop 1} if
+  xstep 2 div mul
+  add
+  yoff moveto % move to start of line
+} bind def
+
+% start of line (for rectangular lattice) - moves the current position in 
+% x direction to the correct place of the line
+/XSR { xoff yoff moveto } bind def
+
+% set label color. If block is light -> label is black and same for dark block
+/sbc { .5 gt {0} {1} ifelse setgray } bind def
+
+% set gray level
+/G { 
+  100 div dup bt le {pop 0}
+  { dup wt ge {pop 1} {bt sub wt bt sub div} ifelse
+  } ifelse
+} bind def
+
+% unlabelled node
+/LN { 
+  gsave
+  G sbc
+  currentpoint radius ballrad mul 0 360 arc fill 
+  grestore
+  xstep 2 mul 0 rmoveto
+} bind def
+
+%select font
+/selfont {
+  fontname findfont radius fontsize mul scalefont setfont
+} bind def
+
+% print single label
+
+/LAB { 
+  gsave
+  G sbc
+  dup %duplicate string  
+  stringwidth
+  pop fontsize radius mul -0.25 mul exch
+  -2 div exch
+  rmoveto
+  show
+  grestore
+  xstep 2 mul 0 rmoveto
+} bind def
+
+% print multiple labels on one unit
+/ML {
+  gsave
+  G sbc
+  /numlabs exch def %number of labels
+  numlabs
+  2 div 
+  0.25 sub
+  radius fontsize mul mul neg
+  0 exch rmoveto
+  1 1 numlabs {
+    pop
+    gsave
+    dup %duplicate string  
+    stringwidth
+    pop 
+    -2 div 0
+    rmoveto
+    show
+    grestore
+    0 fontsize radius mul rmoveto
+  } for 
+  grestore
+  xstep 2 mul 0 rmoveto
+} bind def
+
+% print hexagon
+/H { 
+  gsave
+  G dup setgray %duplicate gray level
+  currentpoint translate
+  newpath 0 radius moveto
+  5 {60 rotate 0 radius lineto} repeat
+  closepath
+  doborder { gsave fill grestore sbc stroke}
+           { fill pop } ifelse
+  grestore  
+  xstep 0 rmoveto
+} bind def
+
+% print rectangle
+/R {
+  gsave
+  G dup setgray %duplicate gray level
+  currentpoint translate
+  newpath
+  xstep 0.5 mul dup moveto
+  xstep neg 0 rlineto
+  0 xstep neg rlineto
+  xstep 0 rlineto
+  closepath
+  doborder { gsave fill grestore sbc stroke}
+           { fill pop } ifelse
+  grestore  
+  xstep 0 rmoveto
+} bind def
+
+1 setlinewidth
+
+% End of umat PS header
+% Start image
+
+
+/radius 28.867514 def
+/xstep 50.000000 def
+/ystep 43.301270 def
+%%IncludeFont: Helvetica
+/fontname /Helvetica def
+/fontsize 1.700000 def
+selfont
+/doborder false def
+/wt 1.000000 def /bt 0.000000 def
+/y 0 def
+/xoff 25.000000 def
+/yoff 808.290405 def
+XSH 81 H 85 H 78 H 33 H 52 H 0 H 50 H 61 H 71 H 84 H 66 H 26 H 38 H 0 H 45 H 38 H 71 H 81 H 81 H NL
+XSH 78 H 99 H 72 H 70 H 73 H 39 H 96 H 67 H 76 H 93 H 47 H 75 H 50 H 51 H 85 H 60 H 100 H 75 H 90 H NL
+XSH 73 H 73 H 71 H 30 H 47 H 33 H 61 H 85 H 67 H 59 H 53 H 24 H 49 H 28 H 62 H 64 H 69 H 98 H 90 H NL
+XSH 56 H 56 H 74 H 64 H 55 H 72 H 29 H 56 H 49 H 28 H 68 H 33 H 48 H 68 H 33 H 76 H 41 H 56 H 44 H NL
+XSH 56 H 92 H 61 H 66 H 58 H 52 H 56 H 67 H 52 H 72 H 62 H 64 H 56 H 49 H 49 H 50 H 45 H 82 H 44 H NL
+XSH 37 H 31 H 55 H 59 H 57 H 54 H 58 H 36 H 40 H 59 H 41 H 69 H 64 H 41 H 64 H 27 H 34 H 23 H 22 H NL
+XSH 46 H 61 H 57 H 51 H 63 H 77 H 67 H 60 H 62 H 68 H 71 H 85 H 67 H 55 H 56 H 58 H 52 H 94 H 50 H NL
+XSH 46 H 73 H 42 H 67 H 69 H 76 H 75 H 77 H 65 H 69 H 82 H 72 H 81 H 70 H 60 H 55 H 56 H 49 H 50 H NL
+XSH 73 H 73 H 72 H 30 H 63 H 59 H 74 H 74 H 71 H 51 H 70 H 81 H 78 H 78 H 67 H 44 H 55 H 71 H 50 H NL
+XSH 84 H 75 H 70 H 58 H 72 H 70 H 79 H 72 H 71 H 71 H 63 H 77 H 64 H 74 H 63 H 67 H 52 H 61 H 49 H NL
+XSH 50 H 50 H 54 H 36 H 67 H 81 H 70 H 56 H 63 H 57 H 74 H 91 H 73 H 53 H 58 H 41 H 57 H 90 H 59 H NL
+XSH 47 H 40 H 59 H 47 H 56 H 64 H 58 H 68 H 60 H 66 H 76 H 73 H 83 H 72 H 73 H 46 H 70 H 47 H 59 H NL
+XSH 47 H 79 H 43 H 46 H 48 H 70 H 62 H 75 H 61 H 42 H 66 H 74 H 74 H 75 H 71 H 23 H 56 H 60 H 59 H NL
+XSH 21 H 24 H 32 H 40 H 49 H 43 H 60 H 45 H 62 H 44 H 66 H 56 H 64 H 69 H 47 H 62 H 52 H 61 H 49 H NL
+XSH 50 H 50 H 49 H 56 H 55 H 87 H 56 H 51 H 50 H 52 H 54 H 87 H 56 H 46 H 46 H 40 H 49 H 88 H 49 H NL
+XSH 59 H 58 H 57 H 48 H 54 H 61 H 45 H 60 H 42 H 48 H 36 H 50 H 40 H 48 H 51 H 43 H 45 H 27 H 33 H NL
+XSH 59 H 54 H 55 H 34 H 64 H 78 H 70 H 59 H 60 H 30 H 57 H 71 H 64 H 62 H 56 H 32 H 48 H 61 H 51 H NL
+XSH 72 H 91 H 50 H 87 H 75 H 80 H 87 H 64 H 60 H 66 H 71 H 67 H 80 H 62 H 64 H 66 H 50 H 74 H 51 H NL
+XSH 72 H 30 H 55 H 60 H 75 H 75 H 69 H 19 H 51 H 41 H 67 H 68 H 65 H 31 H 48 H 26 H 62 H 75 H 63 H NL
+/y 0 def
+/xoff 25.000000 def
+/yoff 808.290405 def
+XSH 81 LN 78 LN 52 LN 50 LN 71 LN 66 LN 38 LN 45 LN 71 LN 81 LN NL NL
+XSH 73 LN 71 LN 47 LN 61 LN 67 LN 53 LN 49 LN 62 LN 69 LN 90 LN NL NL
+XSH 56 LN 61 LN 58 LN 56 LN 52 LN 62 LN 56 LN 49 LN 45 LN 44 LN NL NL
+XSH 46 LN 57 LN 63 LN 67 LN 62 LN 71 LN 67 LN 56 LN 52 LN 50 LN NL NL
+XSH 73 LN 72 LN 63 LN 74 LN 71 LN 70 LN 78 LN 67 LN 55 LN 50 LN NL NL
+XSH 50 LN 54 LN 67 LN 70 LN 63 LN 74 LN 73 LN 58 LN 57 LN 59 LN NL NL
+XSH 47 LN 43 LN 48 LN 62 LN 61 LN 66 LN 74 LN 71 LN 56 LN 59 LN NL NL
+XSH 50 LN 49 LN 55 LN 56 LN 50 LN 54 LN 56 LN 46 LN 49 LN 49 LN NL NL
+XSH 59 LN 55 LN 64 LN 70 LN 60 LN 57 LN 64 LN 56 LN 48 LN 51 LN NL NL
+XSH 72 LN 55 LN 75 LN 69 LN 51 LN 67 LN 65 LN 48 LN 62 LN 63 LN NL NL
+end
+% end of EPS object

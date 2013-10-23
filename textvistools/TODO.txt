@@ -1,0 +1,68 @@
+TODO:
+
+. Automatically create ArcGIS scritps to do the following
+
+1) Create a Geodatabase 
+   import all .tab and .shp children of a createSOM
+   index all rowID and columnID fields
+
+2) Create views corresponding to a document layer joined with
+   05 ...+metadata.tab, displaying year
+   07 ...nClus,         displaying each clustering field
+
+Relevant ArcGIS functions:
+
+1) http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=Creating_a_new_Python_script_module
+
+##Script Name: Clip Multiple Feature Classes
+##Description: Clips one or more shapefiles
+##from a folder and places the clipped
+##feature classes into a geodatabase.
+##Created By: Insert name here.
+##Date: Insert date here.
+
+#Import standard library modules
+import arcgisscripting, sys, os
+
+#Create the Geoprocessor object
+gp = arcgisscripting.create()
+
+#Set the input workspace
+gp.workspace = sys.argv[1]
+
+#Set the clip featureclass
+clipFeatures = sys.argv[2]
+
+#Set the output workspace
+outWorkspace = sys.argv[3]
+
+#Set the cluster tolerance
+clusterTolerance = sys.argv[4]
+
+try:
+
+    #Get a list of the featureclasses in the input folder
+    fcs = gp.ListFeatureClasses()
+
+    #Loop through the list of featureclasses
+    fcs.Reset()
+    fc = fcs.Next()
+
+    while fc:   
+        #Validate the new feature class name for the output workspace.
+        outFeatureClass = outWorkspace + "/" + gp.ValidateTableName(fc, outWorkspace)
+        #Clip each feature class in the list with the clip feature class.
+        #Do not clip the clipFeatures, it may be in the same workspace.
+        if str(fc) != str(os.path.split(clipFeatures)[1]):
+            gp.Clip(fc, clipFeatures, outFeatureClass, clusterTolerance)
+            fc = fcs.Next()
+
+except:
+    gp.AddMessage(gp.GetMessages(2))
+    print gp.GetMessages(2)
+
+
+
+AddJoin_management (in_layer_or_view, in_field, join_table, join_field, join_type) 
+
+http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?id=1595&pid=1594&topicname=Add_Join_%28Data_Management%29

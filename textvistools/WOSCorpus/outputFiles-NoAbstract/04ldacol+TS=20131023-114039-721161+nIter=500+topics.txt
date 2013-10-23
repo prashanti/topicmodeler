@@ -1,0 +1,880 @@
+                  TOPIC_1	0.04140	
+
+                evolution	0.18802	
+                    genes	0.09462	
+                   origin	0.06187	
+               expression	0.05338	
+              development	0.05217	
+                 analysis	0.02912	
+                   domain	0.02184	
+                      rna	0.02184	
+                  rna_seq	0.02184	
+                  through	0.01699	
+                alignment	0.01578	
+                   animal	0.01457	
+                 genetics	0.01457	
+  rna_secondary_structure	0.01457	
+                 cavefish	0.01214	
+                     like	0.01214	
+                expansion	0.01093	
+                  mimicry	0.01093	
+                hox_genes	0.00972	
+                   method	0.00972	
+         rna_interference	0.00972	
+               structural	0.00972	
+                tolerance	0.00972	
+                    avian	0.00850	
+                     zone	0.00850	
+             animal_model	0.00729	
+      hox_gene_expression	0.00729	
+                  mapping	0.00729	
+             melanogaster	0.00729	
+                rna_virus	0.00729	
+                rna_world	0.00729	
+         structural_basis	0.00729	
+                 analyses	0.00608	
+                   family	0.00608	
+                     taxa	0.00608	
+transcribed_spacer_noncoding_chloroplast_dna	0.00608	
+         animal_phylogeny	0.00486	
+                 distance	0.00486	
+                   genome	0.00486	
+             interference	0.00486	
+
+
+                  TOPIC_2	0.05496	
+
+        genetic_variation	0.05118	
+      population_genetics	0.05118	
+        genetic_diversity	0.04569	
+               population	0.04569	
+     population_structure	0.04387	
+                  genetic	0.03930	
+next_generation_sequencing	0.03016	
+effective_population_size	0.02468	
+ multilocus_genotype_data	0.02468	
+                        l	0.02377	
+                     wild	0.02285	
+     genetic_architecture	0.02194	
+        genetic_structure	0.02194	
+             polymorphism	0.01828	
+      population_genomics	0.01828	
+                      sea	0.01828	
+                  genomic	0.01646	
+                marchkers	0.01554	
+            genetic_basis	0.01463	
+  genetic_differentiation	0.01463	
+             conservation	0.01280	
+                  induced	0.01280	
+      population_dynamics	0.01280	
+                      ant	0.01189	
+         genetic_variance	0.01097	
+    conservation_genetics	0.00915	
+                     f_st	0.00915	
+      genetic_correlation	0.00915	
+            genetic_drift	0.00915	
+        population_growth	0.00915	
+                 activity	0.00823	
+                     aflp	0.00823	
+population_genetic_structure	0.00823	
+ microsatellite_marchkers	0.00732	
+    population_divergence	0.00732	
+          population_size	0.00732	
+                  process	0.00732	
+                  rad_seq	0.00732	
+                   salmon	0.00641	
+                      snp	0.00641	
+
+
+                  TOPIC_3	0.04873	
+
+                selection	0.21228	
+        natural_selection	0.16488	
+      natural_populations	0.04535	
+            recombination	0.04226	
+                   models	0.03917	
+                 mutation	0.01959	
+                        3	0.01856	
+   linkage_disequilibrium	0.01856	
+            mutation_rate	0.01856	
+                  network	0.01650	
+                  pattern	0.01547	
+                     prey	0.01341	
+              stickleback	0.01341	
+        natural_variation	0.01238	
+                reduction	0.01238	
+stickleback_gasterosteus_aculeatus_l	0.01238	
+                     test	0.01238	
+                      age	0.01135	
+                 approach	0.01031	
+                 mediated	0.01031	
+                red_queen	0.01031	
+                    shell	0.01031	
+                evolution	0.00928	
+ gasterosteus_aculeatus_l	0.00928	
+                    locus	0.00825	
+                  natural	0.00825	
+                     flow	0.00722	
+                 predator	0.00722	
+            age_dependent	0.00619	
+    deleterious_mutations	0.00619	
+              linkage_map	0.00619	
+       natural_population	0.00619	
+                  neutral	0.00619	
+                      red	0.00619	
+stickleback_gasterosteus_aculeatus	0.00619	
+               aggression	0.00516	
+mutation_substitution_comparative_population_size	0.00516	
+              age_related	0.00413	
+   gasterosteus_aculeatus	0.00413	
+              independent	0.00413	
+
+
+                  TOPIC_4	0.04652	
+
+                 patterns	0.07557	
+                diversity	0.07449	
+ horizontal_gene_transfer	0.07449	
+             evolutionary	0.05398	
+              cooperation	0.03131	
+     evolutionary_history	0.02592	
+                 bacteria	0.02484	
+        evolutionary_rate	0.02376	
+      character_evolution	0.02160	
+                mutualism	0.02160	
+                bacterial	0.02052	
+   character_displacement	0.01728	
+               novemberel	0.01512	
+                symbiosis	0.01512	
+               extinction	0.01404	
+              coexistence	0.01296	
+    evolutionary_dynamics	0.01296	
+       evolutionary_rates	0.01296	
+               land_snail	0.01296	
+         lineage_specific	0.01296	
+                   mammal	0.01296	
+           specialization	0.01296	
+              reciprocity	0.01188	
+              specificity	0.01188	
+evolutionary_diversification	0.01080	
+                  lateral	0.01080	
+                  lineage	0.01080	
+                responses	0.01080	
+                   fungus	0.00973	
+single_nucleotide_polymorphisms	0.00973	
+      evolutionary_models	0.00865	
+                    fungi	0.00865	
+                     land	0.00865	
+              land_plants	0.00865	
+                   single	0.00865	
+              association	0.00649	
+    evolutionary_analysis	0.00649	
+     evolutionary_biology	0.00649	
+     evolutionary_ecology	0.00649	
+evolutionary_implications	0.00649	
+
+
+                  TOPIC_5	0.05129	
+
+              populations	0.09301	
+                    model	0.09008	
+         local_adaptation	0.04896	
+                   system	0.03819	
+                    rates	0.03525	
+                   social	0.03525	
+    inbreeding_depression	0.03330	
+                      sex	0.02840	
+            kin_selection	0.02742	
+                   theory	0.02253	
+                sex_ratio	0.02155	
+                 parasite	0.01861	
+                virulence	0.01861	
+        sex_determination	0.01763	
+                    major	0.01567	
+             reproduction	0.01567	
+           sex_chromosome	0.01567	
+                 pathogen	0.01372	
+           sex_allocation	0.01372	
+          sex_chromosomes	0.01372	
+                  daphnia	0.01274	
+                 dynamics	0.01176	
+                   pollen	0.01176	
+                    queen	0.01176	
+sex_biased_gene_expression	0.01176	
+             transmission	0.01176	
+                    field	0.01078	
+                 pathways	0.01078	
+     self_incompatibility	0.00980	
+           social_insects	0.00980	
+                    three	0.00980	
+                     cost	0.00882	
+                 immunity	0.00882	
+                 networks	0.00882	
+                selective	0.00882	
+               associated	0.00784	
+        self_organization	0.00784	
+                     role	0.00686	
+                     self	0.00686	
+                  factors	0.00588	
+
+
+                  TOPIC_6	0.04968	
+
+                variation	0.07682	
+    phenotypic_plasticity	0.07480	
+                dispersal	0.04246	
+           climate_change	0.03842	
+                 evidence	0.03336	
+                    plant	0.03336	
+  quantitative_trait_loci	0.03336	
+                   traits	0.03336	
+    quantitative_genetics	0.03235	
+                     leaf	0.02022	
+                    rapid	0.02022	
+               plasticity	0.01921	
+             environments	0.01719	
+                   plants	0.01719	
+            environmental	0.01618	
+               biological	0.01214	
+         invasive_species	0.01214	
+           nervous_system	0.01214	
+     phenotypic_evolution	0.01214	
+      quantitative_traits	0.01214	
+                amphibian	0.01113	
+                     loci	0.01113	
+                     time	0.01113	
+          range_expansion	0.01012	
+                 invasion	0.00911	
+ quantitative_trait_locus	0.00911	
+              correlation	0.00810	
+ developmental_plasticity	0.00810	
+     environmental_change	0.00810	
+        plant_populations	0.00810	
+quantitative_trait_locus_mapping	0.00810	
+                    space	0.00708	
+               strategies	0.00708	
+                  climate	0.00607	
+        density_dependent	0.00607	
+     environmental_stress	0.00607	
+               management	0.00607	
+    phenotypic_divergence	0.00607	
+        phenotypic_traits	0.00607	
+      phenotypic_variance	0.00607	
+
+
+                  TOPIC_7	0.05792	
+
+       maximum_likelihood	0.13352	
+            dna_sequences	0.05029	
+                      dna	0.04596	
+        mitochondrial_dna	0.04509	
+                 analysis	0.04076	
+             mixed_models	0.03989	
+                phylogeny	0.03989	
+                     data	0.02949	
+                     rate	0.01995	
+            phylogenetics	0.01821	
+     mitochondrial_genome	0.01735	
+                    using	0.01735	
+                    frogs	0.01561	
+                     site	0.01561	
+                        c	0.01475	
+         dna_polymorphism	0.01388	
+    mitochondrial_genomes	0.01388	
+                 deep_sea	0.01215	
+                    mtdna	0.01215	
+            phylogenomics	0.01215	
+                    trees	0.01215	
+               comparison	0.01128	
+mitochondrial_dna_sequences	0.01041	
+               angiosperm	0.00868	
+                  diptera	0.00868	
+             dna_sequence	0.00868	
+                  genomic	0.00868	
+complete_mitochondrial_genomes	0.00781	
+        dna_sequence_data	0.00781	
+            mitochondrial	0.00781	
+maximum_likelihood_positive_selection	0.00694	
+                  methods	0.00694	
+                    among	0.00608	
+                     deep	0.00608	
+                     frog	0.00608	
+          generation_time	0.00521	
+        maximum_body_size	0.00521	
+maximum_likelihood_estimation	0.00521	
+            mediterranean	0.00521	
+      mitochondrial_genes	0.00521	
+
+
+                  TOPIC_8	0.05491	
+
+               speciation	0.08872	
+       adaptive_evolution	0.07317	
+       adaptive_radiation	0.06037	
+               divergence	0.03933	
+    ecological_speciation	0.03842	
+                  species	0.03568	
+         divergence_times	0.02745	
+                  islands	0.02379	
+               ecological	0.01921	
+                    water	0.01921	
+      adaptive_divergence	0.01830	
+                     lake	0.01830	
+   threespine_stickleback	0.01830	
+                   during	0.01739	
+          darwins_finches	0.01647	
+              temperature	0.01464	
+            introgression	0.01373	
+                 adaptive	0.01281	
+        adaptive_dynamics	0.01281	
+      ecological_genetics	0.01281	
+              hybrid_zone	0.01281	
+                   across	0.01098	
+                   hybrid	0.01007	
+          incompatibility	0.01007	
+                    plant	0.01007	
+        hybrid_speciation	0.00915	
+         hybrid_sterility	0.00915	
+interspecific_competition	0.00915	
+                phenotype	0.00915	
+     sympatric_speciation	0.00915	
+                       de	0.00824	
+ecological_character_displacement	0.00824	
+    ecological_divergence	0.00733	
+        floral_morphology	0.00733	
+                sympatric	0.00641	
+adaptive_protein_evolution	0.00550	
+adaptive_radiation_constraint	0.00550	
+        adaptive_response	0.00550	
+       adaptive_responses	0.00550	
+          divergence_time	0.00550	
+
+
+                  TOPIC_9	0.05099	
+
+            hybridization	0.04728	
+          gene_expression	0.03940	
+      molecular_evolution	0.03743	
+                gene_flow	0.03546	
+                     gene	0.03448	
+      concerted_evolution	0.03152	
+     convergent_evolution	0.02955	
+      molecular_phylogeny	0.02758	
+                 sequence	0.02660	
+                   insect	0.02463	
+          molecular_clock	0.02364	
+                  genomes	0.01872	
+              pollination	0.01872	
+                molecular	0.01774	
+                     high	0.01675	
+  historical_biogeography	0.01577	
+                        s	0.01577	
+       sequence_alignment	0.01577	
+            nuclear_genes	0.01380	
+            sequence_data	0.01380	
+                 receptor	0.01281	
+                 rodentia	0.01281	
+                    coral	0.01183	
+              gene_family	0.01183	
+  molecular_phylogenetics	0.01183	
+              neotropical	0.01183	
+      nuclear_dna_content	0.01183	
+            ribosomal_dna	0.01183	
+            ribosomal_rna	0.01183	
+      ribosomal_rna_genes	0.01183	
+       sequence_evolution	0.01183	
+                 software	0.01084	
+                    alpha	0.00986	
+         gene_duplication	0.00986	
+                 genomics	0.00986	
+             organization	0.00887	
+  relaxed_molecular_clock	0.00887	
+              differences	0.00789	
+                 lineages	0.00789	
+           molecular_data	0.00789	
+
+
+                 TOPIC_10	0.04065	
+
+                evolution	0.19521	
+                     fish	0.04325	
+                 dynamics	0.03090	
+            north_america	0.02719	
+                   fishes	0.02472	
+              hymenoptera	0.02472	
+                    niche	0.02349	
+                 marchine	0.02101	
+                        1	0.01978	
+                     bone	0.01978	
+                  habitat	0.01978	
+               mechanisms	0.01854	
+                    trait	0.01607	
+                  1_alpha	0.01484	
+           north_american	0.01484	
+                   plants	0.01484	
+                      use	0.01484	
+             differential	0.01360	
+                  general	0.01360	
+                   matrix	0.01360	
+                     mice	0.01360	
+                 cnidaria	0.01237	
+               coleoptera	0.01237	
+                crustacea	0.01237	
+                dominance	0.01237	
+                   intron	0.01237	
+                  pacific	0.01237	
+                teleostei	0.01237	
+             distribution	0.01113	
+               likelihood	0.01113	
+                     loss	0.01113	
+                  related	0.01113	
+                 variable	0.01113	
+          cryptic_species	0.00990	
+                   forest	0.00990	
+              habitat_use	0.00990	
+                     role	0.00990	
+               freshwater	0.00866	
+                potential	0.00866	
+   central_nervous_system	0.00742	
+
+
+                 TOPIC_11	0.05079	
+
+         sexual_selection	0.13447	
+              mate_choice	0.04351	
+                     male	0.04055	
+        sexual_dimorphism	0.03165	
+                  effects	0.02374	
+   sexual_size_dimorphism	0.02374	
+                   female	0.01978	
+                   growth	0.01879	
+                   sexual	0.01879	
+                  signals	0.01879	
+           male_sterility	0.01781	
+      poecilia_reticulata	0.01781	
+                   visual	0.01583	
+     basal_metabolic_rate	0.01484	
+                     bird	0.01484	
+      sexual_reproduction	0.01385	
+                    color	0.01286	
+                divergent	0.01187	
+     geographic_variation	0.01187	
+                      how	0.01187	
+                      not	0.01187	
+            sexual_system	0.01187	
+                   colour	0.01089	
+                 conflict	0.00990	
+     correlated_evolution	0.00990	
+              growth_rate	0.00990	
+              communities	0.00891	
+                  sensory	0.00891	
+       color_polymorphism	0.00792	
+             color_vision	0.00792	
+           colour_pattern	0.00792	
+      colour_polymorphism	0.00792	
+                   lizard	0.00792	
+           passerine_bird	0.00792	
+                  plumage	0.00792	
+          sexual_conflict	0.00792	
+                    small	0.00792	
+                   common	0.00693	
+                     post	0.00693	
+                   signal	0.00693	
+
+
+                 TOPIC_12	0.05907	
+
+                phylogeny	0.06631	
+      molecular_evolution	0.04931	
+multiple_sequence_alignment	0.04846	
+                  species	0.04846	
+                    genus	0.04676	
+      molecular_phylogeny	0.03911	
+    phylogenetic_analysis	0.03911	
+                inference	0.03146	
+                 taxonomy	0.02296	
+       bayesian_inference	0.02211	
+           phylogeography	0.02211	
+          chloroplast_dna	0.02041	
+                     tree	0.02041	
+              systematics	0.01956	
+                molecular	0.01786	
+    phylogenetic_analyses	0.01701	
+phylogenetic_relationships	0.01701	
+                 bayesian	0.01616	
+                 multiple	0.01616	
+             biodiversity	0.01361	
+   phylogenetic_inference	0.01191	
+    molecular_systematics	0.01021	
+    nuclear_ribosomal_dna	0.01021	
+             phylogenetic	0.01021	
+      bayesian_estimation	0.00851	
+          molecular_clock	0.00851	
+       phylogenetic_trees	0.00851	
+                       sp	0.00851	
+     species_interactions	0.00851	
+               estimation	0.00766	
+      nuclear_dna_content	0.00766	
+                  biology	0.00681	
+chloroplast_dna_sequence_data	0.00681	
+    phylogenetic_position	0.00681	
+      phylogenetic_signal	0.00681	
+                processes	0.00596	
+         based_coloration	0.00511	
+           bayesian_model	0.00511	
+bayesian_phylogenetic_inference	0.00511	
+                  beetles	0.00511	
+
+
+                 TOPIC_13	0.05486	
+
+                body_size	0.09704	
+             biogeography	0.04486	
+          diversification	0.03022	
+    phylogenetic_analysis	0.02930	
+                  mammals	0.02655	
+                      new	0.02381	
+phylogenetic_relationships	0.02381	
+                   fossil	0.02015	
+            fossil_record	0.01832	
+                radiation	0.01740	
+                     rule	0.01740	
+  long_distance_dispersal	0.01649	
+                     homo	0.01466	
+             phylogenetic	0.01374	
+                new_world	0.01282	
+              new_zealand	0.01282	
+      phylogenetic_signal	0.01282	
+              pleistocene	0.01282	
+            south_america	0.01282	
+                allometry	0.01191	
+                  lizards	0.01191	
+                   larvae	0.01099	
+             colonization	0.01008	
+                 skeleton	0.01008	
+             architecture	0.00916	
+                     asia	0.00916	
+                 mammalia	0.00916	
+           south_american	0.00916	
+                     body	0.00825	
+                  feeding	0.00825	
+             implications	0.00825	
+                     long	0.00825	
+                 temporal	0.00825	
+               body_shape	0.00733	
+           control_region	0.00733	
+                  eastern	0.00733	
+        eastern_australia	0.00733	
+                long_term	0.00733	
+          mass_extinction	0.00733	
+            middle_eocene	0.00733	
+
+
+                 TOPIC_14	0.04918	
+
+  drosophila_melanogaster	0.08169	
+               drosophila	0.06331	
+                   genome	0.06229	
+                sequences	0.04595	
+                evolution	0.03983	
+         flowering_plants	0.03472	
+                   family	0.03166	
+       parallel_evolution	0.02656	
+    transposable_elements	0.02656	
+     arabidopsis_thaliana	0.02451	
+               chromosome	0.02451	
+                  history	0.02451	
+                    level	0.02451	
+              genome_size	0.02247	
+               asteraceae	0.02043	
+                   number	0.01839	
+                 insights	0.01737	
+               polyploidy	0.01737	
+            transcriptome	0.01737	
+       genome_duplication	0.01635	
+              genome_wide	0.01635	
+    transcription_factors	0.01430	
+             y_chromosome	0.01430	
+              angiosperms	0.01328	
+              chromosomal	0.01328	
+           flowering_time	0.01226	
+                   africa	0.01124	
+              arabidopsis	0.01124	
+                 elements	0.01124	
+                      fly	0.01022	
+               sequencing	0.01022	
+     transcription_factor	0.01022	
+                  changes	0.00818	
+          genome_sequence	0.00818	
+                 parallel	0.00716	
+            transcription	0.00716	
+                  asexual	0.00614	
+  genome_wide_association	0.00614	
+                  plastid	0.00614	
+     asexual_reproduction	0.00409	
+
+
+                 TOPIC_15	0.05315	
+
+             life_history	0.08126	
+   life_history_evolution	0.04252	
+                    birds	0.03497	
+             reproductive	0.03497	
+        sperm_competition	0.03402	
+   reproductive_isolation	0.02646	
+              competition	0.02363	
+               hypothesis	0.02268	
+      life_history_traits	0.02268	
+                    group	0.02174	
+                      non	0.01985	
+          atlantic_salmon	0.01702	
+                     life	0.01702	
+            mating_system	0.01702	
+     reproductive_success	0.01702	
+           mating_systems	0.01513	
+                    sperm	0.01418	
+                 behavior	0.01324	
+              clutch_size	0.01324	
+                   mating	0.01229	
+                predation	0.01229	
+gc_biased_gene_conversion	0.01135	
+  intraspecific_variation	0.01135	
+               life_cycle	0.01135	
+reproductive_isolation_ecological_speciation	0.01135	
+                   silene	0.01135	
+                  spatial	0.01135	
+                  quality	0.01040	
+    fertilization_success	0.00946	
+               gc_content	0.00946	
+           predation_risk	0.00946	
+                    study	0.00946	
+               aggression	0.00851	
+reproductive_character_displacement	0.00851	
+          atlantic_forest	0.00757	
+     clutch_size_egg_mass	0.00757	
+          immune_function	0.00757	
+                   length	0.00757	
+       mating_preferences	0.00757	
+  reproductive_strategies	0.00757	
+
+
+                 TOPIC_16	0.05722	
+
+       positive_selection	0.07548	
+                  protein	0.05091	
+         amino_acid_sites	0.04213	
+                     gene	0.04213	
+               resistance	0.04126	
+          gene_expression	0.03862	
+                 proteins	0.03511	
+                gene_flow	0.03336	
+                   stress	0.02195	
+         gene_duplication	0.02107	
+              gene_family	0.01932	
+ saccharomyces_cerevisiae	0.01932	
+    functional_divergence	0.01756	
+               functional	0.01668	
+                     cell	0.01581	
+                    cells	0.01581	
+                mammalian	0.01493	
+               expression	0.01405	
+               stem_cells	0.01405	
+                    cross	0.01317	
+                evolution	0.01317	
+     protein_coding_genes	0.01317	
+                   effect	0.01230	
+     herbicide_resistance	0.01230	
+                    yeast	0.01230	
+               amino_acid	0.01054	
+codon_substitution_models	0.01054	
+                     heat	0.01054	
+        protein_evolution	0.01054	
+      secondary_structure	0.01054	
+                    mouse	0.00966	
+    functional_morphology	0.00878	
+          gene_conversion	0.00878	
+                    codon	0.00791	
+              information	0.00791	
+                secondary	0.00791	
+                  binding	0.00703	
+              codon_model	0.00703	
+       expressed_sequence	0.00703	
+            gene_transfer	0.00703	
+
+
+                 TOPIC_17	0.04185	
+
+                evolution	0.17639	
+                  complex	0.05280	
+                    human	0.05280	
+          differentiation	0.03841	
+             polymorphism	0.03721	
+             human_genome	0.02641	
+                  reveals	0.02641	
+                   within	0.02641	
+                    shape	0.02521	
+                structure	0.02281	
+      balancing_selection	0.02161	
+                        2	0.01681	
+          human_evolution	0.01681	
+                  ancient	0.01561	
+              convergence	0.01441	
+           reconstruction	0.01441	
+             x_chromosome	0.01441	
+              constraints	0.01321	
+            communication	0.01201	
+                  systems	0.01201	
+                frequency	0.01081	
+       human_y_chromosome	0.01081	
+                      low	0.01081	
+                   stable	0.01081	
+              ancient_dna	0.00961	
+      frequency_dependent	0.00961	
+            modern_humans	0.00961	
+                  pathway	0.00961	
+             contemporary	0.00841	
+              perspective	0.00841	
+         allele_frequency	0.00721	
+                community	0.00721	
+       dental_development	0.00721	
+              duplication	0.00721	
+             melanogaster	0.00721	
+                  origins	0.00721	
+               preference	0.00721	
+     regulatory_mutations	0.00721	
+           shape_analysis	0.00721	
+                   allele	0.00601	
+
+
+                 TOPIC_18	0.04667	
+
+                evolution	0.06779	
+               morphology	0.06134	
+          diversification	0.04520	
+  geometric_morphometrics	0.04090	
+                    early	0.03552	
+                formation	0.03229	
+                  ecology	0.02906	
+                 primates	0.02368	
+            morphological	0.02260	
+                      two	0.02260	
+               characters	0.02045	
+                  anatomy	0.01723	
+              east_africa	0.01723	
+                  surface	0.01723	
+  morphological_evolution	0.01507	
+                structure	0.01507	
+               vertebrate	0.01507	
+                     diet	0.01400	
+                  african	0.01292	
+ancestral_character_states	0.01292	
+                     aves	0.01292	
+         early_cretaceous	0.01292	
+                    light	0.01292	
+                    china	0.01077	
+     comparative_genomics	0.01077	
+                different	0.01077	
+morphological_integration	0.01077	
+                ancestral	0.00969	
+ancestral_state_reconstruction	0.00969	
+   biased_gene_conversion	0.00969	
+                discovery	0.00969	
+             implications	0.00969	
+      comparative_methods	0.00862	
+                  cranial	0.00862	
+                 ontogeny	0.00862	
+                geometric	0.00754	
+                    lower	0.00754	
+              salamanders	0.00754	
+                    skull	0.00754	
+   biased_gene_expression	0.00647	
+
+
+                 TOPIC_19	0.04060	
+
+                evolution	0.25853	
+                     size	0.06928	
+                 behavior	0.04454	
+               trade_offs	0.03217	
+            parental_care	0.02970	
+                    brain	0.02599	
+              lepidoptera	0.02599	
+                trade_off	0.02475	
+                behaviour	0.01857	
+              butterflies	0.01857	
+                   beetle	0.01733	
+                butterfly	0.01486	
+           classification	0.01486	
+                   larval	0.01486	
+         maternal_effects	0.01486	
+                 response	0.01486	
+                  insects	0.01362	
+                      egg	0.01238	
+                 g_matrix	0.01238	
+                     song	0.01238	
+               brain_size	0.00991	
+               coloration	0.00991	
+                 egg_size	0.00991	
+                      eye	0.00991	
+                g_protein	0.00991	
+                offspring	0.00991	
+                  defense	0.00867	
+                 maternal	0.00867	
+                taxonomic	0.00867	
+      egg_size_dimorphism	0.00743	
+      maternal_investment	0.00743	
+          size_dimorphism	0.00743	
+             wing_pattern	0.00743	
+               wing_shape	0.00743	
+                condition	0.00620	
+egg_size_life_history_evolution	0.00620	
+                infection	0.00496	
+            maternal_care	0.00496	
+        maternal_transfer	0.00496	
+           nervous_system	0.00496	
+
+
+                 TOPIC_20	0.04958	
+
+               adaptation	0.09926	
+         escherichia_coli	0.06482	
+   experimental_evolution	0.05875	
+                  fitness	0.04862	
+     beneficial_mutations	0.03647	
+                  between	0.03343	
+                epistasis	0.02938	
+                     host	0.02837	
+              coevolution	0.02634	
+    antibiotic_resistance	0.02432	
+                  disease	0.02229	
+              environment	0.02026	
+                mutations	0.01723	
+                    virus	0.01723	
+ antagonistic_coevolution	0.01621	
+    deleterious_mutations	0.01621	
+              maintenance	0.01520	
+             consequences	0.01318	
+                dependent	0.01318	
+           identification	0.01318	
+            host_parasite	0.01216	
+               host_plant	0.01216	
+term_experimental_evolution	0.01216	
+             interactions	0.01115	
+                   island	0.01115	
+              pseudomonas	0.01014	
+                       co	0.00912	
+    fitness_kin_selection	0.00912	
+host_parasite_interactions	0.00912	
+               pleiotropy	0.00912	
+                     cost	0.00811	
+            disease_virus	0.00811	
+        fitness_landscape	0.00811	
+ fluctuating_environments	0.00811	
+      island_biogeography	0.00811	
+              fluctuating	0.00710	
+              interaction	0.00710	
+                isolation	0.00710	
+                  support	0.00710	
+                 tropical	0.00710	
+
+

@@ -1,0 +1,2200 @@
+                  TOPIC_1	0.01876	
+
+               speciation	0.46034	
+          cryptic_species	0.10338	
+                      two	0.05641	
+                    black	0.03762	
+        cryptic_diversity	0.03762	
+       cryptic_speciation	0.03762	
+        cryptic_variation	0.02823	
+                    fruit	0.02823	
+                 breeding	0.02353	
+          breeding_system	0.01883	
+cryptic_species_species_delimitation	0.01883	
+             nuclear_loci	0.01883	
+cryptic_cryptic_diversity	0.01414	
+       cryptic_divergence	0.00944	
+ relationships_signatures	0.00944	
+                 strategy	0.00944	
+     sympatric_speciation	0.00944	
+                 bacteria	0.00474	
+                  cryptic	0.00474	
+                   family	0.00474	
+                      non	0.00474	
+                  nuclear	0.00474	
+            relationships	0.00474	
+              systematics	0.00474	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+
+
+                  TOPIC_2	0.01585	
+
+                phylogeny	0.30576	
+                 dynamics	0.08899	
+                    south	0.08899	
+                 american	0.06676	
+                    trees	0.06676	
+                      age	0.04452	
+           american_fruit	0.03341	
+     extreme_environments	0.03341	
+                  extreme	0.02785	
+           american_black	0.02229	
+           macroevolution	0.02229	
+          microsatellites	0.02229	
+                   signal	0.02229	
+                      snp	0.02229	
+       thermal_adaptation	0.02229	
+                      can	0.01673	
+extreme_mitochondrial_nuclear	0.01673	
+      american_freshwater	0.01117	
+                  effects	0.00561	
+                  thermal	0.00561	
+                   across	0.00006	
+               adaptation	0.00006	
+                 adaptive	0.00006	
+          adaptive_animal	0.00006	
+      adaptive_divergence	0.00006	
+ adaptive_diversification	0.00006	
+        adaptive_dynamics	0.00006	
+       adaptive_evolution	0.00006	
+       adaptive_landscape	0.00006	
+       adaptive_mutations	0.00006	
+       adaptive_radiation	0.00006	
+          adaptive_shifts	0.00006	
+    adaptive_trait_plants	0.00006	
+                    among	0.00006	
+                 analyses	0.00006	
+                 analysis	0.00006	
+                ancestral	0.00006	
+ancestral_state_reconstruction	0.00006	
+                   animal	0.00006	
+         animal_diversity	0.00006	
+
+
+                  TOPIC_3	0.03030	
+
+      population_genetics	0.33151	
+     population_structure	0.11634	
+      population_genomics	0.10471	
+               population	0.06400	
+population_genetic_structure	0.05237	
+      population_dynamics	0.03492	
+          population_size	0.02911	
+                  spatial	0.02329	
+population_differentiation	0.01748	
+    population_divergence	0.01748	
+       population_genetic	0.01748	
+         spatial_temporal	0.01748	
+       population_genomic	0.01166	
+population_community_dynamics	0.00875	
+population_conservation_genetics	0.00875	
+population_genetic_analysis	0.00875	
+  population_genetic_data	0.00875	
+population_genetic_phylogeographic	0.00875	
+population_genomic_insights	0.00875	
+ population_genomic_study	0.00875	
+spatial_temporal_variation	0.00875	
+                 deep_sea	0.00584	
+                different	0.00584	
+                 elements	0.00584	
+               likelihood	0.00584	
+     population_diversity	0.00584	
+     population_expansion	0.00584	
+        population_growth	0.00584	
+     population_isolation	0.00584	
+      population_specific	0.00584	
+        spatial_variation	0.00584	
+                    fruit	0.00294	
+                inference	0.00294	
+                   across	0.00003	
+               adaptation	0.00003	
+                 adaptive	0.00003	
+          adaptive_animal	0.00003	
+      adaptive_divergence	0.00003	
+ adaptive_diversification	0.00003	
+        adaptive_dynamics	0.00003	
+
+
+                  TOPIC_4	0.02158	
+
+    ecological_speciation	0.12253	
+                   models	0.09395	
+   ecological_niche_model	0.07354	
+      ecological_genetics	0.06537	
+               ecological	0.06129	
+ecological_niche_modeling	0.04904	
+                  fitness	0.04496	
+      ecological_genomics	0.04087	
+                    study	0.04087	
+                bacterial	0.03271	
+                selective	0.02862	
+  ecological_niche_models	0.02454	
+        ecological_traits	0.02454	
+    ecological_adaptation	0.01637	
+      ecological_dynamics	0.01637	
+  ecological_evolutionary	0.01637	
+         ecological_niche	0.01637	
+                    field	0.01637	
+                    ratio	0.01637	
+                 strategy	0.01637	
+          time_estimation	0.01637	
+                    coral	0.01229	
+ horizontal_gene_transfer	0.01229	
+                     time	0.01229	
+ecological_differentiation	0.00821	
+    ecological_divergence	0.00821	
+        ecological_shifts	0.00821	
+ecological_specialization	0.00821	
+     environmental_change	0.00821	
+              neotropical	0.00821	
+                   plants	0.00821	
+              qtl_mapping	0.00821	
+                    rates	0.00821	
+              cooperation	0.00412	
+             delimitation	0.00412	
+            environmental	0.00412	
+               signatures	0.00412	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+
+
+                  TOPIC_5	0.01700	
+
+              coevolution	0.16075	
+                  rna_seq	0.13483	
+                 sequence	0.09336	
+                  network	0.07781	
+                mutualism	0.06226	
+                      rna	0.04152	
+           rna_sequencing	0.04152	
+               salamander	0.04152	
+                mutations	0.03634	
+             polymorphism	0.03634	
+                 conflict	0.02597	
+coevolution_host_parasite_interaction	0.02079	
+coevolution_host_parasite_red	0.02079	
+    coevolution_mutualism	0.02079	
+                dispersal	0.02079	
+                inference	0.02079	
+  coevolution_host_shifts	0.01560	
+   coevolution_adaptation	0.01042	
+         coevolution_host	0.01042	
+       coevolution_theory	0.01042	
+          rna_cooperation	0.01042	
+            sequence_data	0.01042	
+      sequence_divergence	0.01042	
+                     data	0.00524	
+               mechanisms	0.00524	
+                     mice	0.00524	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+
+
+                  TOPIC_6	0.01770	
+
+                selection	0.54258	
+         invasive_species	0.12946	
+                 multiple	0.06476	
+                 invasive	0.02991	
+     sympatric_speciation	0.02991	
+                  between	0.01996	
+          invasive_plants	0.01996	
+                sympatric	0.01498	
+transcriptome_gene_expression	0.01498	
+                      two	0.01498	
+      invasive_mechanisms	0.01000	
+           invasive_plant	0.01000	
+                sea_level	0.01000	
+        sympatric_species	0.01000	
+ transcriptome_sequencing	0.01000	
+                diversity	0.00503	
+                    genes	0.00503	
+                  habitat	0.00503	
+                      sea	0.00503	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+
+
+                  TOPIC_7	0.02290	
+
+   reproductive_isolation	0.28475	
+     arabidopsis_thaliana	0.14624	
+             reproductive	0.06929	
+reproductive_isolation_speciation	0.06929	
+                 evidence	0.06160	
+              qtl_mapping	0.04621	
+              arabidopsis	0.03467	
+  reproductive_allocation	0.03082	
+reproductive_isolation_between_two	0.03082	
+  qtl_ecological_genomics	0.02312	
+reproductive_isolation_hybrid	0.02312	
+   reproductive_character	0.01543	
+reproductive_isolation_rapid_radiation	0.01543	
+               freshwater	0.01158	
+              interaction	0.01158	
+               preference	0.01158	
+                      qtl	0.01158	
+reproductive_isolation_between	0.01158	
+                    basis	0.00773	
+          freshwater_fish	0.00773	
+        freshwater_fishes	0.00773	
+           metabolic_rate	0.00773	
+                  mimicry	0.00773	
+     reproductive_biology	0.00773	
+                   change	0.00389	
+                    genes	0.00389	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+                      age	0.00004	
+
+
+                  TOPIC_8	0.02387	
+
+                    plant	0.11447	
+      comparative_methods	0.09601	
+                   floral	0.08494	
+              pollination	0.06648	
+plant_animal_interactions	0.05541	
+comparative_phylogeography	0.03695	
+comparative_transcriptomics	0.03695	
+            plant_defense	0.03695	
+ plant_insect_interaction	0.03326	
+      balancing_selection	0.02957	
+              comparative	0.02588	
+     comparative_analysis	0.02218	
+       floral_development	0.02218	
+ plant_animal_interaction	0.02218	
+            plant_biology	0.02218	
+plant_insect_interactions	0.02218	
+          transcriptomics	0.02218	
+                      age	0.01480	
+     comparative_genetics	0.01480	
+        comparative_study	0.01480	
+            floral_traits	0.01480	
+           identification	0.01480	
+             plant_growth	0.01480	
+comparative_geometric_morphometrics	0.01111	
+floral_pigmentation_patterns	0.01111	
+   plant_animal_mutualism	0.01111	
+      plant_mating_system	0.01111	
+     plant_sex_allocation	0.01111	
+     comparative_approach	0.00742	
+      comparative_genomic	0.00742	
+         floral_evolution	0.00742	
+        floral_morphology	0.00742	
+      floral_pigmentation	0.00742	
+        microbial_ecology	0.00742	
+           plant_breeding	0.00742	
+            plant_genetic	0.00742	
+            plant_species	0.00742	
+                microbial	0.00373	
+                   across	0.00004	
+               adaptation	0.00004	
+
+
+                  TOPIC_9	0.02678	
+
+         sexual_selection	0.25011	
+        sexual_dimorphism	0.09875	
+              development	0.07571	
+                     male	0.05268	
+          sexual_conflict	0.04610	
+                  between	0.03294	
+      frequency_dependent	0.03294	
+                   sexual	0.03294	
+        sperm_competition	0.03294	
+                frequency	0.02636	
+frequency_dependent_selection	0.01978	
+             male_fitness	0.01978	
+    male_male_competition	0.01978	
+        sexual_trait_size	0.01978	
+                    sperm	0.01978	
+               sperm_size	0.01978	
+              between_two	0.01319	
+                   fishes	0.01319	
+         male_competition	0.01319	
+   male_male_interactions	0.00990	
+         male_mate_choice	0.00990	
+     male_mate_preference	0.00990	
+      sexual_asexual_host	0.00990	
+   sexual_trait_evolution	0.00990	
+sperm_offspring_reproduction	0.00990	
+        between_sympatric	0.00661	
+        frequency_changes	0.00661	
+                male_like	0.00661	
+                male_male	0.00661	
+              male_traits	0.00661	
+       sexual_competition	0.00661	
+       sexual_development	0.00661	
+            sexual_signal	0.00661	
+            sperm_through	0.00661	
+              sperm_trait	0.00661	
+                      how	0.00332	
+                   across	0.00003	
+               adaptation	0.00003	
+                 adaptive	0.00003	
+          adaptive_animal	0.00003	
+
+
+                 TOPIC_10	0.01981	
+
+      molecular_evolution	0.27571	
+                    genes	0.14677	
+                molecular	0.06674	
+      molecular_phylogeny	0.06229	
+                  protein	0.04895	
+                 modeling	0.03117	
+                  defense	0.02672	
+       molecular_analysis	0.02672	
+                     test	0.02672	
+          molecular_basis	0.01783	
+  molecular_morphological	0.01783	
+  molecular_phylogenetics	0.01783	
+        phenotype_mapping	0.01783	
+     regulatory_evolution	0.01783	
+         temperature_size	0.01783	
+   threespine_stickleback	0.01783	
+molecular_morphological_fossil	0.01338	
+                mutualism	0.01338	
+             reproductive	0.01338	
+reproductive_isolation_hybrid	0.01338	
+                    drive	0.00894	
+      regulatory_elements	0.00894	
+          regulatory_gene	0.00894	
+                      seq	0.00894	
+              temperature	0.00894	
+                     long	0.00449	
+          phylogeographic	0.00449	
+               regulatory	0.00449	
+                    state	0.00449	
+                  testing	0.00449	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+
+
+                 TOPIC_11	0.01814	
+
+                  complex	0.12632	
+                symbiosis	0.10203	
+            transcriptome	0.08261	
+                   theory	0.07775	
+                  biology	0.07290	
+        natural_selection	0.06804	
+                    major	0.05833	
+   transcriptome_analysis	0.03890	
+                  fitness	0.03404	
+                    using	0.03404	
+                    aphid	0.02919	
+transcriptome_genotyping_sequencing	0.02919	
+transcriptome_local_adaptation	0.02919	
+             colonization	0.02433	
+           aphid_symbiont	0.01947	
+             nuclear_loci	0.01947	
+symbiosis_insect_bacteria	0.01462	
+          aphid_symbiosis	0.00976	
+                 distance	0.00976	
+        natural_variation	0.00976	
+    structured_population	0.00976	
+   structured_populations	0.00976	
+      symbiosis_mutualism	0.00976	
+      transcriptome_based	0.00976	
+    using_microsatellites	0.00976	
+                  defense	0.00491	
+                  natural	0.00491	
+                  nuclear	0.00491	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+
+
+                 TOPIC_12	0.02730	
+
+next_generation_sequencing	0.39692	
+                     wild	0.06134	
+                 approach	0.05166	
+             whole_genome	0.05166	
+                    genus	0.03230	
+          next_generation	0.03230	
+                sunflower	0.03230	
+                  genomes	0.02262	
+                    shape	0.01939	
+   whole_genome_phylogeny	0.01939	
+                wild_mice	0.01939	
+           wild_sunflower	0.01939	
+                     loci	0.01617	
+next_generation_genomic_data	0.01294	
+next_generation_sequencing_genomics	0.01294	
+next_generation_sequencing_sequence	0.01294	
+                   versus	0.01294	
+       wild_hybridization	0.01294	
+         wild_populations	0.01294	
+                     next	0.00971	
+ next_generation_analysis	0.00971	
+next_generation_ancestral	0.00971	
+  next_generation_genomes	0.00971	
+ next_generation_sequence	0.00971	
+                     test	0.00971	
+ whole_genome_duplication	0.00971	
+  whole_genome_sequencing	0.00971	
+whole_mitochondrial_genomes	0.00971	
+whole_transcriptome_sequencing	0.00971	
+   evolutionary_inference	0.00649	
+                 genetics	0.00649	
+                      non	0.00649	
+                   across	0.00003	
+               adaptation	0.00003	
+                 adaptive	0.00003	
+          adaptive_animal	0.00003	
+      adaptive_divergence	0.00003	
+ adaptive_diversification	0.00003	
+        adaptive_dynamics	0.00003	
+       adaptive_evolution	0.00003	
+
+
+                 TOPIC_13	0.02651	
+
+        natural_selection	0.20607	
+                      non	0.08644	
+    quantitative_genetics	0.07314	
+  quantitative_trait_loci	0.05985	
+       parallel_evolution	0.05321	
+    genotyping_sequencing	0.03991	
+         local_adaptation	0.03991	
+      quantitative_traits	0.03991	
+                 function	0.03327	
+                diversity	0.02994	
+      natural_populations	0.02662	
+                 parallel	0.02330	
+          natural_history	0.01997	
+                  protein	0.01997	
+   quantitative_variation	0.01997	
+      dependent_bacterial	0.01333	
+        parallel_patterns	0.01333	
+quantitative_trait_experimental_evolution	0.01333	
+                 approach	0.01000	
+             evolutionary	0.01000	
+genotyping_population_genetics	0.01000	
+natural_asexual_populations	0.01000	
+quantitative_population_genomics	0.01000	
+quantitative_trait_analysis	0.01000	
+           specialization	0.01000	
+     evolutionary_biology	0.00668	
+    evolutionary_dynamics	0.00668	
+    evolutionary_genetics	0.00668	
+    evolutionary_genomics	0.00668	
+           function_black	0.00668	
+               mechanisms	0.00668	
+        natural_variation	0.00668	
+             quantitative	0.00668	
+   quantitative_character	0.00668	
+  quantitative_expression	0.00668	
+                 adaptive	0.00336	
+             architecture	0.00336	
+                dependent	0.00336	
+                  lizards	0.00336	
+                  natural	0.00336	
+
+
+                 TOPIC_14	0.01805	
+
+               adaptation	0.55639	
+                 genomics	0.27822	
+   threespine_stickleback	0.06837	
+               trade_offs	0.01957	
+generation_ecological_evolutionary	0.01469	
+              association	0.00981	
+             conservation	0.00493	
+                   across	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+                ancestral	0.00005	
+ancestral_state_reconstruction	0.00005	
+                   animal	0.00005	
+         animal_diversity	0.00005	
+             animal_model	0.00005	
+                     ants	0.00005	
+                    aphid	0.00005	
+           aphid_symbiont	0.00005	
+          aphid_symbiosis	0.00005	
+                 approach	0.00005	
+              arabidopsis	0.00005	
+     arabidopsis_thaliana	0.00005	
+             architecture	0.00005	
+
+
+                 TOPIC_15	0.02184	
+
+                evolution	0.31064	
+   experimental_evolution	0.26627	
+                body_size	0.08878	
+                  daphnia	0.04845	
+                     coli	0.03231	
+            bacteriophage	0.02828	
+                exploring	0.02828	
+                   common	0.02424	
+        experimental_test	0.02424	
+coli_bacteriophage_novelty_host_parasite	0.02021	
+             experimental	0.02021	
+             animal_model	0.00811	
+      bacteriophage_virus	0.00811	
+               body_shape	0.00811	
+ experimental_coevolution	0.00811	
+         experimental_fly	0.00811	
+                 networks	0.00811	
+                   animal	0.00407	
+                 behavior	0.00407	
+                     body	0.00407	
+                    drift	0.00407	
+               individual	0.00407	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+                      age	0.00004	
+                 american	0.00004	
+           american_black	0.00004	
+      american_freshwater	0.00004	
+           american_fruit	0.00004	
+
+
+                 TOPIC_16	0.01823	
+
+    phenotypic_plasticity	0.35769	
+                    birds	0.14021	
+                  mammals	0.09671	
+                     role	0.08704	
+               phenotypic	0.05804	
+    phenotypic_divergence	0.04838	
+     phenotypic_variation	0.03871	
+phenotypic_diversification	0.01938	
+phenotypic_genetic_trade_offs	0.01938	
+                 distance	0.01455	
+                   choice	0.00971	
+          deep_divergence	0.00971	
+                 deep_sea	0.00971	
+                exploring	0.00971	
+          phenotypic_data	0.00971	
+     phenotypic_evolution	0.00971	
+     phenotypic_radiation	0.00971	
+                   traits	0.00488	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+                ancestral	0.00005	
+
+
+                 TOPIC_17	0.02052	
+
+                  ecology	0.13314	
+                     host	0.07733	
+                  disease	0.06445	
+host_pathogen_interactions	0.06445	
+                  methods	0.06445	
+              systematics	0.06445	
+              host_shifts	0.06015	
+            host_parasite	0.04298	
+                 parasite	0.04298	
+host_parasite_interaction	0.03868	
+                 host_use	0.03439	
+         animal_diversity	0.01722	
+        science_education	0.01722	
+systematics_phylogenetics	0.01722	
+                  genomes	0.01292	
+   host_parasite_predator	0.01292	
+host_pathogen_interaction	0.01292	
+                 pathogen	0.01292	
+        science_deep_time	0.01292	
+                    among	0.00863	
+                   animal	0.00863	
+        disease_evolution	0.00863	
+             distribution	0.00863	
+        host_colonization	0.00863	
+           host_community	0.00863	
+         host_competition	0.00863	
+              host_growth	0.00863	
+        host_interactions	0.00863	
+            host_pathogen	0.00863	
+            host_resource	0.00863	
+    parasite_distribution	0.00863	
+         parasite_fitness	0.00863	
+        pathogen_symbiont	0.00863	
+                  science	0.00863	
+   systematics_morphology	0.00863	
+                character	0.00434	
+                   choice	0.00434	
+          microsatellites	0.00434	
+                   theory	0.00434	
+                   across	0.00004	
+
+
+                 TOPIC_18	0.01937	
+
+                 analysis	0.17284	
+              heat_stress	0.10009	
+                   insect	0.08190	
+                     rate	0.06826	
+                      gut	0.04552	
+                    drive	0.03642	
+                   growth	0.03642	
+               hypothesis	0.03642	
+        coral_reef_fishes	0.02733	
+         gene_duplication	0.02733	
+                gene_flow	0.02733	
+                  insects	0.02733	
+                    coral	0.02278	
+                     long	0.02278	
+                    scale	0.02278	
+coral_whole_transcriptome_sequencing	0.01823	
+               freshwater	0.01823	
+          freshwater_fish	0.01823	
+             gut_symbiont	0.01823	
+          insect_bacteria	0.01823	
+insect_bacteria_symbiosis_mutualism	0.01823	
+          coral_reef_fish	0.01369	
+freshwater_gene_expression	0.01369	
+               coral_reef	0.00914	
+               gene_trees	0.00914	
+                     heat	0.00914	
+         insect_bacterial	0.00914	
+         insect_evolution	0.00914	
+       insect_interaction	0.00914	
+                 dynamics	0.00459	
+                 networks	0.00459	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+
+
+                 TOPIC_19	0.02096	
+
+         local_adaptation	0.26064	
+           climate_change	0.24383	
+                  climate	0.06309	
+         climate_gradient	0.05889	
+                   across	0.04207	
+                gradients	0.02946	
+         genome_evolution	0.02526	
+                   versus	0.02526	
+             environments	0.02106	
+            climate_niche	0.01686	
+              climate_snp	0.01686	
+genome_evolutionary_dynamics	0.01265	
+     genome_wide_analysis	0.01265	
+  genome_wide_association	0.01265	
+          incompatibility	0.01265	
+   local_mate_competition	0.01265	
+   local_social_structure	0.01265	
+                  testing	0.01265	
+        climate_gradients	0.00845	
+       climate_hypothesis	0.00845	
+         comparative_data	0.00845	
+              genome_wide	0.00845	
+                 resource	0.00845	
+      resource_allocation	0.00845	
+                    aphid	0.00425	
+                   genome	0.00425	
+                    local	0.00425	
+           macroevolution	0.00425	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+
+
+                 TOPIC_20	0.01849	
+
+                   hybrid	0.13820	
+              hybrid_zone	0.08580	
+                     high	0.07627	
+               inbreeding	0.07627	
+            mitochondrial	0.06674	
+              environment	0.06198	
+                   method	0.04769	
+        mitochondrial_dna	0.04769	
+                  history	0.04292	
+                   impact	0.04292	
+hybrid_zone_hybridization	0.02863	
+mitochondrial_nuclear_incompatibility	0.02863	
+                 assembly	0.02387	
+                character	0.01910	
+   mitochondrial_sequence	0.01910	
+                   family	0.01434	
+hybrid_zone_phylogeographic	0.01434	
+mitochondrial_dna_nuclear	0.01434	
+mitochondrial_nuclear_coevolution	0.01434	
+         gene_duplication	0.00958	
+          gene_expression	0.00958	
+                    genes	0.00958	
+           hybrid_fitness	0.00958	
+   hybrid_incompatibility	0.00958	
+        hybrid_speciation	0.00958	
+     mitochondrial_genome	0.00958	
+     reproductive_biology	0.00958	
+                    color	0.00481	
+            hybridization	0.00481	
+            undergraduate	0.00481	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+
+
+                 TOPIC_21	0.01576	
+
+             biogeography	0.21804	
+                dispersal	0.13420	
+       landscape_genetics	0.11184	
+          range_expansion	0.08949	
+                    range	0.06713	
+                 taxonomy	0.05595	
+                landscape	0.03918	
+       landscape_genomics	0.02241	
+                   system	0.02241	
+                   effect	0.01682	
+                 genetics	0.01682	
+landscape_adaptive_landscape	0.01682	
+                    level	0.01682	
+          microsatellites	0.01682	
+          landscape_level	0.01123	
+         local_adaptation	0.01123	
+     range_reconstruction	0.01123	
+               range_size	0.01123	
+                    rates	0.01123	
+                   signal	0.01123	
+                     test	0.01123	
+                 bacteria	0.00565	
+                 genomics	0.00565	
+                      how	0.00565	
+               speciation	0.00565	
+                   across	0.00006	
+               adaptation	0.00006	
+                 adaptive	0.00006	
+          adaptive_animal	0.00006	
+      adaptive_divergence	0.00006	
+ adaptive_diversification	0.00006	
+        adaptive_dynamics	0.00006	
+       adaptive_evolution	0.00006	
+       adaptive_landscape	0.00006	
+       adaptive_mutations	0.00006	
+       adaptive_radiation	0.00006	
+          adaptive_shifts	0.00006	
+    adaptive_trait_plants	0.00006	
+                      age	0.00006	
+                 american	0.00006	
+
+
+                 TOPIC_22	0.02131	
+
+                  species	0.25634	
+     species_delimitation	0.13232	
+                   within	0.10339	
+             species_tree	0.09098	
+                radiation	0.04551	
+              stickleback	0.04551	
+     species_interactions	0.03311	
+          species_complex	0.02484	
+species_tree_phylogenetics	0.02484	
+            species_trees	0.02484	
+                    color	0.02071	
+       color_polymorphism	0.01658	
+        species_radiation	0.01658	
+                selective	0.01244	
+  species_tree_coalescent	0.01244	
+  species_tree_estimation	0.01244	
+  species_tree_freshwater	0.01244	
+species_tree_reconstruction	0.01244	
+                 specific	0.01244	
+          color_evolution	0.00831	
+           color_patterns	0.00831	
+           color_seasonal	0.00831	
+        habitat_isolation	0.00831	
+            species_level	0.00831	
+              species_two	0.00831	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+                      age	0.00004	
+                 american	0.00004	
+
+
+                 TOPIC_23	0.02193	
+
+             evolutionary	0.16476	
+     evolutionary_ecology	0.10450	
+                 mutation	0.08843	
+    evolutionary_dynamics	0.04022	
+     evolutionary_history	0.04022	
+            mutation_rate	0.04022	
+               assessment	0.03218	
+                dependent	0.03218	
+    evolutionary_genomics	0.03218	
+      evolutionary_theory	0.03218	
+                    scale	0.03218	
+   structured_populations	0.03218	
+    evolutionary_genetics	0.02415	
+                body_size	0.01611	
+             conservation	0.01611	
+    evolutionary_analyses	0.01611	
+       evolutionary_rates	0.01611	
+    structured_population	0.01611	
+              cooperation	0.01209	
+evolutionary_novelty_rate	0.01209	
+evolutionary_response_selection	0.01209	
+                     body	0.00808	
+          body_morphology	0.00808	
+               body_shape	0.00808	
+    conservation_genetics	0.00808	
+      evolutionary_change	0.00808	
+ evolutionary_convergence	0.00808	
+   evolutionary_inference	0.00808	
+     evolutionary_novelty	0.00808	
+      evolutionary_origin	0.00808	
+    evolutionary_response	0.00808	
+     mutation_coevolution	0.00808	
+         mutation_daphnia	0.00808	
+           mutation_rates	0.00808	
+                predation	0.00808	
+               simulation	0.00808	
+              environment	0.00406	
+             experimental	0.00406	
+                    human	0.00406	
+                 maternal	0.00406	
+
+
+                 TOPIC_24	0.02017	
+
+               divergence	0.16605	
+ horizontal_gene_transfer	0.15731	
+                tree_life	0.11363	
+ancestral_state_reconstruction	0.09178	
+                   fossil	0.07431	
+                     size	0.06120	
+          time_estimation	0.06120	
+                     time	0.05683	
+                       co	0.03499	
+                     tree	0.03499	
+      horizontal_transfer	0.01752	
+                ancestral	0.01315	
+                different	0.01315	
+                metabolic	0.01315	
+            bacteriophage	0.00878	
+               horizontal	0.00878	
+      horizontal_symbiont	0.00878	
+                    among	0.00441	
+                     high	0.00441	
+             interactions	0.00441	
+                   method	0.00441	
+                 sequence	0.00441	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+                      age	0.00004	
+                 american	0.00004	
+           american_black	0.00004	
+      american_freshwater	0.00004	
+           american_fruit	0.00004	
+
+
+                 TOPIC_25	0.01902	
+
+          diversification	0.25941	
+                   traits	0.12047	
+                  lineage	0.07878	
+            morphological	0.06489	
+  morphological_evolution	0.06489	
+             biodiversity	0.06026	
+     asexual_reproduction	0.04636	
+                     like	0.04173	
+                  novelty	0.02320	
+                variation	0.02320	
+  morphological_variation	0.01857	
+asexual_structured_populations	0.01394	
+                 symbiont	0.01394	
+          asexual_daphnia	0.00931	
+        asexual_evolution	0.00931	
+       asexual_simulation	0.00931	
+          breeding_system	0.00931	
+              duplication	0.00931	
+   morphological_approach	0.00931	
+  morphological_character	0.00931	
+morphological_differentiation	0.00931	
+ morphological_plasticity	0.00931	
+      population_genomics	0.00931	
+         population_level	0.00931	
+   threespine_stickleback	0.00931	
+            developmental	0.00468	
+             distribution	0.00468	
+               population	0.00468	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+
+
+                 TOPIC_26	0.01893	
+
+                  mimulus	0.12103	
+                 response	0.09776	
+               likelihood	0.06984	
+                    niche	0.06519	
+                    rates	0.06519	
+                phenotype	0.05588	
+         geographic_range	0.03727	
+       response_selection	0.03727	
+                     data	0.03262	
+              temperature	0.03262	
+                 deep_sea	0.02797	
+                   island	0.02331	
+                   number	0.02331	
+      geographic_distance	0.01866	
+     geographic_variation	0.01866	
+          niche_evolution	0.01866	
+   geographic_range_niche	0.01401	
+    geographic_range_size	0.01401	
+  temperature_host_shifts	0.01401	
+                   change	0.00935	
+       community_assembly	0.00935	
+                     deep	0.00935	
+          deep_divergence	0.00935	
+             deep_history	0.00935	
+          deep_sequencing	0.00935	
+                deep_time	0.00935	
+  geographic_distribution	0.00935	
+      island_biogeography	0.00935	
+              island_like	0.00935	
+           niche_modeling	0.00935	
+             niche_models	0.00935	
+              number_loci	0.00935	
+    phenotype_competition	0.00935	
+        phenotype_mapping	0.00935	
+          phenotype_niche	0.00935	
+          sexual_conflict	0.00935	
+         sexual_selection	0.00935	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+
+
+                 TOPIC_27	0.02061	
+
+       adaptive_radiation	0.11120	
+                 adaptive	0.10265	
+                  genomic	0.09837	
+      adaptive_divergence	0.05989	
+       adaptive_landscape	0.05134	
+       genomic_divergence	0.05134	
+                  islands	0.05134	
+                  through	0.04707	
+        natural_selection	0.04279	
+       adaptive_evolution	0.03424	
+       genomic_signatures	0.03424	
+     genomic_architecture	0.02569	
+         genomic_patterns	0.02569	
+         genomic_analyses	0.01714	
+         genomic_approach	0.01714	
+    adaptive_trait_plants	0.01287	
+               freshwater	0.01287	
+          adaptive_animal	0.00859	
+ adaptive_diversification	0.00859	
+        adaptive_dynamics	0.00859	
+       adaptive_mutations	0.00859	
+          adaptive_shifts	0.00859	
+        freshwater_fishes	0.00859	
+            genomic_basis	0.00859	
+             genomic_data	0.00859	
+         genomic_evidence	0.00859	
+         genomic_insights	0.00859	
+           genomic_traits	0.00859	
+    genotyping_sequencing	0.00859	
+                 multiple	0.00859	
+          natural_history	0.00859	
+      natural_temperature	0.00859	
+                    range	0.00859	
+        regulatory_genome	0.00859	
+          transcriptomics	0.00859	
+                exploring	0.00432	
+                    south	0.00432	
+                   across	0.00004	
+               adaptation	0.00004	
+                      age	0.00004	
+
+
+                 TOPIC_28	0.02863	
+
+                gene_flow	0.26472	
+          gene_expression	0.22163	
+                     gene	0.09544	
+         gene_duplication	0.08005	
+                gene_tree	0.04928	
+              gene_family	0.03696	
+                 analysis	0.02773	
+  gene_regulatory_network	0.01850	
+            gene_transfer	0.01850	
+               gene_trees	0.01850	
+             gene_daphnia	0.01234	
+gene_function_population_divergence	0.01234	
+landscape_adaptive_landscape_coevolution	0.01234	
+            gene_rad_like	0.00926	
+ gene_regulatory_networks	0.00926	
+                landscape	0.00926	
+                 patterns	0.00926	
+     evolutionary_novelty	0.00619	
+           gene_evolution	0.00619	
+            gene_function	0.00619	
+              gene_models	0.00619	
+           gene_mutations	0.00619	
+            gene_networks	0.00619	
+          gene_regulatory	0.00619	
+       landscape_genetics	0.00619	
+       landscape_genomics	0.00619	
+                   common	0.00311	
+               salamander	0.00311	
+                    state	0.00311	
+                   across	0.00003	
+               adaptation	0.00003	
+                 adaptive	0.00003	
+          adaptive_animal	0.00003	
+      adaptive_divergence	0.00003	
+ adaptive_diversification	0.00003	
+        adaptive_dynamics	0.00003	
+       adaptive_evolution	0.00003	
+       adaptive_landscape	0.00003	
+       adaptive_mutations	0.00003	
+       adaptive_radiation	0.00003	
+
+
+                 TOPIC_29	0.01770	
+
+                    model	0.28376	
+                      new	0.19417	
+            phylogenomics	0.14937	
+       bayesian_inference	0.13942	
+                 bayesian	0.04982	
+  bayesian_phylogeography	0.02991	
+                 bacteria	0.01498	
+bayesian_phylogenetic_inference	0.01498	
+                ancestral	0.01000	
+              bacteria_co	0.01000	
+        bayesian_approach	0.01000	
+   bayesian_phylogenetics	0.01000	
+         individual_based	0.01000	
+    phenotypic_plasticity	0.01000	
+               polyploidy	0.01000	
+               phenotypic	0.00503	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+ancestral_state_reconstruction	0.00005	
+                   animal	0.00005	
+         animal_diversity	0.00005	
+
+
+                 TOPIC_30	0.02581	
+
+        genetic_variation	0.18439	
+              populations	0.13318	
+                  genetic	0.11270	
+            genetic_basis	0.08197	
+            genetic_drift	0.07514	
+        genetic_structure	0.06831	
+     genetic_architecture	0.04783	
+        genetic_diversity	0.04783	
+                    among	0.04100	
+  genetic_differentiation	0.02735	
+  genetic_incompatibility	0.02052	
+       genetic_adaptation	0.01369	
+           genetic_change	0.01369	
+       genetic_divergence	0.01369	
+    genetic_environmental	0.01369	
+genetic_regulatory_network	0.01028	
+           color_patterns	0.00686	
+         genetic_conflict	0.00686	
+             genetic_data	0.00686	
+       genetic_ecological	0.00686	
+      genetic_interaction	0.00686	
+     genetic_interactions	0.00686	
+       genetic_mechanisms	0.00686	
+             architecture	0.00345	
+                   growth	0.00345	
+                   hybrid	0.00345	
+                 pathogen	0.00345	
+                   across	0.00003	
+               adaptation	0.00003	
+                 adaptive	0.00003	
+          adaptive_animal	0.00003	
+      adaptive_divergence	0.00003	
+ adaptive_diversification	0.00003	
+        adaptive_dynamics	0.00003	
+       adaptive_evolution	0.00003	
+       adaptive_landscape	0.00003	
+       adaptive_mutations	0.00003	
+       adaptive_radiation	0.00003	
+          adaptive_shifts	0.00003	
+    adaptive_trait_plants	0.00003	
+
+
+                 TOPIC_31	0.01744	
+
+                 behavior	0.20722	
+                 genetics	0.08090	
+                   plants	0.07584	
+               multilocus	0.06068	
+              neotropical	0.05563	
+        microbial_ecology	0.05058	
+                      snp	0.05058	
+         individual_based	0.03037	
+                microbial	0.02531	
+     chromosome_evolution	0.02026	
+individual_specialization	0.02026	
+                   island	0.02026	
+      island_biogeography	0.02026	
+                sea_level	0.02026	
+                     ants	0.01521	
+chromosome_number_evolution	0.01521	
+               individual	0.01521	
+   individual_based_model	0.01521	
+             interactions	0.01521	
+                      sea	0.01521	
+      chromosome_insights	0.01016	
+        chromosome_number	0.01016	
+    chromosome_resistance	0.01016	
+          chromosome_size	0.01016	
+          chromosome_wide	0.01016	
+              cooperation	0.01016	
+       cryptic_speciation	0.01016	
+        cryptic_variation	0.01016	
+      island_colonization	0.01016	
+               island_fly	0.01016	
+           metabolic_rate	0.01016	
+      microbial_variation	0.01016	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+
+
+                 TOPIC_32	0.02422	
+
+          trait_evolution	0.13826	
+                 patterns	0.12371	
+                   across	0.08370	
+phylogenetic_comparative_methods	0.07643	
+   phylogenetic_inference	0.07279	
+      phylogenetic_signal	0.07279	
+             phylogenetic	0.06915	
+phylogenetic_relationships	0.04369	
+    phylogenetic_analysis	0.02914	
+phylogenetic_comparative_method	0.02186	
+       trait_life_history	0.02186	
+                  nuclear	0.01459	
+ phylogenetic_comparative	0.01459	
+  phylogenetic_estimation	0.01459	
+        phylogenetic_test	0.01459	
+phylogenetic_comparative_analysis	0.01095	
+phylogenetic_comparative_data	0.01095	
+phylogenetic_relationships_among	0.01095	
+      balancing_selection	0.00731	
+             nuclear_loci	0.00731	
+    phylogenetic_analyses	0.00731	
+       phylogenetic_model	0.00731	
+       phylogenetic_niche	0.00731	
+       phylogenetic_scale	0.00731	
+        phylogenetic_tree	0.00731	
+    pigmentation_patterns	0.00731	
+                    trait	0.00731	
+                 trait_co	0.00731	
+    trait_diversification	0.00731	
+               trait_rate	0.00731	
+             trait_shifts	0.00731	
+          trait_tolerance	0.00731	
+                 approach	0.00367	
+                 bacteria	0.00367	
+                     flow	0.00367	
+                    human	0.00367	
+             pigmentation	0.00367	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+
+
+                 TOPIC_33	0.01682	
+
+            phylogenetics	0.35100	
+                    using	0.24100	
+               sequencing	0.08386	
+       community_assembly	0.04196	
+      divergent_selection	0.04196	
+                divergent	0.03148	
+                tree_life	0.02100	
+using_next_generation_sequencing	0.02100	
+                community	0.01577	
+                     tree	0.01577	
+  tree_life_phylogenetics	0.01577	
+        using_genome_wide	0.01577	
+            using_rna_seq	0.01577	
+      using_environmental	0.01053	
+    using_microsatellites	0.01053	
+            wide_analysis	0.01053	
+                character	0.00529	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+                ancestral	0.00005	
+ancestral_state_reconstruction	0.00005	
+
+
+                 TOPIC_34	0.01946	
+
+  geometric_morphometrics	0.10869	
+         rapid_adaptation	0.07247	
+             reproduction	0.06795	
+             flower_color	0.06342	
+                predation	0.05437	
+    rapid_diversification	0.04531	
+flower_color_polymorphism	0.04079	
+                 predator	0.04079	
+                  reveals	0.04079	
+                    rapid	0.03626	
+                     mice	0.03173	
+                  between	0.02721	
+          rapid_evolution	0.02721	
+rapid_molecular_evolution	0.02721	
+                geometric	0.02268	
+                    shape	0.02268	
+             distribution	0.01815	
+ between_parasite_fitness	0.01363	
+                   flower	0.01363	
+rapid_adaptive_divergence	0.01363	
+ rapid_adaptive_radiation	0.01363	
+ rapid_genetic_adaptation	0.01363	
+       rapid_life_history	0.01363	
+reveals_cryptic_distribution	0.01363	
+           between_island	0.00910	
+      between_populations	0.00910	
+       between_preference	0.00910	
+             between_wild	0.00910	
+               expression	0.00910	
+             flower_shape	0.00910	
+             interactions	0.00910	
+           rapid_parasite	0.00910	
+          rapid_sympatric	0.00910	
+       reveals_signatures	0.00910	
+              shape_drift	0.00910	
+                dispersal	0.00457	
+                  ecology	0.00457	
+                     long	0.00457	
+                   across	0.00005	
+               adaptation	0.00005	
+
+
+                 TOPIC_35	0.02087	
+
+             life_history	0.40526	
+                     life	0.07602	
+    life_history_strategy	0.07602	
+               expression	0.07180	
+                    based	0.05069	
+                 teaching	0.04225	
+                 analyses	0.02959	
+        science_education	0.02537	
+life_history_ancestral_state_reconstruction	0.02115	
+                    drift	0.01693	
+               physiology	0.01693	
+based_species_delimitation	0.01271	
+                   common	0.01271	
+      life_history_traits	0.01271	
+                structure	0.01271	
+             environments	0.00848	
+        life_biodiversity	0.00848	
+        life_reproduction	0.00848	
+                    rapid	0.00848	
+          rapid_evolution	0.00848	
+      relationships_among	0.00848	
+                  science	0.00848	
+     science_biodiversity	0.00848	
+                   fishes	0.00426	
+            relationships	0.00426	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+          adaptive_shifts	0.00004	
+    adaptive_trait_plants	0.00004	
+                      age	0.00004	
+                 american	0.00004	
+
+
+                 TOPIC_36	0.01682	
+
+            hybridization	0.22529	
+                  species	0.15196	
+     species_delimitation	0.14672	
+       isolation_distance	0.07339	
+                isolation	0.05767	
+                    using	0.04720	
+                    genus	0.03148	
+    isolation_environment	0.03148	
+             species_tree	0.03148	
+          species_complex	0.02100	
+using_ancestral_state_reconstruction	0.02100	
+          differentiation	0.01577	
+    isolation_between_two	0.01577	
+species_species_delimitation	0.01577	
+                 symbiont	0.01577	
+          species_mimulus	0.01053	
+          species_species	0.01053	
+            species_trees	0.01053	
+    using_microsatellites	0.01053	
+                   signal	0.00529	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+
+
+                 TOPIC_37	0.01841	
+
+                  effects	0.20109	
+                     fish	0.11014	
+               morphology	0.09100	
+         maternal_effects	0.08621	
+                 learning	0.05270	
+   reproductive_isolation	0.04792	
+                  endemic	0.04313	
+       offspring_conflict	0.03834	
+                 maternal	0.03356	
+      resource_allocation	0.02877	
+                     data	0.02398	
+           offspring_size	0.01919	
+reproductive_isolation_between_two	0.01919	
+                 resource	0.01919	
+learning_undergraduate_teaching	0.01441	
+                offspring	0.01441	
+reproductive_isolation_human	0.01441	
+     convergent_evolution	0.00962	
+      learning_assessment	0.00962	
+                 modeling	0.00962	
+              populations	0.00962	
+                reef_fish	0.00962	
+              reef_fishes	0.00962	
+  reproductive_allocation	0.00962	
+     resource_competition	0.00962	
+        resource_teaching	0.00962	
+                 conflict	0.00483	
+                     reef	0.00483	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+
+
+                 TOPIC_38	0.02131	
+
+                      sex	0.09098	
+        sex_determination	0.09098	
+                sex_ratio	0.07445	
+                  habitat	0.04138	
+                     seed	0.04138	
+                  changes	0.03725	
+                  genetic	0.03311	
+           sex_allocation	0.03311	
+             interactions	0.02898	
+                    field	0.02484	
+     genetic_architecture	0.02484	
+            genetic_basis	0.02484	
+        genetic_variation	0.02484	
+ sex_chromosome_evolution	0.02484	
+             sex_specific	0.02484	
+               mechanisms	0.02071	
+       genetic_adaptation	0.01658	
+         genetic_analysis	0.01658	
+  genetic_differentiation	0.01658	
+                 genetics	0.01658	
+  geographic_distribution	0.01658	
+              habitat_use	0.01658	
+sex_determination_reef_coral	0.01658	
+                      two	0.01658	
+               geographic	0.01244	
+  habitat_isolation_field	0.01244	
+habitat_natural_selection	0.01244	
+     sex_genomic_evidence	0.01244	
+        sex_species_level	0.01244	
+                character	0.00831	
+         genetic_conflict	0.00831	
+            genetic_drift	0.00831	
+       genetic_mechanisms	0.00831	
+       genetic_signatures	0.00831	
+        genetic_structure	0.00831	
+     geographic_variation	0.00831	
+             habitat_fish	0.00831	
+        habitat_structure	0.00831	
+              hybrid_zone	0.00831	
+              number_loci	0.00831	
+
+
+                 TOPIC_39	0.01682	
+
+                      dna	0.15196	
+                     data	0.14148	
+               coalescent	0.12577	
+                migration	0.09958	
+                  rad_seq	0.09434	
+                      rad	0.05767	
+             pigmentation	0.03672	
+              convergence	0.03148	
+                different	0.03148	
+           rad_sequencing	0.03148	
+             environments	0.02100	
+                variation	0.02100	
+             colonization	0.01577	
+mitochondrial_genome_assembly	0.01577	
+   convergence_morphology	0.01053	
+     environments_daphnia	0.01053	
+     mitochondrial_genome	0.01053	
+    mitochondrial_genomes	0.01053	
+    mitochondrial_nuclear	0.01053	
+             polymorphism	0.01053	
+                    study	0.01053	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+
+
+                 TOPIC_40	0.01744	
+
+            introgression	0.13648	
+     convergent_evolution	0.13142	
+               adaptation	0.09100	
+                  history	0.08090	
+               extinction	0.07584	
+                    novel	0.07584	
+    phenotypic_plasticity	0.06068	
+                      use	0.04553	
+       novel_environments	0.03037	
+               phenotypic	0.03037	
+                 gradient	0.02531	
+           novel_function	0.02026	
+            novel_nuclear	0.02026	
+          temporal_change	0.02026	
+       temporal_variation	0.02026	
+                 specific	0.01521	
+temporal_spatial_variation	0.01521	
+     convergent_character	0.01016	
+               novel_host	0.01016	
+    phenotypic_divergence	0.01016	
+                 temporal	0.01016	
+         temporal_spatial	0.01016	
+               convergent	0.00510	
+                   across	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+
+
+                 TOPIC_41	0.01479	
+
+                variation	0.32166	
+                  fitness	0.21446	
+                   origin	0.08939	
+                   effect	0.05366	
+           specialization	0.04770	
+       color_polymorphism	0.03579	
+          color_evolution	0.02388	
+                   family	0.02388	
+                     long	0.01793	
+                    color	0.01197	
+    color_diversification	0.01197	
+           color_patterns	0.01197	
+           color_response	0.01197	
+                   female	0.01197	
+              interaction	0.01197	
+               morphology	0.01197	
+                   traits	0.01197	
+                     wide	0.01197	
+                 modeling	0.00602	
+                   across	0.00006	
+               adaptation	0.00006	
+                 adaptive	0.00006	
+          adaptive_animal	0.00006	
+      adaptive_divergence	0.00006	
+ adaptive_diversification	0.00006	
+        adaptive_dynamics	0.00006	
+       adaptive_evolution	0.00006	
+       adaptive_landscape	0.00006	
+       adaptive_mutations	0.00006	
+       adaptive_radiation	0.00006	
+          adaptive_shifts	0.00006	
+    adaptive_trait_plants	0.00006	
+                      age	0.00006	
+                 american	0.00006	
+           american_black	0.00006	
+      american_freshwater	0.00006	
+           american_fruit	0.00006	
+                    among	0.00006	
+                 analyses	0.00006	
+                 analysis	0.00006	
+
+
+                 TOPIC_42	0.01629	
+
+              competition	0.11903	
+               plasticity	0.09199	
+                tolerance	0.09199	
+                   beetle	0.08658	
+               trade_offs	0.07577	
+                  mapping	0.05413	
+                  thermal	0.05413	
+                  between	0.04332	
+               hypothesis	0.03250	
+       thermal_adaptation	0.03250	
+       thermal_physiology	0.03250	
+      between_populations	0.02169	
+           thermal_stress	0.02169	
+                    trade	0.02169	
+                      sea	0.01628	
+         between_breeding	0.01087	
+         between_parasite	0.01087	
+             between_reef	0.01087	
+            between_trees	0.01087	
+              development	0.01087	
+                  extreme	0.01087	
+                  history	0.01087	
+          incompatibility	0.01087	
+                inference	0.01087	
+                   marine	0.01087	
+              marine_fish	0.01087	
+           reconstruction	0.01087	
+           thermal_change	0.01087	
+                     fish	0.00546	
+                mutations	0.00546	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+
+
+                 TOPIC_43	0.01858	
+
+                evolution	0.41729	
+                     ants	0.07117	
+                   social	0.06643	
+           social_insects	0.04746	
+   undergraduate_teaching	0.04746	
+             interactions	0.04272	
+               morphology	0.04272	
+       social_cooperation	0.03798	
+undergraduate_life_science_education	0.03798	
+         social_structure	0.01901	
+               speciation	0.01901	
+    undergraduate_biology	0.01901	
+             distribution	0.01427	
+               assessment	0.00953	
+                body_size	0.00953	
+                  endemic	0.00953	
+          social_behavior	0.00953	
+       social_environment	0.00953	
+         social_evolution	0.00953	
+            undergraduate	0.00953	
+                      seq	0.00479	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+
+
+                 TOPIC_44	0.01955	
+
+  drosophila_melanogaster	0.18030	
+               drosophila	0.16678	
+     behavioral_isolation	0.06313	
+                 insights	0.06313	
+    drosophila_adaptation	0.04511	
+                 seasonal	0.04511	
+               polyploidy	0.04060	
+                    virus	0.04060	
+      balancing_selection	0.03610	
+                variation	0.03159	
+behavioral_isolation_between	0.02708	
+            developmental	0.02708	
+ developmental_plasticity	0.02708	
+   drosophila_mate_choice	0.02708	
+       behavioral_ecology	0.01807	
+    behavioral_plasticity	0.01807	
+    drosophila_physiology	0.01807	
+                     wild	0.01807	
+behavioral_isolation_speciation	0.01356	
+developmental_thermal_environment	0.01356	
+               behavioral	0.00906	
+   developmental_networks	0.00906	
+    drosophila_drosophila	0.00906	
+        drosophila_hybrid	0.00906	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+
+
+                 TOPIC_45	0.01656	
+
+                diversity	0.15438	
+                      how	0.11713	
+                   marine	0.10649	
+            recombination	0.10117	
+           macroevolution	0.09052	
+            environmental	0.04795	
+       diversity_dynamics	0.04263	
+     environmental_change	0.03198	
+              marine_fish	0.03198	
+              reef_fishes	0.03198	
+               adaptation	0.02134	
+  environmental_gradients	0.02134	
+             environments	0.02134	
+      marine_biodiversity	0.02134	
+diversity_population_differentiation	0.01602	
+                   impact	0.01602	
+                body_size	0.01070	
+              convergence	0.01070	
+  diversity_morphological	0.01070	
+     diversity_polyploidy	0.01070	
+                 networks	0.01070	
+             melanogaster	0.00537	
+                  mimulus	0.00537	
+                     reef	0.00537	
+                selective	0.00537	
+                   across	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+
+
+                 TOPIC_46	0.01268	
+
+               resistance	0.13905	
+                    under	0.11125	
+                epistasis	0.10430	
+                   during	0.08345	
+                   stress	0.08345	
+                      can	0.07651	
+          differentiation	0.04176	
+       metabolic_networks	0.04176	
+                 elements	0.03481	
+             polymorphism	0.03481	
+                   change	0.02786	
+               morphology	0.02786	
+                    study	0.02786	
+elements_genotyping_sequencing	0.02092	
+            determination	0.01397	
+         epistasis_island	0.01397	
+                metabolic	0.01397	
+                 modeling	0.01397	
+                     high	0.00702	
+                   mating	0.00702	
+                 temporal	0.00702	
+                   across	0.00007	
+               adaptation	0.00007	
+                 adaptive	0.00007	
+          adaptive_animal	0.00007	
+      adaptive_divergence	0.00007	
+ adaptive_diversification	0.00007	
+        adaptive_dynamics	0.00007	
+       adaptive_evolution	0.00007	
+       adaptive_landscape	0.00007	
+       adaptive_mutations	0.00007	
+       adaptive_radiation	0.00007	
+          adaptive_shifts	0.00007	
+    adaptive_trait_plants	0.00007	
+                      age	0.00007	
+                 american	0.00007	
+           american_black	0.00007	
+      american_freshwater	0.00007	
+           american_fruit	0.00007	
+                    among	0.00007	
+
+
+                 TOPIC_47	0.01700	
+
+                evolution	0.70504	
+                education	0.06744	
+                    human	0.05707	
+                   system	0.02597	
+                       co	0.02079	
+coli_bacteriophage_novelty	0.01560	
+education_science_education	0.01560	
+               signatures	0.01042	
+                     zone	0.01042	
+       zone_hybridization	0.01042	
+                   island	0.00524	
+                    model	0.00524	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+                 analysis	0.00005	
+                ancestral	0.00005	
+ancestral_state_reconstruction	0.00005	
+                   animal	0.00005	
+         animal_diversity	0.00005	
+             animal_model	0.00005	
+                     ants	0.00005	
+                    aphid	0.00005	
+
+
+                 TOPIC_48	0.02114	
+
+                   genome	0.12926	
+              genome_wide	0.10008	
+  genome_wide_association	0.10008	
+    transposable_elements	0.10008	
+         genome_evolution	0.07507	
+                      red	0.05006	
+          genome_assembly	0.04172	
+          phylogeographic	0.03756	
+               simulation	0.03756	
+            morphometrics	0.02922	
+                    based	0.02505	
+              genome_size	0.02505	
+          genome_wide_snp	0.02505	
+           identification	0.02505	
+             transposable	0.02505	
+             biogeography	0.02088	
+      genome_architecture	0.01671	
+     genome_wide_analysis	0.01255	
+     genome_wide_patterns	0.01255	
+     genome_recombination	0.00838	
+             genome_scale	0.00838	
+               genome_snp	0.00838	
+       isolation_distance	0.00838	
+      phylogenetic_signal	0.00838	
+                selection	0.00838	
+                structure	0.00838	
+                    fruit	0.00421	
+                  methods	0.00421	
+                   within	0.00421	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+       adaptive_landscape	0.00004	
+       adaptive_mutations	0.00004	
+       adaptive_radiation	0.00004	
+
+
+                 TOPIC_49	0.02343	
+
+              mate_choice	0.20311	
+            mating_system	0.11286	
+                   mating	0.08277	
+          mating_behavior	0.06021	
+                  mimicry	0.06021	
+       assortative_mating	0.05269	
+        female_preference	0.04517	
+                   female	0.03764	
+                     mate	0.03764	
+                      fly	0.03012	
+         sexual_selection	0.03012	
+                   shifts	0.02260	
+            female_choice	0.01508	
+                   fishes	0.01508	
+        mating_preference	0.01508	
+       sexual_competition	0.01508	
+              assortative	0.01132	
+                     male	0.01132	
+    male_male_competition	0.01132	
+mating_generation_diversity	0.01132	
+      association_between	0.00756	
+          differentiation	0.00756	
+      female_interactions	0.00756	
+                  fitness	0.00756	
+                   island	0.00756	
+              male_effect	0.00756	
+          mate_preference	0.00756	
+                   sexual	0.00756	
+          sexual_conflict	0.00756	
+        sexual_dimorphism	0.00756	
+              association	0.00380	
+                    human	0.00380	
+                   across	0.00004	
+               adaptation	0.00004	
+                 adaptive	0.00004	
+          adaptive_animal	0.00004	
+      adaptive_divergence	0.00004	
+ adaptive_diversification	0.00004	
+        adaptive_dynamics	0.00004	
+       adaptive_evolution	0.00004	
+
+
+                 TOPIC_50	0.01656	
+
+           phylogeography	0.45772	
+                  lizards	0.07456	
+                  testing	0.07456	
+    conservation_genetics	0.04263	
+                liolaemus	0.04263	
+                 pathogen	0.03198	
+               speciation	0.03198	
+             conservation	0.02666	
+                expansion	0.02666	
+    conservation_genomics	0.02134	
+                   fishes	0.02134	
+        liolaemus_lizards	0.02134	
+                  islands	0.01602	
+      balancing_selection	0.01070	
+  conservation_regulatory	0.01070	
+  conservation_salamander	0.01070	
+                    level	0.01070	
+               physiology	0.00537	
+                     seed	0.00537	
+                    south	0.00537	
+                   across	0.00005	
+               adaptation	0.00005	
+                 adaptive	0.00005	
+          adaptive_animal	0.00005	
+      adaptive_divergence	0.00005	
+ adaptive_diversification	0.00005	
+        adaptive_dynamics	0.00005	
+       adaptive_evolution	0.00005	
+       adaptive_landscape	0.00005	
+       adaptive_mutations	0.00005	
+       adaptive_radiation	0.00005	
+          adaptive_shifts	0.00005	
+    adaptive_trait_plants	0.00005	
+                      age	0.00005	
+                 american	0.00005	
+           american_black	0.00005	
+      american_freshwater	0.00005	
+           american_fruit	0.00005	
+                    among	0.00005	
+                 analyses	0.00005	
+
+

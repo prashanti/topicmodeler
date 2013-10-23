@@ -1,0 +1,973 @@
+rowID	rowName	year	month	day	TITLE	DATE	SOURCE
+1	inputFiles/WOSCorpus(1)	2013	6	22	APE-Type Non-LTR Retrotransposons of Multicellular Organisms Encode Virus-Like 2A Oligopeptide Sequences, Which Mediate Translational Recoding during Protein Synthesis	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+2	inputFiles/WOSCorpus(2)	2013	6	22	Endocrine phenotype, reproductive success and survival in the great tit, Parus major	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+3	inputFiles/WOSCorpus(3)	2013	6	22	Age-dependent female responses to a male ejaculate signal alter demographic opportunities for selection	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+4	inputFiles/WOSCorpus(4)	2013	6	22	Evolution of recombination rates in a multi-locus, haploid-selection, symmetric-viability model	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+5	inputFiles/WOSCorpus(5)	2013	6	22	Fossil evidence of wing shape in a stem relative of swifts and hummingbirds (Aves, Pan-Apodiformes)	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+6	inputFiles/WOSCorpus(6)	2013	6	22	Environmental drivers of demographics, habitat use, and behavior during a post-Pleistocene radiation of Bahamas mosquitofish (Gambusia hubbsi)	June 22, 2013	EVOLUTIONARY ECOLOGY
+7	inputFiles/WOSCorpus(7)	2013	6	22	Timetree of Aselloidea Reveals Species Diversification Dynamics in Groundwater	June 22, 2013	SYSTEMATIC BIOLOGY
+8	inputFiles/WOSCorpus(8)	2013	6	22	Selfish Genes and Plant Speciation	June 22, 2013	EVOLUTIONARY BIOLOGY
+9	inputFiles/WOSCorpus(9)	2013	6	22	Urban behavioural adaptation	June 22, 2013	MOLECULAR ECOLOGY
+10	inputFiles/WOSCorpus(10)	2013	6	22	Patterns of astragalar fibular facet orientation in extant and fossil primates and their evolutionary implications	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+11	inputFiles/WOSCorpus(11)	2013	6	22	The Evolution of RuBisCO Stability at the Thermal Limit of Photoautotrophy	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+12	inputFiles/WOSCorpus(12)	2013	6	22	The influence of host demography, pathogen virulence, and relationships with pathogen virulence on the evolution of pathogen transmission in a spatial context	June 22, 2013	EVOLUTIONARY ECOLOGY
+13	inputFiles/WOSCorpus(13)	2013	6	22	GENETIC HITCHHIKING AND THE DYNAMIC BUILDUP OF GENOMIC DIVERGENCE DURING SPECIATION WITH GENE FLOW	June 22, 2013	EVOLUTION
+14	inputFiles/WOSCorpus(14)	2013	6	22	The Predictive Adaptive Response: Modeling the Life-History Evolution of the Butterfly Bicyclus anynana in Seasonal Environments	June 22, 2013	AMERICAN NATURALIST
+15	inputFiles/WOSCorpus(15)	2013	6	22	Primate molecular phylogenetics in a genomic era	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+16	inputFiles/WOSCorpus(16)	2013	6	22	Biological Intuition in Alignment-Free Methods: Response to Posada	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+17	inputFiles/WOSCorpus(17)	2013	6	22	Evolution of parental incubation behaviour in dinosaurs cannot be inferred from clutch mass in birds	June 22, 2013	BIOLOGY LETTERS
+18	inputFiles/WOSCorpus(18)	2013	6	22	A simple genetic basis for complex social behaviour mediates widespread gene expression differences	June 22, 2013	MOLECULAR ECOLOGY
+19	inputFiles/WOSCorpus(19)	2013	6	22	Species tree phylogeny and character evolution in the genus Centipeda (Asteraceae): Evidence from DNA sequences from coding and non-coding loci from the plastid and nuclear genomes	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+20	inputFiles/WOSCorpus(20)	2013	6	22	A calcaneus attributable to the primitive late eocene anthropoid Proteopithecus sylviae: Phenetic affinities and phylogenetic implications	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+21	inputFiles/WOSCorpus(21)	2013	6	22	Uncovering the genetic basis of adaptive change: on the intersection of landscape genomics and theoretical population genetics	June 22, 2013	MOLECULAR ECOLOGY
+22	inputFiles/WOSCorpus(22)	2013	6	22	MITOS: Improved de Novembero metazoan mitochondrial genome annotation	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+23	inputFiles/WOSCorpus(23)	2013	6	22	A comprehensive analysis of bilaterian mitochondrial genomes and phylogeny	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+24	inputFiles/WOSCorpus(24)	2013	6	22	Phylogenetic relationship among genera of Polymorphidae (Acanthocephala), inferred from nuclear and mitochondrial gene sequences	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+25	inputFiles/WOSCorpus(25)	2013	6	22	An offer you cannot refuse: down-regulation of immunity in response to a pathogen's retaliation threat	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+26	inputFiles/WOSCorpus(26)	2013	6	22	Drift load in populations of small size and low density	June 22, 2013	HEREDITY
+27	inputFiles/WOSCorpus(27)	2013	6	22	Evolutionary divergence in acoustic signals: causes and consequences	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+28	inputFiles/WOSCorpus(28)	2013	6	22	Nuclear DNA content variation and evolution in liverworts	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+29	inputFiles/WOSCorpus(29)	2013	6	22	Phylogeography of Troglophilus (Orthoptera: Troglophilinae) based on Anatolian members of the genus: radiation of an old lineage following the Messinian	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+30	inputFiles/WOSCorpus(30)	2013	6	22	Invasive house mice facing a changing environment on the Sub-Antarctic Guillou Island (Kerguelen Archipelago)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+31	inputFiles/WOSCorpus(31)	2013	6	22	CONVERGENCE AND DIVERGENCE DURING THE ADAPTATION TO SIMILAR ENVIRONMENTS BY AN AUSTRALIAN GROUNDSEL	June 22, 2013	EVOLUTION
+32	inputFiles/WOSCorpus(32)	2013	6	22	Stress for invasion success? Temperature stress of preceding generations modifies the response to insecticide stress in an invasive pest insect	June 22, 2013	EVOLUTIONARY APPLICATIONS
+33	inputFiles/WOSCorpus(33)	2013	6	22	Adaptive introgression in animals: examples and comparison to new mutation and standing variation as sources of adaptive variation	June 22, 2013	MOLECULAR ECOLOGY
+34	inputFiles/WOSCorpus(34)	2013	6	22	A Selective Sweep across Species Boundaries in Drosophila	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+35	inputFiles/WOSCorpus(35)	2013	6	22	Shaping development through mechanical strain: the transcriptional basis of diet-induced phenotypic plasticity in a cichlid fish	June 22, 2013	MOLECULAR ECOLOGY
+36	inputFiles/WOSCorpus(36)	2013	6	22	How Did the Swiss Cheese Plant Get Its Holes?	June 22, 2013	AMERICAN NATURALIST
+37	inputFiles/WOSCorpus(37)	2013	6	22	Molecular and phytochemical evidence for the taxonomic integrity of Salix alba, S-fragilis, and their hybrid S. x rubens (Salicaceae) in mixed stands in SE Germany	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+38	inputFiles/WOSCorpus(38)	2013	6	22	Molecular phylogeny and revised classification of the haplotilapiine cichlid fishes formerly referred to as Tilapia	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+39	inputFiles/WOSCorpus(39)	2013	6	22	Triangulating the provenance of African elephants using mitochondrial DNA	June 22, 2013	EVOLUTIONARY APPLICATIONS
+40	inputFiles/WOSCorpus(40)	2013	6	22	Female life-history traits of a species pair of threespine stickleback in Mud Lake, Alaska	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+41	inputFiles/WOSCorpus(41)	2013	6	22	Homoeolog expression bias and expression level dominance in allopolyploid cotton	June 22, 2013	HEREDITY
+42	inputFiles/WOSCorpus(42)	2013	6	22	EVIDENCE FOR SELECTION ON A CHORDATE HISTOCOMPATIBILITY LOCUS	June 22, 2013	EVOLUTION
+43	inputFiles/WOSCorpus(43)	2013	6	22	Peaches and almonds: phylogeny of Prunus subg. Amygdalus (Rosaceae) based on DNA sequences and morphology	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+44	inputFiles/WOSCorpus(44)	2013	6	22	Diversification of Fijian halictine bees: Insights into a recent island radiation	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+45	inputFiles/WOSCorpus(45)	2013	6	22	COEVOLUTION AND THE ARCHITECTURE OF MUTUALISTIC NETWORKS	June 22, 2013	EVOLUTION
+46	inputFiles/WOSCorpus(46)	2013	6	22	Does the Risk of Sperm Competition Help Explain Cooperation between Reproductive Competitors? A Study in the Ocellated Wrasse (Symphodus ocellatus)	June 22, 2013	AMERICAN NATURALIST
+47	inputFiles/WOSCorpus(47)	2013	6	22	Contributions of Covariance: Decemberomposing the Components of Stochastic Population Growth in Cypripedium calceolus	June 22, 2013	AMERICAN NATURALIST
+48	inputFiles/WOSCorpus(48)	2013	6	22	Decemberoupling of taxonomic diversity and morphological disparity during Decemberline of the Cambrian trilobite family Pterocephaliidae	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+49	inputFiles/WOSCorpus(49)	2013	6	22	Indeterminate growth in long-lived freshwater turtles as a component of individual fitness	June 22, 2013	EVOLUTIONARY ECOLOGY
+50	inputFiles/WOSCorpus(50)	2013	6	22	Delayed spermatophore removal in the land snail Euhadra peliomphala	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+51	inputFiles/WOSCorpus(51)	2013	6	22	Rapidly fluctuating environments constrain coevolutionary arms races by impeding selective sweeps	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+52	inputFiles/WOSCorpus(52)	2013	6	22	Speciation in ninespine stickleback: reproductive isolation and phenotypic divergence among cryptic species of Japanese ninespine stickleback	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+53	inputFiles/WOSCorpus(53)	2013	6	22	Evolutionary History of Eukaryotic alpha-Glucosidases from the alpha-Amylase Family	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+54	inputFiles/WOSCorpus(54)	2013	6	22	CORRELATION BETWEEN ANOLIS LIZARD DEWLAP PHENOTYPE AND ENVIRONMENTAL VARIATION INDICATES ADAPTIVE DIVERGENCE OF A SIGNAL IMPORTANT TO SEXUAL SELECTION AND SPECIES RECOGNITION	June 22, 2013	EVOLUTION
+55	inputFiles/WOSCorpus(55)	2013	6	22	Evaluating the capacity of plant DNA barcodes to discriminate species of cotton (Gossypium: Malvaceae)	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+56	inputFiles/WOSCorpus(56)	2013	6	22	Limited Oxygen Availability In Utero May Constrain the Evolution of Live Birth in Reptiles	June 22, 2013	AMERICAN NATURALIST
+57	inputFiles/WOSCorpus(57)	2013	6	22	Evolution of Plant Mitochondrial Intron-Encoded Maturases: Frequent Lineage-Specific Loss and Recurrent Intracellular Transfer to the Nucleus	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+58	inputFiles/WOSCorpus(58)	2013	6	22	A new leptocleidid (Sauropterygia, Plesiosauria) from the Vectis Formation (Early Barremian-early Aptian Early Cretaceous) of the Isle of Wight and the evolution of Leptocleididae, a controversial clade	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+59	inputFiles/WOSCorpus(59)	2013	6	22	Recurrent functional divergence of early tetrapod keratins in amphibian toe pads and mammalian hair	June 22, 2013	BIOLOGY LETTERS
+60	inputFiles/WOSCorpus(60)	2013	6	22	New Approaches to the Biogeography and Areas of Endemism of Red Oaks (Quercus L., Section Lobatae)	June 22, 2013	SYSTEMATIC BIOLOGY
+61	inputFiles/WOSCorpus(61)	2013	6	22	Pleiotropy of FRIGIDA enhances the potential for multivariate adaptation	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+62	inputFiles/WOSCorpus(62)	2013	6	22	Variation in habitat connectivity generates positive correlations between species and genetic diversity in a metacommunity	June 22, 2013	MOLECULAR ECOLOGY
+63	inputFiles/WOSCorpus(63)	2013	6	22	Playing to an audience: the social environment influences aggression and victory displays	June 22, 2013	BIOLOGY LETTERS
+64	inputFiles/WOSCorpus(64)	2013	6	22	Pheromone Evolution, Reproductive Genes, and Comparative Transcriptomics in Mediterranean Earthworms (Annelida, Oligochaeta, Hormogastridae)	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+65	inputFiles/WOSCorpus(65)	2013	6	22	Proximity to agriculture is correlated with pesticide tolerance: evidence for the evolution of amphibian resistance to modern pesticides	June 22, 2013	EVOLUTIONARY APPLICATIONS
+66	inputFiles/WOSCorpus(66)	2013	6	22	A revised phylogeny of Antilopini (Bovidae, Artiodactyla) using combined mitochondrial and nuclear genes	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+67	inputFiles/WOSCorpus(67)	2013	6	22	Efficient Sequencing of Anuran mtDNAs and a Mitogenomic Exploration of the Phylogeny and Evolution of Frogs	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+68	inputFiles/WOSCorpus(68)	2013	6	22	Diplospory and obligate apomixis in Miconia albicans (Miconieae, Melastomataceae) and an embryological comparison with its sexual congener M-chamissois	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+69	inputFiles/WOSCorpus(69)	2013	6	22	Interacting selection diversifies warning signals in a polytypic frog: an examination with the strawberry poison frog	June 22, 2013	EVOLUTIONARY ECOLOGY
+70	inputFiles/WOSCorpus(70)	2013	6	22	On evolutionary explanations of cognitive biases	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+71	inputFiles/WOSCorpus(71)	2013	6	22	driftsel: an R package for detecting signals of natural selection in quantitative traits	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+72	inputFiles/WOSCorpus(72)	2013	6	22	An extraordinary tail integrative review of the agamid genus Xenagama	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+73	inputFiles/WOSCorpus(73)	2013	6	22	A new sawfly fossil from the lower Cretaceous of China elucidates antennal evolution in the lower Hymenoptera (Pamphilioidea: Praesiricidae: Archoxyelydinae subfam.n.)	June 22, 2013	SYSTEMATIC ENTOMOLOGY
+74	inputFiles/WOSCorpus(74)	2013	6	22	Cultural transmission results in convergence towards colour term universals	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+75	inputFiles/WOSCorpus(75)	2013	6	22	Spermatozoa production by triploid males in the New Zealand freshwater snail Potamopyrgus antipodarum	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+76	inputFiles/WOSCorpus(76)	2013	6	22	Molecular and morphological analysis of subfamily Alooideae (Asphodelaceae) and the inclusion of Chortolirion in Aloe	June 22, 2013	TAXON
+77	inputFiles/WOSCorpus(77)	2013	6	22	Postnatal temporal bone ontogeny in Pan, Gorilla, and Homo, and the implications for temporal bone ontogeny in Australopithecus afarensis	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+78	inputFiles/WOSCorpus(78)	2013	6	22	1 Julyy 1858: what Wallace knew what Lyell thought he knew what both he and Hooker took on trust and what Charles Darwin never told them	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+79	inputFiles/WOSCorpus(79)	2013	6	22	High levels of auto-infection in plant pathogens favour short latent periods: a theoretical approach	June 22, 2013	EVOLUTIONARY ECOLOGY
+80	inputFiles/WOSCorpus(80)	2013	6	22	Does chemical defence increase niche space? A phylogenetic comparative analysis of the Musteloidea	June 22, 2013	EVOLUTIONARY ECOLOGY
+81	inputFiles/WOSCorpus(81)	2013	6	22	Protein Insertions and Deletions Enabled by Neutral Roaming in Sequence Space	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+82	inputFiles/WOSCorpus(82)	2013	6	22	Contrasting parasite communities among allopatric colour morphs of the Lake Tanganyika cichlid Tropheus	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+83	inputFiles/WOSCorpus(83)	2013	6	22	Overlapping genes of Aedes aegypti: evolutionary implications from comparison with orthologs of Anopheles gambiae and other insects	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+84	inputFiles/WOSCorpus(84)	2013	6	22	Phylogenetic signal in the acoustic parameters of the advertisement calls of four clades of anurans	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+85	inputFiles/WOSCorpus(85)	2013	6	22	Expression of the Lhx genes apterous and lim1 in an errant polychaete: implications for bilaterian appendage evolution, neural development, and muscle diversification	June 22, 2013	EVODEVO
+86	inputFiles/WOSCorpus(86)	2013	6	22	Evolution of Escherichia coli rifampicin resistance in an antibiotic-free environment during thermal stress	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+87	inputFiles/WOSCorpus(87)	2013	6	22	Coevolving parasites and population size shape the evolution of mating behaviour	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+88	inputFiles/WOSCorpus(88)	2013	6	22	The phylogenetic distribution of ultraviolet sensitivity in birds	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+89	inputFiles/WOSCorpus(89)	2013	6	22	Transcriptional abundance is not the single force driving the evolution of bacterial proteins	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+90	inputFiles/WOSCorpus(90)	2013	6	22	Dispersing away from bad genotypes: the evolution of Fitness-Associated Dispersal (FAD) in homogeneous environments	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+91	inputFiles/WOSCorpus(91)	2013	6	22	Potential use of low-copy nuclear genes in DNA barcoding: a comparison with plastid genes in two Hawaiian plant radiations	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+92	inputFiles/WOSCorpus(92)	2013	6	22	Parallel re-modeling of EF-1 alpha function: divergent EF-1 alpha genes co-occur with EFL genes in diverse distantly related eukaryotes	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+93	inputFiles/WOSCorpus(93)	2013	6	22	Evolutionary implications of the divergent long bone histologies of Nothosaurus and Pistosaurus (Sauropterygia, Triassic)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+94	inputFiles/WOSCorpus(94)	2013	6	22	Complete mitogenome sequences of four flatfishes (Pleuronectiformes) reveal a Novemberel gene arrangement of L-strand coding genes	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+95	inputFiles/WOSCorpus(95)	2013	6	22	Parallel reduction in expression, but no loss of functional constraint, in two opsin paralogs within cave populations of GamMarchus minus (Crustacea: Amphipoda)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+96	inputFiles/WOSCorpus(96)	2013	6	22	The unique pseudanthium of Actinodium (Myrtaceae) - morphological reinvestigation and possible regulation by CYCLOIDEA-like genes	June 22, 2013	EVODEVO
+97	inputFiles/WOSCorpus(97)	2013	6	22	Coevolution analyses illuminate the dependencies between amino acid sites in the chaperonin system GroES-L	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+98	inputFiles/WOSCorpus(98)	2013	6	22	Characterization of hairless (Hr) and FGF5 genes provides insights into the molecular basis of hair loss in cetaceans	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+99	inputFiles/WOSCorpus(99)	2013	6	22	Convergent evolution of heat-inducibility during subfunctionalization of the Hsp70 gene family	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+100	inputFiles/WOSCorpus(100)	2013	6	22	Congruence of chloroplast- and nuclear-encoded DNA sequence variations used to assess species boundaries in the soil microalga Heterococcus (Stramenopiles, Xanthophyceae)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+101	inputFiles/WOSCorpus(101)	2013	6	22	Evolution of a hotspot genus: geographic variation in speciation and extinction rates in Banksia (Proteaceae)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+102	inputFiles/WOSCorpus(102)	2013	6	22	Hox gene expression during postlarval development of the polychaete Alitta virens	June 22, 2013	EVODEVO
+103	inputFiles/WOSCorpus(103)	2013	6	22	Expression of Hox genes during regeneration of nereid polychaete Alitta (Nereis) virens (Annelida, Lophotrochozoa)	June 22, 2013	EVODEVO
+104	inputFiles/WOSCorpus(104)	2013	6	22	Posterior Hox gene reduction in an arthropod: Ultrabithorax and Abdominal-B are expressed in a single segment in the mite Archegozetes longisetosus	June 22, 2013	EVODEVO
+105	inputFiles/WOSCorpus(105)	2013	6	22	Expression of germline Marchkers in three species of amphioxus supports a preformation mechanism of germ cell development in cephalochordates	June 22, 2013	EVODEVO
+106	inputFiles/WOSCorpus(106)	2013	6	22	Differences in chemosensory response between eyed and eyeless Astyanax mexicanus of the Rio Subterraneo cave	June 22, 2013	EVODEVO
+107	inputFiles/WOSCorpus(107)	2013	6	22	Horizontally transferred genes in the genome of Pacific white shrimp, Litopenaeus vannamei	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+108	inputFiles/WOSCorpus(108)	2013	6	22	Gene make-up: rapid and massive intron gains after horizontal transfer of a bacterial alpha-amylase gene to Basidiomycetes	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+109	inputFiles/WOSCorpus(109)	2013	6	22	Evolutionary diversification and characterization of the eubacterial gene family encoding DXR type II, an alternative isoprenoid biosynthetic enzyme	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+110	inputFiles/WOSCorpus(110)	2013	6	22	A Novemberel type of light-harvesting antenna protein of red algal origin in algae with secondary plastids	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+111	inputFiles/WOSCorpus(111)	2013	6	22	Spalt expression and the development of melanic color patterns in pierid butterflies	June 22, 2013	EVODEVO
+112	inputFiles/WOSCorpus(112)	2013	6	22	Sexual activity increases resistance against Pseudomonas entomophila in male Drosophila melanogaster	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+113	inputFiles/WOSCorpus(113)	2013	6	22	Variational modularity at the cell level: insights from the sperm head of the house mouse	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+114	inputFiles/WOSCorpus(114)	2013	6	22	A multi-calibrated mitochondrial phylogeny of extant Bovidae (Artiodactyla, Ruminantia) and the importance of the fossil record to systematics	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+115	inputFiles/WOSCorpus(115)	2013	6	22	Co-option of a coordinate system defined by the EGFr and Dpp pathways in the evolution of a morphological Novemberelty	June 22, 2013	EVODEVO
+116	inputFiles/WOSCorpus(116)	2013	6	22	Modeling the evolution dynamics of exon-intron structure with a general random fragmentation process	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+117	inputFiles/WOSCorpus(117)	2013	6	22	The expression and evolution of virulence in multiple infections: the role of specificity, relative virulence and relative dose	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+118	inputFiles/WOSCorpus(118)	2013	6	22	Behavioural manipulation of insect hosts by Baculoviridae as a process of niche construction	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+119	inputFiles/WOSCorpus(119)	2013	6	22	Modularity of a leaf moth-wing pattern and a versatile characteristic of the wing-pattern ground plan	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+120	inputFiles/WOSCorpus(120)	2013	6	22	Ontogenetic development of intestinal length and relationships to diet in an Australasian fish family (Terapontidae)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+121	inputFiles/WOSCorpus(121)	2013	6	22	Adaptive evolution of the osmoregulation-related genes in cetaceans during secondary aquatic adaptation	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+122	inputFiles/WOSCorpus(122)	2013	6	22	Identification of an intact ParaHox cluster with temporal colinearity but altered spatial colinearity in the hemichordate Ptychodera flava	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+123	inputFiles/WOSCorpus(123)	2013	6	22	Evolution of a horizontally acquired legume gene, albumin 1, in the parasitic plant Phelipanche aegyptiaca and related species	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+124	inputFiles/WOSCorpus(124)	2013	6	22	Where does Neisseria acquire foreign DNA from: an examination of the source of genomic and pathogenic islands and the evolution of the Neisseria genus	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+125	inputFiles/WOSCorpus(125)	2013	6	22	SNP-revealed genetic diversity in wild emmer wheat correlates with ecological factors	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+126	inputFiles/WOSCorpus(126)	2013	6	22	Gall volatiles defend aphids against a browsing mammal	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+127	inputFiles/WOSCorpus(127)	2013	6	22	Fertilisation and early developmental barriers to hybridisation in field crickets	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+128	inputFiles/WOSCorpus(128)	2013	6	22	Suboptimal evolutionary Novemberel environments promote singular altered gravity responses of transcriptome during Drosophila metamorphosis	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+129	inputFiles/WOSCorpus(129)	2013	6	22	Emergence of Novemberel domains in proteins	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+130	inputFiles/WOSCorpus(130)	2013	6	22	Delayed colonisation of Acacia by thrips and the timing of host-conservatism and behavioural specialisation	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+131	inputFiles/WOSCorpus(131)	2013	6	22	A bioinformatic analysis of ribonucleotide reductase genes in phage genomes and metagenomes	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+132	inputFiles/WOSCorpus(132)	2013	6	22	Sensory exploitation and indicator models may explain red pelvic spines in the brook stickleback, Culaea inconstans	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+133	inputFiles/WOSCorpus(133)	2013	6	22	The maintenance of sex: Ronald Fisher meets the Red Queen	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+134	inputFiles/WOSCorpus(134)	2013	6	22	High lability of sexual system over 250 million years of evolution in morphologically conservative tadpole shrimps	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+135	inputFiles/WOSCorpus(135)	2013	6	22	Stickleback research: the now and the next	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+136	inputFiles/WOSCorpus(136)	2013	6	22	Phylogenomics of strongylocentrotid sea urchins	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+137	inputFiles/WOSCorpus(137)	2013	6	22	Biogeography, phylogeny, and morphological evolution of central Texas cave and spring salamanders	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+138	inputFiles/WOSCorpus(138)	2013	6	22	Genome differentiation in a species pair of coregonine fishes: an extremely rapid speciation driven by stress-activated retrotransposons mediating extensive ribosomal DNA multiplications	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+139	inputFiles/WOSCorpus(139)	2013	6	22	Synonymous site conservation in the HIV-1 genome	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+140	inputFiles/WOSCorpus(140)	2013	6	22	Evolution of bone compactness in extant and extinct moles (Talpidae): exploring humeral microstructure in small fossorial mammals	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+141	inputFiles/WOSCorpus(141)	2013	6	22	Tracking the evolution of sex chromosome systems in Melanoplinae grasshoppers through chromosomal mapping of repetitive DNA sequences	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+142	inputFiles/WOSCorpus(142)	2013	6	22	Horizontal gene transfer of epigenetic machinery and evolution of parasitism in the malaria parasite Plasmodium falciparum and other apicomplexans	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+143	inputFiles/WOSCorpus(143)	2013	6	22	Spatial aspects of prebiotic replicator coexistence and community stability in a surface-bound RNA world model	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+144	inputFiles/WOSCorpus(144)	2013	6	22	Probabilistic models for CRISPR spacer content evolution	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+145	inputFiles/WOSCorpus(145)	2013	6	22	Ancient lineage, young troglobites: recent colonization of caves by Nesticella spiders	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+146	inputFiles/WOSCorpus(146)	2013	6	22	Localized versus generalist phenotypes in a broadly distributed tropical mammal: how is intraspecific variation distributed across disparate environments?	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+147	inputFiles/WOSCorpus(147)	2013	6	22	Allometry indicates giant eyes of giant squid are not exceptional	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+148	inputFiles/WOSCorpus(148)	2013	6	22	MHC genes and parasitism in Carassius gibelio, a diploid-triploid fish species with dual reproduction strategies	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+149	inputFiles/WOSCorpus(149)	2013	6	22	Geological and climatic changes in quaternary shaped the evolutionary history of Calibrachoa heterophylla, an endemic South-Atlantic species of petunia	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+150	inputFiles/WOSCorpus(150)	2013	6	22	Genotypic but not phenotypic historical contingency revealed by viral experimental evolution	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+151	inputFiles/WOSCorpus(151)	2013	6	22	A comprehensive and integrative reconstruction of evolutionary history for Anomura (Crustacea: Decemberapoda)	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+152	inputFiles/WOSCorpus(152)	2013	6	22	The cost of antibiotic resistance depends on evolutionary history in Escherichia coli	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+153	inputFiles/WOSCorpus(153)	2013	6	22	Evolution and divergence of the mammalian SAMD9/SAMD9L gene family	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+154	inputFiles/WOSCorpus(154)	2013	6	22	Are Japanese freshwater populations of threespine stickleback derived from the Pacific Ocean lineage?	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+155	inputFiles/WOSCorpus(155)	2013	6	22	Parasitic plants have increased rates of molecular evolution across all three genomes	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+156	inputFiles/WOSCorpus(156)	2013	6	22	Exploring power and parameter estimation of the BiSSE method for analyzing species diversification	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+157	inputFiles/WOSCorpus(157)	2013	6	22	Hendry Vineyard stickleback: testing for contemporary lake-stream divergence	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+158	inputFiles/WOSCorpus(158)	2013	6	22	Endosymbiosis in trypanosomatids: the genomic cooperation between bacterium and host in the synthesis of essential amino acids is heavily influenced by multiple horizontal gene transfers	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+159	inputFiles/WOSCorpus(159)	2013	6	22	Life cycle evolution: was the eumetazoan ancestor a holopelagic, planktotrophic gastraea?	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+160	inputFiles/WOSCorpus(160)	2013	6	22	A system-level, molecular evolutionary analysis of mammalian phototransduction	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+161	inputFiles/WOSCorpus(161)	2013	6	22	Wolbachia association with the tsetse fly, Glossina fuscipes fuscipes, reveals high levels of genetic diversity and complex evolutionary dynamics	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+162	inputFiles/WOSCorpus(162)	2013	6	22	Switching between apparently redundant iron-uptake mechanisms benefits bacteria in changeable environments	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+163	inputFiles/WOSCorpus(163)	2013	6	22	The role of bacteriocins as selfish genetic elements	June 22, 2013	BIOLOGY LETTERS
+164	inputFiles/WOSCorpus(164)	2013	6	22	Mutation accumulation and fitness in mutator subpopulations of Escherichia coli	June 22, 2013	BIOLOGY LETTERS
+165	inputFiles/WOSCorpus(165)	2013	6	22	A new multi-locus timescale reveals the evolutionary basis of diversity patterns in triggerfishes and filefishes (Balistidae, Monacanthidae Tetraodontiformes)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+166	inputFiles/WOSCorpus(166)	2013	6	22	Higher level phylogenetic relationships within the bamboos (Poaceae: Bambusoideae) based on five plastid Marchkers	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+167	inputFiles/WOSCorpus(167)	2013	6	22	Hawkmoths produce anti-bat ultrasound	June 22, 2013	BIOLOGY LETTERS
+168	inputFiles/WOSCorpus(168)	2013	6	22	Differences in locomotor behavior correspond to different patterns of morphological selection in two species of waterfall-climbing gobiid fishes	June 22, 2013	EVOLUTIONARY ECOLOGY
+169	inputFiles/WOSCorpus(169)	2013	6	22	Maternal care, mother-offspring aggregation and age-dependent coadaptation in the European earwig	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+170	inputFiles/WOSCorpus(170)	2013	6	22	REPLY TO COMMENT ON MarchDEN (2013) REGARDING THE INTERPRETATION OF THE EARLIEST TRACE FOSSIL OF A WINGED INSECT	June 22, 2013	EVOLUTION
+171	inputFiles/WOSCorpus(171)	2013	6	22	Good Codons, Bad Transcript: Large Reductions in Gene Expression and Fitness Arising from Synonymous Mutations in a Key Enzyme	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+172	inputFiles/WOSCorpus(172)	2013	6	22	Exploring the Intrinsic Limits of Nitrogenase Transfer from Bacteria to Eukaryotes	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+173	inputFiles/WOSCorpus(173)	2013	6	22	Hominin Obstetrics and the Evolution of Constraints	June 22, 2013	EVOLUTIONARY BIOLOGY
+174	inputFiles/WOSCorpus(174)	2013	6	22	Cytonuclear discordance among Southeast Asian black rats (Rattus rattus complex)	June 22, 2013	MOLECULAR ECOLOGY
+175	inputFiles/WOSCorpus(175)	2013	6	22	Effects of allometry, productivity and lifestyle on rates and limits of body size evolution	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+176	inputFiles/WOSCorpus(176)	2013	6	22	Testing for size and allometric differences in fossil hominin body mass estimation	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+177	inputFiles/WOSCorpus(177)	2013	6	22	Evolution and expression of BMP genes in flies	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+178	inputFiles/WOSCorpus(178)	2013	6	22	The evolution of mutation rate in an antagonistic coevolutionary model with maternal transmission of parasites	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+179	inputFiles/WOSCorpus(179)	2013	6	22	Historical profiling of maize duplicate genes sheds light on the evolution of C4 photosynthesis in grasses	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+180	inputFiles/WOSCorpus(180)	2013	6	22	Comparison of molecular species identification for North Sea calanoid copepods (Crustacea) using proteome fingerprints and DNA sequences	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+181	inputFiles/WOSCorpus(181)	2013	6	22	Patterns of population genetic variation in sympatric chiltoniid amphipods within a calcrete aquifer reveal a dynamic subterranean environment	June 22, 2013	HEREDITY
+182	inputFiles/WOSCorpus(182)	2013	6	22	Mazaedium evolution in the Ascomycota (Fungi) and the classification of mazaediate groups of formerly unclear relationship	June 22, 2013	CLADISTICS
+183	inputFiles/WOSCorpus(183)	2013	6	22	ON THE FINDABILITY OF GENOTYPES	June 22, 2013	EVOLUTION
+184	inputFiles/WOSCorpus(184)	2013	6	22	Carotenoids in unexpected places: Gall midges, lateral gene transfer, and carotenoid biosynthesis in animals	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+185	inputFiles/WOSCorpus(185)	2013	6	22	Phylogeny of the non-monophyletic Cayratia Juss. (Vitaceae) and implications for character evolution and biogeography	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+186	inputFiles/WOSCorpus(186)	2013	6	22	Evolution of Functional Genes in Cetaceans Driven by Natural Selection on a Phylogenetic and Population Level	June 22, 2013	EVOLUTIONARY BIOLOGY
+187	inputFiles/WOSCorpus(187)	2013	6	22	Temporal morph frequency changes in sand-dune populations of Cepaea nemoralis (L.)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+188	inputFiles/WOSCorpus(188)	2013	6	22	Higher rate of tissue regeneration in polyploid asexual versus diploid sexual freshwater snails	June 22, 2013	BIOLOGY LETTERS
+189	inputFiles/WOSCorpus(189)	2013	6	22	An explicit transition density expansion for a multi-allelic Wright-Fisher diffusion with general diploid selection	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+190	inputFiles/WOSCorpus(190)	2013	6	22	A New Early Miocene Chinchilloid Hystricognath Rodent an Approach to the Understanding of the Early Chinchillid Dental Evolution	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+191	inputFiles/WOSCorpus(191)	2013	6	22	New Paralogues and Revised Time Line in the Expansion of the Vertebrate GH18 Family	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+192	inputFiles/WOSCorpus(192)	2013	6	22	Vanishing Chromosomal Inversion Clines in Drosophila subobscura from Chile: Is Behavioral Thermoregulation to Blame?	June 22, 2013	AMERICAN NATURALIST
+193	inputFiles/WOSCorpus(193)	2013	6	22	A sequential coalescent algorithm for chromosomal inversions	June 22, 2013	HEREDITY
+194	inputFiles/WOSCorpus(194)	2013	6	22	CHROMOSOMAL REARRANGEMENTS AND THE GENETICS OF REPRODUCTIVE BARRIERS IN MIMULUS (MONKEY FLOWERS)	June 22, 2013	EVOLUTION
+195	inputFiles/WOSCorpus(195)	2013	6	22	Genetic architecture underlying morning and evening circadian phenotypes in fruit flies Drosophila melanogaster	June 22, 2013	HEREDITY
+196	inputFiles/WOSCorpus(196)	2013	6	22	Animal activity around the clock with no overt circadian rhythms: patterns, mechanisms and adaptive value	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+197	inputFiles/WOSCorpus(197)	2013	6	22	Complexity of the genetic basis of ageing in nature revealed by a clinal study of lifespan and methuselah, a gene for ageing, in Drosophila from eastern Australia	June 22, 2013	MOLECULAR ECOLOGY
+198	inputFiles/WOSCorpus(198)	2013	6	22	THE GENETIC ARCHITECTURE OF GROWTH RATE IN JUVENILE TAKIFUGU SPECIES	June 22, 2013	EVOLUTION
+199	inputFiles/WOSCorpus(199)	2013	6	22	Genomic dissection of variation in clutch size and egg mass in a wild great tit (Parus major) population	June 22, 2013	MOLECULAR ECOLOGY
+200	inputFiles/WOSCorpus(200)	2013	6	22	Analysis of phenotypic evolution in Dictyostelia highlights developmental plasticity as a likely consequence of colonial multicellularity	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+201	inputFiles/WOSCorpus(201)	2013	6	22	Colour-variable birds have broader ranges, wider niches and are less likely to be threatened	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+202	inputFiles/WOSCorpus(202)	2013	6	22	Colour Polymorphism and Alternative Breeding Strategies: Effects of Parent's Colour Morph on Fitness Traits in the Common Wall Lizard	June 22, 2013	EVOLUTIONARY BIOLOGY
+203	inputFiles/WOSCorpus(203)	2013	6	22	Food sharing in vampire bats: reciprocal help predicts donations more than relatedness or harassment	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+204	inputFiles/WOSCorpus(204)	2013	6	22	Phylogenetic signal, feeding behaviour and brain volume in Neotropical bats	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+205	inputFiles/WOSCorpus(205)	2013	6	22	The odd couple: contrasting phylogeographic patterns in two sympatric sibling species of woodlouse-hunter spiders in the Canary Islands	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+206	inputFiles/WOSCorpus(206)	2013	6	22	Evolutionary entropy predicts the outcome of selection: Competition for resources that vary in abundance and diversity	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+207	inputFiles/WOSCorpus(207)	2013	6	22	Competition and the origins of Novemberelty: experimental evolution of niche-width expansion in a virus	June 22, 2013	BIOLOGY LETTERS
+208	inputFiles/WOSCorpus(208)	2013	6	22	Inference of Natural Selection from Interspersed Genomic Elements Based on Polymorphism and Divergence	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+209	inputFiles/WOSCorpus(209)	2013	6	22	The nematode Pristionchus pacificus as a model system for integrative studies in evolutionary biology	June 22, 2013	MOLECULAR ECOLOGY
+210	inputFiles/WOSCorpus(210)	2013	6	22	Evolutionary Balancing Is Critical for Correctly Forecasting Disease-Associated Amino Acid Variants	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+211	inputFiles/WOSCorpus(211)	2013	6	22	Pairing context determines condition-dependence of song rate in a monogamous passerine bird	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+212	inputFiles/WOSCorpus(212)	2013	6	22	DISENTANGLING EVOLUTIONARY CAUSE-EFFECT RELATIONSHIPS WITH PHYLOGENETIC CONFIRMATORY PATH ANALYSIS	June 22, 2013	EVOLUTION
+213	inputFiles/WOSCorpus(213)	2013	6	22	Low rates of X-Y recombination, not turNovemberers, account for homomorphic sex chromosomes in several diploid species of Palearctic green toads (Bufo viridis subgroup)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+214	inputFiles/WOSCorpus(214)	2013	6	22	Dynamic social behaviour in a bacterium: Pseudomonas aeruginosa partially compensates for siderophore loss to cheats	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+215	inputFiles/WOSCorpus(215)	2013	6	22	The evolution of error: error management, cognitive constraints, and adaptive Decemberision-making biases	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+216	inputFiles/WOSCorpus(216)	2013	6	22	A basal thunnosaurian from Iraq reveals disparate phylogenetic origins for Cretaceous ichthyosaurs	June 22, 2013	BIOLOGY LETTERS
+217	inputFiles/WOSCorpus(217)	2013	6	22	Shared influence of pathogen and host genetics on a trade-off between latent period and spore production capacity in the wheat pathogen, Puccinia triticina	June 22, 2013	EVOLUTIONARY APPLICATIONS
+218	inputFiles/WOSCorpus(218)	2013	6	22	A new heterogeneous family of telomerically encoded Cryptosporidium proteins	June 22, 2013	EVOLUTIONARY APPLICATIONS
+219	inputFiles/WOSCorpus(219)	2013	6	22	Estimating Gene Gain and Loss Rates in the Presence of Error in Genome Assembly and Annotation Using CAFE 3	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+220	inputFiles/WOSCorpus(220)	2013	6	22	To attract or to repel? Diversity, evolution and role of the most peculiar organ in the Cuscuta flower (dodder, Convolvulaceae)-the infrastaminal scales	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+221	inputFiles/WOSCorpus(221)	2013	6	22	Phylogenetic and biogeographic analyses of the Sino-Himalayan endemic genus Cyananthus (Campanulaceae) and implications for the evolution of its sexual system	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+222	inputFiles/WOSCorpus(222)	2013	6	22	Herbicide cycling has diverse effects on evolution of resistance in Chlamydomonas reinhardtii	June 22, 2013	EVOLUTIONARY APPLICATIONS
+223	inputFiles/WOSCorpus(223)	2013	6	22	Can natural selection favour altruism between species?	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+224	inputFiles/WOSCorpus(224)	2013	6	22	Molecular dating of phylogenies by likelihood methods: A comparison of models and a new information criterion	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+225	inputFiles/WOSCorpus(225)	2013	6	22	Admixture increases diversity in managed honey bees: Reply to De la Rua etal. (2013)	June 22, 2013	MOLECULAR ECOLOGY
+226	inputFiles/WOSCorpus(226)	2013	6	22	Evolution and function of de Novembero originated genes	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+227	inputFiles/WOSCorpus(227)	2013	6	22	The effects of model choice and mitigating bias on the ribosomal tree of life	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+228	inputFiles/WOSCorpus(228)	2013	6	22	Ancient DNA complements microfossil record in deep-sea subsurface sediments	June 22, 2013	BIOLOGY LETTERS
+229	inputFiles/WOSCorpus(229)	2013	6	22	How variable is delayed selfing in a fluctuating pollinator environment? A comparison between a delayed selfing and a pollinator-dependent Schizanthus species of the high Andes	June 22, 2013	EVOLUTIONARY ECOLOGY
+230	inputFiles/WOSCorpus(230)	2013	6	22	Founderr takes all: density-dependent prrocesses structurre biodversity	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+231	inputFiles/WOSCorpus(231)	2013	6	22	The Dentin Matrix Acidic Phosphoprotein 1 (DMP1) in the Light of Mammalian Evolution	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+232	inputFiles/WOSCorpus(232)	2013	6	22	Extinct and extant rove beetles meet in the matrix: Early Cretaceous fossils shed light on the evolution of a hyperdiverse insect lineage (Coleoptera: Staphylinidae: Staphylininae)	June 22, 2013	CLADISTICS
+233	inputFiles/WOSCorpus(233)	2013	6	22	Bigger mothers are better mothers: disentangling size-related prenatal and postnatal maternal effects	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+234	inputFiles/WOSCorpus(234)	2013	6	22	Unexpected phylogenetic positions of the genera Rupirana and Crossodactylodes reveal insights into the biogeography and reproductive evolution of leptodactylid frogs	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+235	inputFiles/WOSCorpus(235)	2013	6	22	STEPWISE EVOLUTION OF RESISTANCE TO TOXIC CARDENOLIDES VIA GENETIC SUBSTITUTIONS IN THE NA(+)/K+-ATPASE OF MILKWEED BUTTERFLIES (LEPIDOPTERA: DANAINI)	June 22, 2013	EVOLUTION
+236	inputFiles/WOSCorpus(236)	2013	6	22	Sexual dimorphism and intra-populational colour pattern variation in the aposematic frog Dendrobates tinctorius	June 22, 2013	EVOLUTIONARY ECOLOGY
+237	inputFiles/WOSCorpus(237)	2013	6	22	Evolution of Substrate Specificity in a Recipient's Enzyme Following Horizontal Gene Transfer	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+238	inputFiles/WOSCorpus(238)	2013	6	22	Less Is More in Mammalian Phylogenomics: AT-Rich Genes Minimize Tree Conflicts and Unravel the Root of Placental Mammals	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+239	inputFiles/WOSCorpus(239)	2013	6	22	Model and test in a fungus of the probability that beneficial mutations survive drift	June 22, 2013	BIOLOGY LETTERS
+240	inputFiles/WOSCorpus(240)	2013	6	22	Developmental patterns of chimpanzee cerebral tissues provide important clues for understanding the reMarchkable enlargement of the human brain	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+241	inputFiles/WOSCorpus(241)	2013	6	22	The evolution of Dianthus polylepis complex (Caryophyllaceae) inferred from morphological and nuclear DNA sequence data: one or two species?	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+242	inputFiles/WOSCorpus(242)	2013	6	22	Unique digestive system, trophic specialization, and diversification in the deep-sea gastropod genus Scaphander	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+243	inputFiles/WOSCorpus(243)	2013	6	22	Exploring epiallele stability in a population-epigenetic model	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+244	inputFiles/WOSCorpus(244)	2013	6	22	Evolutionary Analysis of the MIXTA Gene Family Highlights Potential Targets for the Study of Cellular Differentiation	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+245	inputFiles/WOSCorpus(245)	2013	6	22	A Tertiary Plastid Gains RNA Editing in Its New Host	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+246	inputFiles/WOSCorpus(246)	2013	6	22	Patterns of molecular evolution in dioecious and non-dioecious Silene	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+247	inputFiles/WOSCorpus(247)	2013	6	22	Tracing the Origin and Diversification of Dipodoidea (Order: Rodentia): Evidence from Fossil Record and Molecular Phylogeny	June 22, 2013	EVOLUTIONARY BIOLOGY
+248	inputFiles/WOSCorpus(248)	2013	6	22	Comparative and evolutionary analysis of mitochondrial genes in Indian major carps	June 22, 2013	BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+249	inputFiles/WOSCorpus(249)	2013	6	22	Evolution of Discrete Phenotypes from Continuous Norms of Reaction	June 22, 2013	AMERICAN NATURALIST
+250	inputFiles/WOSCorpus(250)	2013	6	22	Disentangling Direct and Indirect Fitness Effects of Microbial Dormancy	June 22, 2013	AMERICAN NATURALIST
+251	inputFiles/WOSCorpus(251)	2013	6	22	Functional Evolution of an Anthocyanin Pathway Enzyme during a Flower Color Transition	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+252	inputFiles/WOSCorpus(252)	2013	6	22	Mitochondrial genomes to the rescue - Diurodrilidae in the myzostomid trap	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+253	inputFiles/WOSCorpus(253)	2013	6	22	An Update of DIVERGE Software for Functional Divergence Analysis of Protein Family	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+254	inputFiles/WOSCorpus(254)	2013	6	22	Family-Level Divergences in the Stinging Wasps (Hymenoptera: Aculeata), with Correlations to Angiosperm Diversification	June 22, 2013	EVOLUTIONARY BIOLOGY
+255	inputFiles/WOSCorpus(255)	2013	6	22	Ecological variation in South American geophagine cichlids arose during an early burst of adaptive morphological and functional evolution	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+256	inputFiles/WOSCorpus(256)	2013	6	22	Hox Gene Deformed is likely involved in mandibular regression during presoldier differentiation in the nasute termite Nasutitermes takasagoensis	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+257	inputFiles/WOSCorpus(257)	2013	6	22	Chicken domestication: an updated perspective based on mitochondrial genomes	June 22, 2013	HEREDITY
+258	inputFiles/WOSCorpus(258)	2013	6	22	Artificial Selection on Brain-Expressed Genes during the Domestication of Dog	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+259	inputFiles/WOSCorpus(259)	2013	6	22	Local adaptation of sex induction in a facultative sexual crustacean: insights from QTL mapping and natural populations of Daphnia magna	June 22, 2013	MOLECULAR ECOLOGY
+260	inputFiles/WOSCorpus(260)	2013	6	22	Shifting clinal patterns of stress resistance traits in Drosophila ananassae	June 22, 2013	EVOLUTIONARY ECOLOGY
+261	inputFiles/WOSCorpus(261)	2013	6	22	Evolving Dual Targeting of a Prokaryotic Protein in Yeast	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+262	inputFiles/WOSCorpus(262)	2013	6	22	Phylogeny and biogeography of New World Stachydeae (Lamiaceae) with emphasis on the origin and diversification of Hawaiian and South American taxa	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+263	inputFiles/WOSCorpus(263)	2013	6	22	THE GENETIC ARCHITECTURE OF REPRODUCTIVE ISOLATION DURING SPECIATION-WITH-GENE-FLOW IN LAKE WHITEFISH SPECIES PAIRS ASSESSED BY RAD SEQUENCING	June 22, 2013	EVOLUTION
+264	inputFiles/WOSCorpus(264)	2013	6	22	Revision of the sauropod dinosaurs of the Lower Cretaceous Trinity Group, southern USA, with the description of a new genus	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+265	inputFiles/WOSCorpus(265)	2013	6	22	mtDNA Variation in East Africa Unravels the History of Afro-Asiatic Groups	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+266	inputFiles/WOSCorpus(266)	2013	6	22	Cambrian spiral-plated echinoderms from Gondwana reveal the earliest pentaradial body plan	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+267	inputFiles/WOSCorpus(267)	2013	6	22	Ecological character displacement: glass half full or half empty?	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+268	inputFiles/WOSCorpus(268)	2013	6	22	Local adaptation within a hybrid species	June 22, 2013	HEREDITY
+269	inputFiles/WOSCorpus(269)	2013	6	22	Bio plus plus : Efficient Extensible Libraries and Tools for Computational Molecular Evolution	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+270	inputFiles/WOSCorpus(270)	2013	6	22	The seminal symphony: how to compose an ejaculate	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+271	inputFiles/WOSCorpus(271)	2013	6	22	Ecology and Evolution Affect Network Structure in an Intimate Marchine Mutualism	June 22, 2013	AMERICAN NATURALIST
+272	inputFiles/WOSCorpus(272)	2013	6	22	Multiple host transfers, but only one successful lineage in a continent-spanning emergent pathogen	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+273	inputFiles/WOSCorpus(273)	2013	6	22	Estimating Empirical Codon Hidden Marchkov Models	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+274	inputFiles/WOSCorpus(274)	2013	6	22	Stage Dependence of Phenotypical and Phenological Maternal Effects: Insight into Squamate Reptile Reproductive Strategies	June 22, 2013	AMERICAN NATURALIST
+275	inputFiles/WOSCorpus(275)	2013	6	22	Size and sex matter: reproductive biology and determinants of offspring survival in Gazella Marchica	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+276	inputFiles/WOSCorpus(276)	2013	6	22	A Scan for Human-Specific Relaxation of Negative Selection Reveals Unexpected Polymorphism in Proteasome Genes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+277	inputFiles/WOSCorpus(277)	2013	6	22	Neutral and selection-driven Decemberay of sexual traits in asexual stick insects	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+278	inputFiles/WOSCorpus(278)	2013	6	22	Stress, adaptation, and speciation in the evolution of the blind mole rat, Spalax, in Israel	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+279	inputFiles/WOSCorpus(279)	2013	6	22	Niche divergence by deep-sea Octoberocorals in the genus Callogorgia across the continental slope of the Gulf of Mexico	June 22, 2013	MOLECULAR ECOLOGY
+280	inputFiles/WOSCorpus(280)	2013	6	22	Multiple nuclear and mitochondrial DNA sequences provide new insights into the phylogeny of South African Lacertids (Lacertidae, Eremiadinae)	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+281	inputFiles/WOSCorpus(281)	2013	6	22	Conservation genetics and population diversity of Erigeron breviscapus (Asteraceae), an important Chinese herb	June 22, 2013	BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+282	inputFiles/WOSCorpus(282)	2013	6	22	Expression Divergence between Escherichia coli and Salmonella enterica serovar Typhimurium Reflects Their Lifestyles	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+283	inputFiles/WOSCorpus(283)	2013	6	22	Linkage disequilibrium and effective population size when generations overlap	June 22, 2013	EVOLUTIONARY APPLICATIONS
+284	inputFiles/WOSCorpus(284)	2013	6	22	Multivariate sexual selection in a rapidly evolving speciation phenotype	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+285	inputFiles/WOSCorpus(285)	2013	6	22	Extreme Intraclutch Egg-Size Dimorphism in Eudyptes Penguins, an Evolutionary Response to Clutch-Size Maladaptation	June 22, 2013	AMERICAN NATURALIST
+286	inputFiles/WOSCorpus(286)	2013	6	22	Ecotypes and genetic structure of Rhinanthus alectorolophus (Orobanchaceae) in southwestern Germany	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+287	inputFiles/WOSCorpus(287)	2013	6	22	Soldiers with large weapons in predator-abundant midsummer: phenotypic plasticity in a eusocial aphid	June 22, 2013	EVOLUTIONARY ECOLOGY
+288	inputFiles/WOSCorpus(288)	2013	6	22	One quantitative trait locus for intra- and interspecific variation in a sex pheromone	June 22, 2013	MOLECULAR ECOLOGY
+289	inputFiles/WOSCorpus(289)	2013	6	22	Sexual Size Dimorphism in Anurans: Ontogenetic Determination Revealed by an Across-Species Comparison	June 22, 2013	EVOLUTIONARY BIOLOGY
+290	inputFiles/WOSCorpus(290)	2013	6	22	Goffin cockatoos wait for qualitative and quantitative gains but prefer 'better' to 'more'	June 22, 2013	BIOLOGY LETTERS
+291	inputFiles/WOSCorpus(291)	2013	6	22	Rethinking Butterfly Eyespots	June 22, 2013	EVOLUTIONARY BIOLOGY
+292	inputFiles/WOSCorpus(292)	2013	6	22	Prevalence of Multinucleotide Replacements in Evolution of Primates and Drosophila	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+293	inputFiles/WOSCorpus(293)	2013	6	22	Evidence for rapid evolution of phenology in an invasive grass	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+294	inputFiles/WOSCorpus(294)	2013	6	22	Species with a chemical defence, but not chemical offence, live longer	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+295	inputFiles/WOSCorpus(295)	2013	6	22	Inter- and intrasexual genetic correlations of exaggerated traits and locomotor activity	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+296	inputFiles/WOSCorpus(296)	2013	6	22	The evolution of mammal body sizes: responses to Cenozoic climate change in North American mammals	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+297	inputFiles/WOSCorpus(297)	2013	6	22	Fine-scale biogeographical and temporal diversification processes of peacock swallowtails (Papilio subgenus Achillides) in the Indo-Australian Archipelago	June 22, 2013	CLADISTICS
+298	inputFiles/WOSCorpus(298)	2013	6	22	Genome-wide evolutionary response to a heat wave in Drosophila	June 22, 2013	BIOLOGY LETTERS
+299	inputFiles/WOSCorpus(299)	2013	6	22	Parallel evolution of Novemberelties: extremely long intromittent organs in the leaf beetle subfamily Criocerinae	June 22, 2013	EVOLUTION & DEVELOPMENT
+300	inputFiles/WOSCorpus(300)	2013	6	22	Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana	June 22, 2013	EVOLUTION & DEVELOPMENT
+301	inputFiles/WOSCorpus(301)	2013	6	22	Asymmetry in pay-off predicts how familiar individuals respond to one another	June 22, 2013	BIOLOGY LETTERS
+302	inputFiles/WOSCorpus(302)	2013	6	22	An updated phylogeny of Anisoptera including formal convergence analysis of morphological characters	June 22, 2013	SYSTEMATIC ENTOMOLOGY
+303	inputFiles/WOSCorpus(303)	2013	6	22	Sexually dimorphic melanin-based colour polymorphism, feather melanin content, and wing feather structure in the barn owl (Tyto alba)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+304	inputFiles/WOSCorpus(304)	2013	6	22	Insights into the Origin of Metazoan Filopodia and Microvilli	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+305	inputFiles/WOSCorpus(305)	2013	6	22	Inferring the Evolution of Teleostean zp Genes Based on Their Sites of Expression	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+306	inputFiles/WOSCorpus(306)	2013	6	22	Floral ontogeny of Aeschynomene falcata and A. sensitiva (Leguminosae: Papilionoideae) supports molecular phylogenetic data	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+307	inputFiles/WOSCorpus(307)	2013	6	22	An interspecific comparison between morphology and swimming performance in cyprinids	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+308	inputFiles/WOSCorpus(308)	2013	6	22	The evolution of plant reproductive systems: how often are transitions irreversible?	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+309	inputFiles/WOSCorpus(309)	2013	6	22	Extending the Arabidopsis flowering paradigm to a mass flowering phenomenon in the tropics	June 22, 2013	MOLECULAR ECOLOGY
+310	inputFiles/WOSCorpus(310)	2013	6	22	The Evolution and Paleobiogeography of Flying Squirrels (Sciuridae, Pteromyini) in Response to Global Environmental Change	June 22, 2013	EVOLUTIONARY BIOLOGY
+311	inputFiles/WOSCorpus(311)	2013	6	22	Brief Communication: Beyond the South African cave paradigmAustralopithecus africanus from PlioPleistocene paleosol deposits at Taung	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+312	inputFiles/WOSCorpus(312)	2013	6	22	Next-generation QTL mapping: crowdsourcing SNPs, without pedigrees	June 22, 2013	MOLECULAR ECOLOGY
+313	inputFiles/WOSCorpus(313)	2013	6	22	Synthetic Biology of Phenotypic Adaptation in Vertebrates: The Next Frontier	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+314	inputFiles/WOSCorpus(314)	2013	6	22	Experimental maturation of feathers: implications for reconstructions of fossil feather colour	June 22, 2013	BIOLOGY LETTERS
+315	inputFiles/WOSCorpus(315)	2013	6	22	The relationship between plantar pressure and footprint shape	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+316	inputFiles/WOSCorpus(316)	2013	6	22	Regional population expansion in Eucalyptus globulus	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+317	inputFiles/WOSCorpus(317)	2013	6	22	First evidence of cryptic species diversity and significant population structure in a widespread freshwater nematode morphospecies (Tobrilus gracilis)	June 22, 2013	MOLECULAR ECOLOGY
+318	inputFiles/WOSCorpus(318)	2013	6	22	Multiple Genomic Changes Associated with Reorganization of Gene Regulation and Adaptation in Yeast	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+319	inputFiles/WOSCorpus(319)	2013	6	22	Biogeography and body size shuffling of aquatic salamander communities on a shifting refuge	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+320	inputFiles/WOSCorpus(320)	2013	6	22	The peppered moth and industrial melanism: evolution of a natural selection case study	June 22, 2013	HEREDITY
+321	inputFiles/WOSCorpus(321)	2013	6	22	Functional rare males in diploid parthenogenetic Artemia	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+322	inputFiles/WOSCorpus(322)	2013	6	22	Gamma-amino butyric acid, glutamate dehydrogenase and glutamate Decemberarboxylase levels in phylogenetically divergent plants	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+323	inputFiles/WOSCorpus(323)	2013	6	22	Phylogenetic Analysis Using Levy Processes: Finding Jumps in the Evolution of Continuous Traits	June 22, 2013	SYSTEMATIC BIOLOGY
+324	inputFiles/WOSCorpus(324)	2013	6	22	Phylogenetic Patterns of GC-Biased Gene Conversion in Placental Mammals and the Evolutionary Dynamics of Recombination Landscapes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+325	inputFiles/WOSCorpus(325)	2013	6	22	Gene Duplication Is Infrequent in the Recent Evolutionary History of RNA Viruses	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+326	inputFiles/WOSCorpus(326)	2013	6	22	Subfunctionalization via Adaptive Evolution Influenced by Genomic Context: The Case of Histone Chaperones ASF1a and ASF1b	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+327	inputFiles/WOSCorpus(327)	2013	6	22	Accelerated Evolution after Gene Duplication: A Time-Dependent Process Affecting Just One Copy	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+328	inputFiles/WOSCorpus(328)	2013	6	22	Inheritance of Gene Expression Level and Selective Constraints on Trans- and Cis-Regulatory Changes in Yeast	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+329	inputFiles/WOSCorpus(329)	2013	6	22	The Effect of Gene Overlapping on the Rate of RNA Virus Evolution	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+330	inputFiles/WOSCorpus(330)	2013	6	22	Wormholes record species history in space and time	June 22, 2013	BIOLOGY LETTERS
+331	inputFiles/WOSCorpus(331)	2013	6	22	The impact of global climate change on genetic diversity within populations and species	June 22, 2013	MOLECULAR ECOLOGY
+332	inputFiles/WOSCorpus(332)	2013	6	22	Population-specific recombination sites within the human MHC region	June 22, 2013	HEREDITY
+333	inputFiles/WOSCorpus(333)	2013	6	22	Cranial morphological variation among contemporary Mexicans: Regional trends, ancestral affinities, and genetic comparisons	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+334	inputFiles/WOSCorpus(334)	2013	6	22	Are long-lived trees poised for evolutionary change? Single locus effects in the evolution of gene expression networks in spruce	June 22, 2013	MOLECULAR ECOLOGY
+335	inputFiles/WOSCorpus(335)	2013	6	22	GENOME DIVERGENCE AND THE GENETIC ARCHITECTURE OF BARRIERS TO GENE FLOW BETWEEN LYCAEIDES IDAS AND L-MELISSA	June 22, 2013	EVOLUTION
+336	inputFiles/WOSCorpus(336)	2013	6	22	Principles of transcriptome analysis and gene expression quantification: an RNA-seq tutorial	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+337	inputFiles/WOSCorpus(337)	2013	6	22	The evolution of lineage-specific clusters of single nucleotide substitutions in the human genome	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+338	inputFiles/WOSCorpus(338)	2013	6	22	ALTITUDINAL CLINAL VARIATION IN WING SIZE AND SHAPE IN AFRICAN DROSOPHILA MELANOGASTER: ONE CLINE OR MANY?	June 22, 2013	EVOLUTION
+339	inputFiles/WOSCorpus(339)	2013	6	22	Molecular phylogeny of the Helicodontidae and Trissexodontidae (Gastropoda)	June 22, 2013	ZOOLOGICA SCRIPTA
+340	inputFiles/WOSCorpus(340)	2013	6	22	Geographical origin and sexual-system evolution of the androdioecious plant Gynochthodes boninensis (Rubiaceae), endemic to the Bonin Islands, Japan	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+341	inputFiles/WOSCorpus(341)	2013	6	22	HOW SELFING, INBREEDING DEPRESSION, AND POLLEN LIMITATION IMPACT NUCLEAR-CYTOPLASMIC GYNODIOECY: A MODEL	June 22, 2013	EVOLUTION
+342	inputFiles/WOSCorpus(342)	2013	6	22	Habitat variation and wing coloration affect wing shape evolution in dragonflies	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+343	inputFiles/WOSCorpus(343)	2013	6	22	Morris Goodman's hominoid rate slowdown: The importance of being neutral	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+344	inputFiles/WOSCorpus(344)	2013	6	22	Haplodiploidy, Sex-Ratio Adjustment, and Eusociality	June 22, 2013	AMERICAN NATURALIST
+345	inputFiles/WOSCorpus(345)	2013	6	22	Optimal Control and Cold War Dynamics between Plant and Herbivore	June 22, 2013	AMERICAN NATURALIST
+346	inputFiles/WOSCorpus(346)	2013	6	22	Neanderthal teeth from moula-guercy, ArDecemberhe, France	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+347	inputFiles/WOSCorpus(347)	2013	6	22	Human talus bones from the Middle Pleistocene site of Sima de los Huesos (Sierra de Atapuerca, Burgos, Spain)	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+348	inputFiles/WOSCorpus(348)	2013	6	22	Conservation and Functional Element Discovery in 20 Angiosperm Plant Genomes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+349	inputFiles/WOSCorpus(349)	2013	6	22	Mass production of SNP Marchkers in a nonmodel passerine bird through RAD sequencing and contig mapping to the zebra finch genome	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+350	inputFiles/WOSCorpus(350)	2013	6	22	Heterogeneous Models Place the Root of the Placental Mammal Phylogeny	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+351	inputFiles/WOSCorpus(351)	2013	6	22	Disruptive viability selection on adult exploratory behaviour in eastern chipmunks	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+352	inputFiles/WOSCorpus(352)	2013	6	22	Stylar polymorphism, reciprocity and incompatibility systems in Nymphoides montana (Menyanthaceae) endemic to southeastern Australia	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+353	inputFiles/WOSCorpus(353)	2013	6	22	Family-based guilds in the ant Pachycondyla inversa	June 22, 2013	BIOLOGY LETTERS
+354	inputFiles/WOSCorpus(354)	2013	6	22	PUPARIATION SITE PREFERENCE WITHIN AND BETWEEN DROSOPHILA SIBLING SPECIES	June 22, 2013	EVOLUTION
+355	inputFiles/WOSCorpus(355)	2013	6	22	Antennapedia is involved in the development of thoracic legs and segmentation in the silkworm, Bombyx mori	June 22, 2013	HEREDITY
+356	inputFiles/WOSCorpus(356)	2013	6	22	Phylogenetic analysis reveals the coexistence of interfamily and interspecies horizontal gene transfer in Streptococcus thermophilus strains isolated from the same yoghurt	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+357	inputFiles/WOSCorpus(357)	2013	6	22	Exploring the costs of horizontal gene transfer	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+358	inputFiles/WOSCorpus(358)	2013	6	22	A Functional Isopenicillin N Synthase in an Animal Genome	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+359	inputFiles/WOSCorpus(359)	2013	6	22	Neural steroid sensitivity and aggression: comparing individuals of two songbird subspecies	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+360	inputFiles/WOSCorpus(360)	2013	6	22	Genetic mapping of three quantitative trait loci for soybean aphid resistance in PI 567324	June 22, 2013	HEREDITY
+361	inputFiles/WOSCorpus(361)	2013	6	22	THE DYNAMICS OF RECIPROCAL SELECTIVE SWEEPS OF HOST RESISTANCE AND A PARASITE COUNTER-ADAPTATION IN DROSOPHILA	June 22, 2013	EVOLUTION
+362	inputFiles/WOSCorpus(362)	2013	6	22	Niche differentiation and colonization of a Novemberel environment by an asexual parasitic wasp	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+363	inputFiles/WOSCorpus(363)	2013	6	22	Hybridization and the porous genome: patterns of isolation and introgression in manakins	June 22, 2013	MOLECULAR ECOLOGY
+364	inputFiles/WOSCorpus(364)	2013	6	22	The convergent evolution of blue iris pigmentation in primates took distinct molecular paths	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+365	inputFiles/WOSCorpus(365)	2013	6	22	Epistasis between mutations is host-dependent for an RNA virus	June 22, 2013	BIOLOGY LETTERS
+366	inputFiles/WOSCorpus(366)	2013	6	22	The role of cultural transmission in human demographic change: An age-structured model	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+367	inputFiles/WOSCorpus(367)	2013	6	22	SOCIAL LEARNERS REQUIRE PROCESS INFORMATION TO OUTPERFORM INDIVIDUAL LEARNERS	June 22, 2013	EVOLUTION
+368	inputFiles/WOSCorpus(368)	2013	6	22	Evolution of improvement and cumulative culture	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+369	inputFiles/WOSCorpus(369)	2013	6	22	Human Demographic Processes and Genetic Variation as Revealed by mtDNA Simulations	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+370	inputFiles/WOSCorpus(370)	2013	6	22	Genetic drift or natural selection? Hybridization and asymmetric mitochondrial introgression in two Caribbean lizards (Anolis pulchellus and Anolis krugi)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+371	inputFiles/WOSCorpus(371)	2013	6	22	Pollinator-mediated selection on floral morphology: evidence for transgressive evolution in a derived hybrid lineage	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+372	inputFiles/WOSCorpus(372)	2013	6	22	Progressive genome-wide introgression in agricultural Campylobacter coli	June 22, 2013	MOLECULAR ECOLOGY
+373	inputFiles/WOSCorpus(373)	2013	6	22	Gene flow across a hybrid zone maintained by a weak heterogametic incompatibility and positive selection of incompatible alleles	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+374	inputFiles/WOSCorpus(374)	2013	6	22	Hybridization and speciation	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+375	inputFiles/WOSCorpus(375)	2013	6	22	Reticulate evolution in Ranunculus cantonensis polyploid complex and its allied species	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+376	inputFiles/WOSCorpus(376)	2013	6	22	Rapid, habitat-related evolution of land snail colour morphs on reclaimed land	June 22, 2013	HEREDITY
+377	inputFiles/WOSCorpus(377)	2013	6	22	Elongation factor-1 alpha, a putative single-copy nuclear gene, has divergent sets of paralogs in an arachnid	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+378	inputFiles/WOSCorpus(378)	2013	6	22	The role of chromosomal rearrangements and geographical barriers in the divergence of lineages in a South American subterranean rodent (Rodentia: Ctenomyidae: Ctenomys minutus)	June 22, 2013	HEREDITY
+379	inputFiles/WOSCorpus(379)	2013	6	22	Ecological correlates of the distribution limits of two poeciliid species along a salinity gradient	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+380	inputFiles/WOSCorpus(380)	2013	6	22	Experimental evolution reveals trade-offs between mating and immunity	June 22, 2013	BIOLOGY LETTERS
+381	inputFiles/WOSCorpus(381)	2013	6	22	The nOctoberurnal bottleneck and the evolution of activity patterns in mammals	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+382	inputFiles/WOSCorpus(382)	2013	6	22	Experimental evolution of multicellularity using microbial pseudo-organisms	June 22, 2013	BIOLOGY LETTERS
+383	inputFiles/WOSCorpus(383)	2013	6	22	Evolution of the Eye Transcriptome under Constant Darkness in Sinocyclocheilus Cavefish	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+384	inputFiles/WOSCorpus(384)	2013	6	22	Maintenance of essential amino acid synthesis pathways in the Blattabacterium cuenoti symbiont of a wood-feeding cockroach	June 22, 2013	BIOLOGY LETTERS
+385	inputFiles/WOSCorpus(385)	2013	6	22	Taxonomic validity of species groups in the genus Akodon (Rodentia, Cricetidae)	June 22, 2013	ZOOLOGICA SCRIPTA
+386	inputFiles/WOSCorpus(386)	2013	6	22	Duplicated STM-like KNOX I genes act in floral meristem activity in Eschscholzia californica (Papaveraceae)	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+387	inputFiles/WOSCorpus(387)	2013	6	22	No Evidence that Male Choice Contributes to the Maintenance of a Shared, Sex-Limited Trait in Mimetic and Non-mimetic Female Tiger Swallowtail Butterflies, Papilio glaucus	June 22, 2013	EVOLUTIONARY BIOLOGY
+388	inputFiles/WOSCorpus(388)	2013	6	22	Strategic reduction of help before dispersal in a cooperative breeder	June 22, 2013	BIOLOGY LETTERS
+389	inputFiles/WOSCorpus(389)	2013	6	22	The Skeletal Proteome of the Coral Acropora millepora: The Evolution of Calcification by Co-Option and Domain Shuffling	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+390	inputFiles/WOSCorpus(390)	2013	6	22	HOW DOES POLLEN VERSUS SEED DISPERSAL AFFECT NICHE EVOLUTION?	June 22, 2013	EVOLUTION
+391	inputFiles/WOSCorpus(391)	2013	6	22	Dancing together and Septemberarate again: gymnosperms exhibit frequent changes of fundamental 5S and 35S rRNA gene (rDNA) organisation	June 22, 2013	HEREDITY
+392	inputFiles/WOSCorpus(392)	2013	6	22	Expansion of Secretin-Like G Protein-Coupled Receptors and Their Peptide Ligands via Local Duplications Before and After Two Rounds of Whole-Genome Duplication	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+393	inputFiles/WOSCorpus(393)	2013	6	22	Testing the use of ITS rDNA and protein-coding genes in the generic and species delimitation of the lichen genus Usnea (Parmeliaceae, Ascomycota)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+394	inputFiles/WOSCorpus(394)	2013	6	22	TESTING MODELS OF SEX RATIO EVOLUTION IN A GYNODIOECIOUS PLANT: FEMALE FREQUENCY COVARIES WITH THE COST OF MALE FERTILITY RESTORATION	June 22, 2013	EVOLUTION
+395	inputFiles/WOSCorpus(395)	2013	6	22	When Unreliable Cues Are Good Enough	June 22, 2013	AMERICAN NATURALIST
+396	inputFiles/WOSCorpus(396)	2013	6	22	The Dynamics of Supernumerary Tooth Development Are Differentially Regulated by Sprouty Genes	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+397	inputFiles/WOSCorpus(397)	2013	6	22	SPERM COMPETITIVE ABILITY EVOLVES IN RESPONSE TO EXPERIMENTAL ALTERATION OF OPERATIONAL SEX RATIO	June 22, 2013	EVOLUTION
+398	inputFiles/WOSCorpus(398)	2013	6	22	Phylogeny and assemblage composition of Frankia in Alnus tenuifolia nodules across a priMarchy successional sere in interior Alaska	June 22, 2013	MOLECULAR ECOLOGY
+399	inputFiles/WOSCorpus(399)	2013	6	22	Evolution of an Ancient Microsatellite Hotspot in the Conifer Mitochondrial Genome and Comparison with Other Plants	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+400	inputFiles/WOSCorpus(400)	2013	6	22	A modified Procrustes analysis for bilaterally symmetrical outlines, with an application to microevolution in Baculites	June 22, 2013	PALEOBIOLOGY
+401	inputFiles/WOSCorpus(401)	2013	6	22	Phylogenetic Estimation of Timescales Using Ancient DNA: The Effects of Temporal Sampling Scheme and Uncertainty in Sample Ages	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+402	inputFiles/WOSCorpus(402)	2013	6	22	Comparing Evolutionary Rates for Different Phenotypic Traits on a Phylogeny Using Likelihood	June 22, 2013	SYSTEMATIC BIOLOGY
+403	inputFiles/WOSCorpus(403)	2013	6	22	Enemy targeting, trade-offs, and the evolutionary assembly of a tortoise beetle defense arsenal	June 22, 2013	EVOLUTIONARY ECOLOGY
+404	inputFiles/WOSCorpus(404)	2013	6	22	Beyond lifetime reproductive success: the posthumous reproductive dynamics of male Trinidadian guppies	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+405	inputFiles/WOSCorpus(405)	2013	6	22	Within-population polymorphism of sex-determination systems in the common frog (Rana temporaria)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+406	inputFiles/WOSCorpus(406)	2013	6	22	SEX-CHROMOSOME TURNovemberERS INDUCED BY DELETERIOUS MUTATION LOAD	June 22, 2013	EVOLUTION
+407	inputFiles/WOSCorpus(407)	2013	6	22	Resource transfers and evolution: Helpful offspring and sex allocation	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+408	inputFiles/WOSCorpus(408)	2013	6	22	Fixation and Accumulation of Thermotolerant Catalytic Competence of a Pair of Ligase Ribozymes Through Complex Formation and Cross Ligation	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+409	inputFiles/WOSCorpus(409)	2013	6	22	Sex-linked transcriptional divergence in the hermaphrodite fungus Neurospora tetrasperma	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+410	inputFiles/WOSCorpus(410)	2013	6	22	Influence of body mass on the shape of forelimb in musteloid carnivorans	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+411	inputFiles/WOSCorpus(411)	2013	6	22	Absence of post-lesion reactive gliosis in elasmobranchs and turtles and its bearing on the evolution of astroglia	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+412	inputFiles/WOSCorpus(412)	2013	6	22	Genetic mapping of variation in dauer larvae development in growing populations of Caenorhabditis elegans	June 22, 2013	HEREDITY
+413	inputFiles/WOSCorpus(413)	2013	6	22	Relationships among the basal lineages of NOctoberuidae (Lepidoptera, NOctoberuoidea) based on eight gene regions	June 22, 2013	ZOOLOGICA SCRIPTA
+414	inputFiles/WOSCorpus(414)	2013	6	22	Brief communication: Evolution of a specific O allele (O1v(G542A)) supports unique ancestry of Native Americans	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+415	inputFiles/WOSCorpus(415)	2013	6	22	Molecular systematics of the wolf spider genus Lycosa (Araneae: Lycosidae) in the Western Mediterranean Basin	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+416	inputFiles/WOSCorpus(416)	2013	6	22	A Method of Alignment Masking for Refining the Phylogenetic Signal of Multiple Sequence Alignments	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+417	inputFiles/WOSCorpus(417)	2013	6	22	Rapid Divergent Evolution of Male Genitalia Among Populations of Drosophila buzzatii	June 22, 2013	EVOLUTIONARY BIOLOGY
+418	inputFiles/WOSCorpus(418)	2013	6	22	Insemination by a kiss? Interactive 3D-microanatomy, biology and systematics of the mesopsammic cephalaspidean sea slug Pluscula cuica Marchcus, 1953 from Brazil (Gastropoda: Euopisthobranchia: Philinoglossidae)	June 22, 2013	ORGANISMS DIVERSITY & EVOLUTION
+419	inputFiles/WOSCorpus(419)	2013	6	22	Evidence for selective sweeps by Wolbachia infections: phylogeny of Altica leaf beetles and their reproductive parasites	June 22, 2013	MOLECULAR ECOLOGY
+420	inputFiles/WOSCorpus(420)	2013	6	22	Cryptic patterns of diversification of a widespread Amazonian Woodcreeper species complex (Ayes: Dendrocolaptidae) inferred from multilocus phylogenetic analysis: Implications for historical biogeography and taxonomy	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+421	inputFiles/WOSCorpus(421)	2013	6	22	Global spread and genetic variants of the two CYP9M10 haplotype forms associated with insecticide resistance in Culex quinquefasciatus Say	June 22, 2013	HEREDITY
+422	inputFiles/WOSCorpus(422)	2013	6	22	Integrative analysis of DNA phylogeography and morphology of the European rose chafer (Cetonia aurata) to infer species taxonomy and patterns of postglacial colonisation in Europe	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+423	inputFiles/WOSCorpus(423)	2013	6	22	Contrasting genetic responses to population fragmentation in a coevolving fig and fig wasp across a mainland-island archipelago	June 22, 2013	MOLECULAR ECOLOGY
+424	inputFiles/WOSCorpus(424)	2013	6	22	Heterospecific Aggression and Dominance in a Guild of Coral-Feeding Fishes: The Roles of Dietary Ecology and Phylogeny	June 22, 2013	AMERICAN NATURALIST
+425	inputFiles/WOSCorpus(425)	2013	6	22	LINE-1-Derived Poly(A) Microsatellites Undergo Rapid Shortening and Create Somatic and Germline Mosaicism in Mice	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+426	inputFiles/WOSCorpus(426)	2013	6	22	PHYLOGENETIC INFERENCE OF NUPTIAL TRAIT EVOLUTION IN THE CONTEXT OF ASYMMETRICAL INTROGRESSION IN NORTH AMERICAN DARTERS (TELEOSTEI)	June 22, 2013	EVOLUTION
+427	inputFiles/WOSCorpus(427)	2013	6	22	ADAPTIVE DIVERGENCE AT THE MarchGIN OF AN INVADED RANGE	June 22, 2013	EVOLUTION
+428	inputFiles/WOSCorpus(428)	2013	6	22	Environmental determinants of population divergence in life-history traits for an invasive species: climate, seasonality and natural enemies	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+429	inputFiles/WOSCorpus(429)	2013	6	22	Understanding the genetic basis of invasiveness	June 22, 2013	MOLECULAR ECOLOGY
+430	inputFiles/WOSCorpus(430)	2013	6	22	Molecular genetics and genomics generate new insights into invertebrate pest invasions	June 22, 2013	EVOLUTIONARY APPLICATIONS
+431	inputFiles/WOSCorpus(431)	2013	6	22	Organelle Genome Complexity Scales Positively with Organism Size in Volvocine Green Algae	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+432	inputFiles/WOSCorpus(432)	2013	6	22	Melanocortin-1-receptor (MC1R) variation is not associated with parasite burden in a neotropical bird, the bananaquit (Coereba flaveola)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+433	inputFiles/WOSCorpus(433)	2013	6	22	The Rate of Molecular Adaptation in a Changing Environment	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+434	inputFiles/WOSCorpus(434)	2013	6	22	Calves as social hubs: dynamics of the social network within sperm whale units	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+435	inputFiles/WOSCorpus(435)	2013	6	22	The number of endemic species of freshwater sponges (Malawispongiidae Spongillina Porifera) from Lake Kinneret is overestimated	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+436	inputFiles/WOSCorpus(436)	2013	6	22	THE COMPLEX INTERPLAY OF SEX ALLOCATION AND SEXUAL SELECTION	June 22, 2013	EVOLUTION
+437	inputFiles/WOSCorpus(437)	2013	6	22	Unusual anal fin in a Devonian jawless vertebrate reveals complex origins of paired appendages	June 22, 2013	BIOLOGY LETTERS
+438	inputFiles/WOSCorpus(438)	2013	6	22	Cranial variation in Meriones tristrami (Rodentia: Muridae: Gerbillinae) and its morphological comparison with Meriones persicus, Meriones vinogradovi and Meriones libycus: a geometric morphometric study	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+439	inputFiles/WOSCorpus(439)	2013	6	22	EVOLUTION OF STATIC ALLOMETRIES: ADAPTIVE CHANGE IN ALLOMETRIC SLOPES OF EYE SPAN IN STALK-EYED FLIES	June 22, 2013	EVOLUTION
+440	inputFiles/WOSCorpus(440)	2013	6	22	Assessment of molecular diversity and evolutionary relationship of kenaf (Hibiscus cannabinus L.), roselle (H-sabdariffa L.) and their wild relatives	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+441	inputFiles/WOSCorpus(441)	2013	6	22	Cheaters sometimes prosper: targeted worker reproduction in honeybee (Apis mellifera) colonies during swarming	June 22, 2013	MOLECULAR ECOLOGY
+442	inputFiles/WOSCorpus(442)	2013	6	22	Deltocyathiidae, an early-diverging family of Robust corals (Anthozoa, Scleractinia)	June 22, 2013	ZOOLOGICA SCRIPTA
+443	inputFiles/WOSCorpus(443)	2013	6	22	Divergence time estimation in Cichorieae (Asteraceae) using a fossil-calibrated relaxed molecular clock	June 22, 2013	ORGANISMS DIVERSITY & EVOLUTION
+444	inputFiles/WOSCorpus(444)	2013	6	22	Current relaxation of selection on the human genome: Tolerance of deleterious mutations on olfactory receptors	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+445	inputFiles/WOSCorpus(445)	2013	6	22	Age and sex affect quantitative genetic parameters for dominance rank and aggression in free-living greylag geese	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+446	inputFiles/WOSCorpus(446)	2013	6	22	EXPERIMENTAL EVOLUTION OF HETEROTROPHY IN A GREEN ALGA	June 22, 2013	EVOLUTION
+447	inputFiles/WOSCorpus(447)	2013	6	22	Diversification of plant species in arid Northwest China: Species-level phylogeographical history of Lagochilus Bunge ex Bentham (Lamiaceae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+448	inputFiles/WOSCorpus(448)	2013	6	22	The effects of age, sex, and habitat on body size and shape of the blackstripe topminnow, Fundulus notatus (Cyprinodontiformes: Fundulidae) (Rafinesque 1820)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+449	inputFiles/WOSCorpus(449)	2013	6	22	Partial generic revision of Barbula (Musci: Pottiaceae): Re-establishment of Hydrogonium and Streblotrichum, and the new genus Gymnobarbula	June 22, 2013	TAXON
+450	inputFiles/WOSCorpus(450)	2013	6	22	Carrion fly-derived DNA as a tool for comprehensive and cost-effective assessment of mammalian biodiversity	June 22, 2013	MOLECULAR ECOLOGY
+451	inputFiles/WOSCorpus(451)	2013	6	22	Ecological change in the lower Omo Valley around 2.8 Ma	June 22, 2013	BIOLOGY LETTERS
+452	inputFiles/WOSCorpus(452)	2013	6	22	Comparative morphology of leaf epidermis in the genus Lithocarpus and its implication in leaf epidermal feature evolution in Fagaceae	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+453	inputFiles/WOSCorpus(453)	2013	6	22	Predator driven reproductive behavior in a tropical frog	June 22, 2013	EVOLUTIONARY ECOLOGY
+454	inputFiles/WOSCorpus(454)	2013	6	22	Coat Color Variation and Pigmentation Gene Expression in Rhesus Macaques (Macaca mulatta)	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+455	inputFiles/WOSCorpus(455)	2013	6	22	Combining Genome-Wide Methods to Investigate the Genetic Complexity of Courtship Song Variation in Drosophila melanogaster	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+456	inputFiles/WOSCorpus(456)	2013	6	22	AN ADAPTIVE RADIATION OF FROGS IN A SOUTHEAST ASIAN ISLAND ARCHIPELAGO	June 22, 2013	EVOLUTION
+457	inputFiles/WOSCorpus(457)	2013	6	22	Ultraviolet and carotenoid-based coloration in the viviparous lizard Zootoca vivipara (Squamata: Lacertidae) in relation to age, sex, and morphology	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+458	inputFiles/WOSCorpus(458)	2013	6	22	Ecological speciation along an elevational gradient in a tropical passerine bird?	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+459	inputFiles/WOSCorpus(459)	2013	6	22	Signals of selection in outlier loci in a widely dispersing species across an environmental mosaic	June 22, 2013	MOLECULAR ECOLOGY
+460	inputFiles/WOSCorpus(460)	2013	6	22	Patterns of sexual size dimorphism in Chelonia	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+461	inputFiles/WOSCorpus(461)	2013	6	22	Comparative histomorphology of intrinsic vibrissa musculature among primates: implications for the evolution of sensory ecology and face touch	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+462	inputFiles/WOSCorpus(462)	2013	6	22	Nonparallelism in MHCII diversity accompanies nonparallelism in pathogen infection of lake whitefish (Coregonus clupeaformis) species pairs as revealed by next-generation sequencing	June 22, 2013	MOLECULAR ECOLOGY
+463	inputFiles/WOSCorpus(463)	2013	6	22	The stem cell system in demosponges: suggested involvement of two types of cells: archeocytes (active stem cells) and choanocytes (food-entrapping flagellated cells)	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+464	inputFiles/WOSCorpus(464)	2013	6	22	Homosexual behaviour increases male attractiveness to females	June 22, 2013	BIOLOGY LETTERS
+465	inputFiles/WOSCorpus(465)	2013	6	22	Intra-specific Variation in the Effect of Male Seminal Substances on Female Oviposition and Longevity in Callosobruchus chinensis	June 22, 2013	EVOLUTIONARY BIOLOGY
+466	inputFiles/WOSCorpus(466)	2013	6	22	The Shared Genome Is a Pervasive Constraint on the Evolution of Sex-Biased Gene Expression	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+467	inputFiles/WOSCorpus(467)	2013	6	22	The scope and strength of sex-specific selection in genome evolution	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+468	inputFiles/WOSCorpus(468)	2013	6	22	Giant lizards occupied herbivorous mammalian ecospace during the Paleogene greenhouse in Southeast Asia	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+469	inputFiles/WOSCorpus(469)	2013	6	22	Exploring the effects of gene dosage on mandible shape in mice as a model for studying the genetic basis of natural variation	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+470	inputFiles/WOSCorpus(470)	2013	6	22	Forests as promoters of terrestrial life-history strategies in East African amphibians	June 22, 2013	BIOLOGY LETTERS
+471	inputFiles/WOSCorpus(471)	2013	6	22	Assessing the Patterns of Evolution in Anuran Vocal Sexual Signals	June 22, 2013	EVOLUTIONARY BIOLOGY
+472	inputFiles/WOSCorpus(472)	2013	6	22	Independent sources of condition dependency and multiple pathways determine a composite trait: lessons from carotenoid-based plumage colouration	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+473	inputFiles/WOSCorpus(473)	2013	6	22	Substrate Ambiguous Enzymes within the Escherichia coli Proteome Offer Different Evolutionary Solutions to the Same Problem	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+474	inputFiles/WOSCorpus(474)	2013	6	22	Disentangling the effects of mating systems and mutation rates on cytoplamic diversity in gynodioecious Silene nutans and dioecious Silene otites	June 22, 2013	HEREDITY
+475	inputFiles/WOSCorpus(475)	2013	6	22	Herbicide resistance-endowing ACCase gene mutations in hexaploid wild oat (Avena fatua): insights into resistance evolution in a hexaploid species	June 22, 2013	HEREDITY
+476	inputFiles/WOSCorpus(476)	2013	6	22	Not drowning, (hand)waving? Molecular phylogenetics, biogeography and evolutionary tempo of the 'Gondwanan' midge Stictocladius Edwards (Diptera: Chironomidae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+477	inputFiles/WOSCorpus(477)	2013	6	22	Disentangling taste and toxicity in aposematic prey	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+478	inputFiles/WOSCorpus(478)	2013	6	22	Puny males punch above their weight to preserve genetic diversity in a Decemberlining Atlantic salmon population	June 22, 2013	MOLECULAR ECOLOGY
+479	inputFiles/WOSCorpus(479)	2013	6	22	The evolution of predictive adaptive responses in human life history	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+480	inputFiles/WOSCorpus(480)	2013	6	22	Genetic aspects of mitochondrial genome evolution	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+481	inputFiles/WOSCorpus(481)	2013	6	22	COMMENT ON MarchDEN (2013): REANALYSIS AND EXPERIMENTAL EVIDENCE INDICATE THAT THE EARLIEST TRACE FOSSIL OF A WINGED INSECT WAS A SURFACE SKIMMING NEOPTERAN	June 22, 2013	EVOLUTION
+482	inputFiles/WOSCorpus(482)	2013	6	22	Extensive variation at MHC DRB in the New Zealand sea lion (Phocarctos hookeri) provides evidence for balancing selection	June 22, 2013	HEREDITY
+483	inputFiles/WOSCorpus(483)	2013	6	22	CodonPhyML: Fast Maximum Likelihood Phylogeny Estimation under Codon Substitution Models	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+484	inputFiles/WOSCorpus(484)	2013	6	22	HOW TO MEASURE MATURATION: A COMPARISON OF PROBABILISTIC METHODS USED TO TEST FOR GENOTYPIC VARIATION AND PLASTICITY IN THE DecemberISION TO MATURE	June 22, 2013	EVOLUTION
+485	inputFiles/WOSCorpus(485)	2013	6	22	Bite force and occlusal stress production in hominin evolution	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+486	inputFiles/WOSCorpus(486)	2013	6	22	Adaptive evolution of Mediterranean pines	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+487	inputFiles/WOSCorpus(487)	2013	6	22	Darker female pigeons transmit more specific antibodies to their eggs than do paler ones	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+488	inputFiles/WOSCorpus(488)	2013	6	22	The costs of being dark: the genetic basis of melanism and its association with fitness-related traits in the sand cricket	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+489	inputFiles/WOSCorpus(489)	2013	6	22	Genome-wide identification and expression profiling of ankyrin-repeat gene family in maize	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+490	inputFiles/WOSCorpus(490)	2013	6	22	Phylogenetic analysis of the angiosperm-floricolous insect-yeast association: Have yeast and angiosperm lineages co-diversified?	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+491	inputFiles/WOSCorpus(491)	2013	6	22	On the limits of interpreting some plastic responses through a cooperator/cheater prism. A comment on Harrison	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+492	inputFiles/WOSCorpus(492)	2013	6	22	Disease defence through generations: leaf-cutter ants and their symbiotic bacteria	June 22, 2013	MOLECULAR ECOLOGY
+493	inputFiles/WOSCorpus(493)	2013	6	22	Human MicroRNAs Originated from Two Periods at Accelerated Rates in Mammalian Evolution	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+494	inputFiles/WOSCorpus(494)	2013	6	22	Developmental expression and evolution of muscle-specific microRNAs conserved in vertebrates	June 22, 2013	EVOLUTION & DEVELOPMENT
+495	inputFiles/WOSCorpus(495)	2013	6	22	A comparison of antemortem tooth loss in human hunter-gatherers and non-human catarrhines: Implications for the identification of behavioral evolution in the human fossil record	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+496	inputFiles/WOSCorpus(496)	2013	6	22	Unravelling migratory connections: the next level	June 22, 2013	MOLECULAR ECOLOGY
+497	inputFiles/WOSCorpus(497)	2013	6	22	Are diminutive turtles miniaturized? The ontogeny of plastron shape in emydine turtles	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+498	inputFiles/WOSCorpus(498)	2013	6	22	The Ancient and Widespread Nature of the ER-Mitochondria Encounter Structure	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+499	inputFiles/WOSCorpus(499)	2013	6	22	FUBAR: A Fast, Unconstrained Bayesian AppRoximation for Inferring Selection	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+500	inputFiles/WOSCorpus(500)	2013	6	22	Cannibalism as an interacting phenotype: precannibalistic aggression is influenced by social partners in the endangered Socorro Isopod (Thermosphaeroma thermophilum)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+501	inputFiles/WOSCorpus(501)	2013	6	22	Diversity in neotropical wet forests during the Cenozoic is linked more to atmospheric CO2 than temperature	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+502	inputFiles/WOSCorpus(502)	2013	6	22	How should parents adjust the size of their young in response to local environmental cues?	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+503	inputFiles/WOSCorpus(503)	2013	6	22	STRONG ASSORTATIVE MATING BY DIET, COLOR, SIZE, AND MORPHOLOGY BUT LIMITED PROGRESS TOWARD SYMPATRIC SPECIATION IN A CLASSIC EXAMPLE: CAMEROON CRATER LAKE CICHLIDS	June 22, 2013	EVOLUTION
+504	inputFiles/WOSCorpus(504)	2013	6	22	Deep metazoan phylogeny: When different genes tell different stories	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+505	inputFiles/WOSCorpus(505)	2013	6	22	Intraspecific variability through ontogeny in early ammonoids	June 22, 2013	PALEOBIOLOGY
+506	inputFiles/WOSCorpus(506)	2013	6	22	Spontaneous male death and monogyny in the dark fishing spider	June 22, 2013	BIOLOGY LETTERS
+507	inputFiles/WOSCorpus(507)	2013	6	22	Evolutionary Divergence and Convergence in Shape and Size Within African Antelope Proximal Phalanges	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+508	inputFiles/WOSCorpus(508)	2013	6	22	Broad polyphyly and historical biogeography of the neotropical wasp genus Notiospathius (Braconidae: Doryctinae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+509	inputFiles/WOSCorpus(509)	2013	6	22	Integration of the mammalian shoulder girdle within populations and over evolutionary time	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+510	inputFiles/WOSCorpus(510)	2013	6	22	Two- Versus Three-Dimensional Morphometric Approaches in Macroevolution: Insight from the Mandible of Caviomorph Rodents	June 22, 2013	EVOLUTIONARY BIOLOGY
+511	inputFiles/WOSCorpus(511)	2013	6	22	Jaguariba wiersemana gen. November et sp November., an Early Cretaceous member of crown group Nymphaeales (Nymphaeaceae) from northern Gondwana	June 22, 2013	TAXON
+512	inputFiles/WOSCorpus(512)	2013	6	22	The lemur revolution starts now: The genomic coming of age for a non-model organism	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+513	inputFiles/WOSCorpus(513)	2013	6	22	Evidence for Polygenic Adaptation to Pathogens in the Human Genome	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+514	inputFiles/WOSCorpus(514)	2013	6	22	Hatching and residual yolk internalization in lizards: evolution, function and fate of the amnion	June 22, 2013	EVOLUTION & DEVELOPMENT
+515	inputFiles/WOSCorpus(515)	2013	6	22	A Branch-Heterogeneous Model of Protein Evolution for Efficient Inference of Ancestral Sequences	June 22, 2013	SYSTEMATIC BIOLOGY
+516	inputFiles/WOSCorpus(516)	2013	6	22	Towards a general, population-level understanding of eco-evolutionary change	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+517	inputFiles/WOSCorpus(517)	2013	6	22	Class of Multiple Sequence Alignment Algorithm Affects Genomic Analysis	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+518	inputFiles/WOSCorpus(518)	2013	6	22	No Gene-Specific Optimization of Mutation Rate in Escherichia coli	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+519	inputFiles/WOSCorpus(519)	2013	6	22	Genotype-by-environment interactions due to antibiotic resistance and adaptation in Escherichia coli	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+520	inputFiles/WOSCorpus(520)	2013	6	22	Plant-animal mutualism in biological Marchkets: Evolutionary and ecological dynamics driven by non-heritable phenotypic variance	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+521	inputFiles/WOSCorpus(521)	2013	6	22	Proteases hold the key to an exclusive mutualism	June 22, 2013	MOLECULAR ECOLOGY
+522	inputFiles/WOSCorpus(522)	2013	6	22	Exclusive rewards in mutualisms: ant proteases and plant protease inhibitors create a lock-key system to protect Acacia food bodies from exploitation	June 22, 2013	MOLECULAR ECOLOGY
+523	inputFiles/WOSCorpus(523)	2013	6	22	Sphaerospora sensu stricto: Taxonomy, diversity and evolution of a unique lineage of myxosporeans (Myxozoa)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+524	inputFiles/WOSCorpus(524)	2013	6	22	Phylogenetic- and genome-derived insight into the evolution of N-glycosylation in Archaea	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+525	inputFiles/WOSCorpus(525)	2013	6	22	Demographic Expansions in South America: Enlightening a Complex Scenario With Genetic and Linguistic Data	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+526	inputFiles/WOSCorpus(526)	2013	6	22	Protein Conformational Diversity Correlates with Evolutionary Rate	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+527	inputFiles/WOSCorpus(527)	2013	6	22	Exploring phylogeography and species limits in the Altai vole (Rodentia: Cricetidae)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+528	inputFiles/WOSCorpus(528)	2013	6	22	Pollinators and nectar robbers cause directional selection for large spur circle in Impatiens oxyanthera (Balsaminaceae)	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+529	inputFiles/WOSCorpus(529)	2013	6	22	Nectocaridid ecology, diversity, and affinity: early origin of a cephalopod-like body plan	June 22, 2013	PALEOBIOLOGY
+530	inputFiles/WOSCorpus(530)	2013	6	22	Addressing Gene Tree Discordance and Non-Stationarity to Resolve a Multi-Locus Phylogeny of the Flatfishes (Teleostei: Pleuronectiformes)	June 22, 2013	SYSTEMATIC BIOLOGY
+531	inputFiles/WOSCorpus(531)	2013	6	22	Population Genomics and Transcriptional Consequences of Regulatory Motif Variation in Globally Diverse Saccharomyces cerevisiae Strains	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+532	inputFiles/WOSCorpus(532)	2013	6	22	Ultrafast Approximation for Phylogenetic Bootstrap	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+533	inputFiles/WOSCorpus(533)	2013	6	22	Mus in Morocco: a Quaternary sequence of intraspecific evolution	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+534	inputFiles/WOSCorpus(534)	2013	6	22	Experimental evidence for trait utility of gill raker number in adaptive radiation of a north temperate fish	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+535	inputFiles/WOSCorpus(535)	2013	6	22	Phylogeographical pattern of Euplotes nobilii, a protist ciliate with a bipolar biogeographical distribution	June 22, 2013	MOLECULAR ECOLOGY
+536	inputFiles/WOSCorpus(536)	2013	6	22	On the Genetic Architecture of Cytoplasmic Incompatibility: Inference from Phenotypic Data	June 22, 2013	AMERICAN NATURALIST
+537	inputFiles/WOSCorpus(537)	2013	6	22	Interchanging Functionality Among Homologous Elongation Factors Using Signatures of Heterotachy	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+538	inputFiles/WOSCorpus(538)	2013	6	22	Efficient mitigation of founder effects during the establishment of a leading-edge oak population	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+539	inputFiles/WOSCorpus(539)	2013	6	22	DEGREE OF SPECIALIZATION IS RELATED TO BODY SIZE IN HERBIVOROUS INSECTS: A PHYLOGENETIC CONFIRMATION	June 22, 2013	EVOLUTION
+540	inputFiles/WOSCorpus(540)	2013	6	22	Impacts of ocean acidification on Marchine seafood	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+541	inputFiles/WOSCorpus(541)	2013	6	22	INTERSPECIFIC COMPETITION ALTERS NONLINEAR SELECTION ON OFFSPRING SIZE IN THE FIELD	June 22, 2013	EVOLUTION
+542	inputFiles/WOSCorpus(542)	2013	6	22	Last of the oligopithecids? A dwarf species from the youngest primate-bearing level of the Jebel Qatrani Formation, northern Egypt	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+543	inputFiles/WOSCorpus(543)	2013	6	22	Field et al. Redux.	June 22, 2013	EVODEVO
+544	inputFiles/WOSCorpus(544)	2013	6	22	The Red Queen Process does not Select for High Recombination Rates in Haplodiploid Hosts	June 22, 2013	EVOLUTIONARY BIOLOGY
+545	inputFiles/WOSCorpus(545)	2013	6	22	Adaptive evolution of vertebrate-type cryptochrome in the ancestors of Hymenoptera	June 22, 2013	BIOLOGY LETTERS
+546	inputFiles/WOSCorpus(546)	2013	6	22	The genetic basis of speciation in the Giliopsis lineage of Ipomopsis (Polemoniaceae)	June 22, 2013	HEREDITY
+547	inputFiles/WOSCorpus(547)	2013	6	22	Three Independent Determinants of Protein Evolutionary Rate	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+548	inputFiles/WOSCorpus(548)	2013	6	22	On the Relationship between Ontogenetic and Static Allometry	June 22, 2013	AMERICAN NATURALIST
+549	inputFiles/WOSCorpus(549)	2013	6	22	Combining phylogeography and landscape genetics of Xenopipo atronitens (Aves: Pipridae), a white sand campina specialist, to understand Pleistocene landscape evolution in Amazonia	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+550	inputFiles/WOSCorpus(550)	2013	6	22	LOST IN THE MAP	June 22, 2013	EVOLUTION
+551	inputFiles/WOSCorpus(551)	2013	6	22	Yeast Adapts to a Changing Stressful Environment by Evolving Cross-Protection and Anticipatory Gene Regulation	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+552	inputFiles/WOSCorpus(552)	2013	6	22	How to get into bones: proton pump and carbonic anhydrase in Osedax boneworms	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+553	inputFiles/WOSCorpus(553)	2013	6	22	Brief communication: Adrenal androgens and aging: Female chimpanzees (Pan troglodytes) compared with women	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+554	inputFiles/WOSCorpus(554)	2013	6	22	Random walk as a null model for high-dimensional morphometrics of fossil series: geometrical considerations	June 22, 2013	PALEOBIOLOGY
+555	inputFiles/WOSCorpus(555)	2013	6	22	Genetic and life-history changes associated with fisheries-induced population collapse	June 22, 2013	EVOLUTIONARY APPLICATIONS
+556	inputFiles/WOSCorpus(556)	2013	6	22	Molecular phylogeny and chromosome evolution among the creeping herbaceous Oxalis species of sections Corniculatae and Ripariae (Oxalidaceae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+557	inputFiles/WOSCorpus(557)	2013	6	22	Molecular evolution of the oxytocin-oxytocin receptor system in eutherians	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+558	inputFiles/WOSCorpus(558)	2013	6	22	The origin and functional transition of P34	June 22, 2013	HEREDITY
+559	inputFiles/WOSCorpus(559)	2013	6	22	A Phylogenetic Model for the Detection of Epistatic Interactions	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+560	inputFiles/WOSCorpus(560)	2013	6	22	ASL/LBD Phylogeny Suggests that Genetic Mechanisms of Root Initiation Downstream of Auxin Are Distinct in Lycophytes and Euphyllophytes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+561	inputFiles/WOSCorpus(561)	2013	6	22	Starvation Resistance in a Stenothermal Species from the Indian Subcontinent: Mechanistic Basis of Clinal Variation	June 22, 2013	EVOLUTIONARY BIOLOGY
+562	inputFiles/WOSCorpus(562)	2013	6	22	Parallel speciation or long-distance dispersal? Lessons from seaweeds (Fucus) in the Baltic Sea	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+563	inputFiles/WOSCorpus(563)	2013	6	22	The evolutionary potential of paramutation: A population-epigenetic model	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+564	inputFiles/WOSCorpus(564)	2013	6	22	When should a trophically and vertically transmitted parasite manipulate its intermediate host? The case of Toxoplasma gondii	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+565	inputFiles/WOSCorpus(565)	2013	6	22	Revision and tribal placement of the Argentinean genus Parodiodoxa (Brassicaceae)	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+566	inputFiles/WOSCorpus(566)	2013	6	22	Co-evolutionary patterns and diversification of ant-fungus associations in the asexual fungus-farming ant Mycocepurus smithii in Panama	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+567	inputFiles/WOSCorpus(567)	2013	6	22	The evolution of molluscan photosymbioses: a critical appraisal	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+568	inputFiles/WOSCorpus(568)	2013	6	22	Genetic variation in social influence on mate preferences	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+569	inputFiles/WOSCorpus(569)	2013	6	22	Long-term stasis and short-term divergence in the phenotypes of microsnails on oceanic islands	June 22, 2013	MOLECULAR ECOLOGY
+570	inputFiles/WOSCorpus(570)	2013	6	22	Building Phylogenetic Trees from Molecular Data with MEGA	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+571	inputFiles/WOSCorpus(571)	2013	6	22	The evolution of major temnospondyl clades: an inclusive phylogenetic analysis	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+572	inputFiles/WOSCorpus(572)	2013	6	22	Why care? Inferring the evolution of complex social behaviour	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+573	inputFiles/WOSCorpus(573)	2013	6	22	SIMULATION-BASED LIKELIHOOD APPROACH FOR EVOLUTIONARY MODELS OF PHENOTYPIC TRAITS ON PHYLOGENY	June 22, 2013	EVOLUTION
+574	inputFiles/WOSCorpus(574)	2013	6	22	Contributions to molecular systematics of water scavenger beetles (Hydrophilidae, Coleoptera)	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+575	inputFiles/WOSCorpus(575)	2013	6	22	The evolution and biogeography of the austral horse fly tribe Scionini (Diptera: Tabanidae: Pangoniinae) inferred from multiple mitochondrial and nuclear genes	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+576	inputFiles/WOSCorpus(576)	2013	6	22	Beyond phylogeny: pelecaniform and ciconiiform birds, and long-term niche stability	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+577	inputFiles/WOSCorpus(577)	2013	6	22	Molecular evidence for taxonomy of Rhacophorus appendiculatus and Kurixalus species from northern Vietnam, with comments on systematics of Kurixalus and Gracixalus (Anura: Rhacophoridae)	June 22, 2013	BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+578	inputFiles/WOSCorpus(578)	2013	6	22	Reconstruction of phylogenetic relationships in a highly reticulate group with deep coalescence and recent speciation (Hieracium, Asteraceae)	June 22, 2013	HEREDITY
+579	inputFiles/WOSCorpus(579)	2013	6	22	Diversification of the monoterpene synthase gene family (TPSb) in Protium, a highly diverse genus of tropical trees	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+580	inputFiles/WOSCorpus(580)	2013	6	22	Resources, competition and selfing: their influence on reproductive system evolution	June 22, 2013	EVOLUTIONARY ECOLOGY
+581	inputFiles/WOSCorpus(581)	2013	6	22	The interplay between relatedness and horizontal gene transfer drives the evolution of plasmid-carried public goods	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+582	inputFiles/WOSCorpus(582)	2013	6	22	Population demography and genetic structure of the fat greenling (Hexagrammos otakii) inferred from mtDNA control region sequence analyses	June 22, 2013	BIOCHEMICAL SYSTEMATICS AND ECOLOGY
+583	inputFiles/WOSCorpus(583)	2013	6	22	European pliopithecid diets revised in the light of dental microwear in Pliopithecus canmatensis and Barberapithecus huerzeleri	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+584	inputFiles/WOSCorpus(584)	2013	6	22	Mutational effects depend on ploidy level: all else is not equal	June 22, 2013	BIOLOGY LETTERS
+585	inputFiles/WOSCorpus(585)	2013	6	22	Phylogeny of Polycnemoideae (AMarchanthaceae): Implications for biogeography, character evolution and taxonomy	June 22, 2013	TAXON
+586	inputFiles/WOSCorpus(586)	2013	6	22	The effects of inheritance in tetraploids on genetic diversity and population divergence	June 22, 2013	HEREDITY
+587	inputFiles/WOSCorpus(587)	2013	6	22	Polyploidy and its effect on evolutionary success: old questions revisited with new tools	June 22, 2013	HEREDITY
+588	inputFiles/WOSCorpus(588)	2013	6	22	Genetic evidence for a high diversity and wide distribution of endemic strains of the pathogenic chytrid fungus Batrachochytrium dendrobatidis in wild Asian amphibians	June 22, 2013	MOLECULAR ECOLOGY
+589	inputFiles/WOSCorpus(589)	2013	6	22	Evolution of clonal populations approaching a fitness peak	June 22, 2013	BIOLOGY LETTERS
+590	inputFiles/WOSCorpus(590)	2013	6	22	DEFENSE TRAITS OF LARVAL DROSOPHILA MELANOGASTER EXHIBIT GENETICALLY BASED TRADE-OFFS AGAINST DIFFERENT SPECIES OF PARASITOIDS	June 22, 2013	EVOLUTION
+591	inputFiles/WOSCorpus(591)	2013	6	22	The Branch-Site Test of Positive Selection Is Surprisingly Robust but Lacks Power under Synonymous Substitution Saturation and Variation in GC	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+592	inputFiles/WOSCorpus(592)	2013	6	22	Embryonic exposure to predator odour modulates visual lateralization in cuttlefish	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+593	inputFiles/WOSCorpus(593)	2013	6	22	The cryptic and the apparent reversed: lack of genetic differentiation within the morphologically diverse plexus of the planktonic foraminifer Globigerinoides sacculifer	June 22, 2013	PALEOBIOLOGY
+594	inputFiles/WOSCorpus(594)	2013	6	22	New insights into differences in brain organization between Neanderthals and anatomically modern humans	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+595	inputFiles/WOSCorpus(595)	2013	6	22	Bayesian Selection of Nucleotide Substitution Models and Their Site Assignments	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+596	inputFiles/WOSCorpus(596)	2013	6	22	Cooperative behaviour and prosocial reputation dynamics in a Dominican village	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+597	inputFiles/WOSCorpus(597)	2013	6	22	The architectural design of networks of protein domain architectures	June 22, 2013	BIOLOGY LETTERS
+598	inputFiles/WOSCorpus(598)	2013	6	22	Triassic-Jurassic mass extinction as trigger for the Mesozoic radiation of crocodylomorphs	June 22, 2013	BIOLOGY LETTERS
+599	inputFiles/WOSCorpus(599)	2013	6	22	Evolutionary Covariation in Geometric Morphometric Data: Analyzing Integration, Modularity, and Allometry in a Phylogenetic Context	June 22, 2013	SYSTEMATIC BIOLOGY
+600	inputFiles/WOSCorpus(600)	2013	6	22	Basal metabolic rate can evolve independently of morphological and behavioural traits	June 22, 2013	HEREDITY
+601	inputFiles/WOSCorpus(601)	2013	6	22	The evolution of queen pheromones in the ant genus Lasius	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+602	inputFiles/WOSCorpus(602)	2013	6	22	On Irish stickleback: morphological diversification in a secondary contact zone	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+603	inputFiles/WOSCorpus(603)	2013	6	22	Pelvic girdle reduction and asymmetry in threespine stickleback from Wallace Lake, Alaska	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+604	inputFiles/WOSCorpus(604)	2013	6	22	The implications of pelvic reduction in threespine stickleback for long-term persistence of populations	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+605	inputFiles/WOSCorpus(605)	2013	6	22	Natural selection and the adaptive radiation of Haida Gwaii stickleback	June 22, 2013	EVOLUTIONARY ECOLOGY RESEARCH
+606	inputFiles/WOSCorpus(606)	2013	6	22	The Adaptation of Temperate Bacteriophages to Their Host Genomes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+607	inputFiles/WOSCorpus(607)	2013	6	22	Annotated genes and nonannotated genomes: cross-species use of Gene Ontology in ecology and evolution research	June 22, 2013	MOLECULAR ECOLOGY
+608	inputFiles/WOSCorpus(608)	2013	6	22	Viewpoints: Diet and dietary adaptations in early hominins: The hard food perspective	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+609	inputFiles/WOSCorpus(609)	2013	6	22	Delimiting species in recent radiations with low levels of morphological divergence: A case study in Australian Gehyra geckos	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+610	inputFiles/WOSCorpus(610)	2013	6	22	As it happens: current directions in experimental evolution	June 22, 2013	BIOLOGY LETTERS
+611	inputFiles/WOSCorpus(611)	2013	6	22	A mathematical description of the inclusive fitness theory	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+612	inputFiles/WOSCorpus(612)	2013	6	22	The strategy of psychopathy: priMarchy psychopathic traits predict defection on low-value relationships	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+613	inputFiles/WOSCorpus(613)	2013	6	22	The fate of the onychophoran antenna	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+614	inputFiles/WOSCorpus(614)	2013	6	22	Evolution and spread of glyphosate resistance in Conyza canadensis in California	June 22, 2013	EVOLUTIONARY APPLICATIONS
+615	inputFiles/WOSCorpus(615)	2013	6	22	Cardinal characters on a slippery slope - A re-evaluation of phylogeny, character evolution, and evolutionary rates in the jelly lichens (Collemataceae s. str)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+616	inputFiles/WOSCorpus(616)	2013	6	22	Genome size in Filago L. (Asteraceae, Gnaphalieae) and related genera: phylogenetic, evolutionary and ecological implications	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+617	inputFiles/WOSCorpus(617)	2013	6	22	A taxonomic revision and species delimitation of the genus Purpuraria Enderlein, 1929 (Orthoptera: Pamphagidae) using an integrative approach	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+618	inputFiles/WOSCorpus(618)	2013	6	22	Description and ecology of new Pijnackeria stick insects: four bisexual species and a triploid parthenogen with their phyletic relationships	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+619	inputFiles/WOSCorpus(619)	2013	6	22	SHORT INDELS ARE SUBJECT TO INSERTION-BIASED GENE CONVERSION	June 22, 2013	EVOLUTION
+620	inputFiles/WOSCorpus(620)	2013	6	22	Progressive Recombination Suppression and Differentiation in Recently Evolved Neo-sex Chromosomes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+621	inputFiles/WOSCorpus(621)	2013	6	22	The PNarec method for detection of ancient recombinations through phylogenetic network analysis	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+622	inputFiles/WOSCorpus(622)	2013	6	22	Molecular paleobiology of early-branching animals: integrating DNA and fossils elucidates the evolutionary history of hexactinellid sponges	June 22, 2013	PALEOBIOLOGY
+623	inputFiles/WOSCorpus(623)	2013	6	22	Reconstructing the phylogeny of aphids (Hemiptera: Aphididae) using DNA of the obligate symbiont Buchnera aphidicola	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+624	inputFiles/WOSCorpus(624)	2013	6	22	Parental provisioning behaviour plays a key role in linking personality with reproductive success	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+625	inputFiles/WOSCorpus(625)	2013	6	22	Diverse reproductive barriers in hybridising crickets suggests extensive variation in the evolution and maintenance of isolation	June 22, 2013	EVOLUTIONARY ECOLOGY
+626	inputFiles/WOSCorpus(626)	2013	6	22	Effects of within-colony competition on body size asymmetries and reproductive skew in a social spider	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+627	inputFiles/WOSCorpus(627)	2013	6	22	Population genomics based on low coverage sequencing: how low should we go?	June 22, 2013	MOLECULAR ECOLOGY
+628	inputFiles/WOSCorpus(628)	2013	6	22	The Repertoires of Ubiquitinating and Deubiquitinating Enzymes in Eukaryotic Genomes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+629	inputFiles/WOSCorpus(629)	2013	6	22	Evolution of Animal and Plant Dicers: Early Parallel Duplications and Recurrent Adaptation of Antiviral RNA Binding in Plants	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+630	inputFiles/WOSCorpus(630)	2013	6	22	When Outgroups Fail Phylogenomics of Rooting the Emerging Pathogen, Coxiella burnetii	June 22, 2013	SYSTEMATIC BIOLOGY
+631	inputFiles/WOSCorpus(631)	2013	6	22	Mandible allometry in extant and fossil Balaenopteridae (Cetacea: Mammalia): the largest vertebrate skeletal element and its role in rorqual lunge feeding	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+632	inputFiles/WOSCorpus(632)	2013	6	22	Molecular evolution of a Novemberel Marchsupial S100 protein (S100A19) which is expressed at specific stages of mamMarchy gland and gut development	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+633	inputFiles/WOSCorpus(633)	2013	6	22	The dynamics of LTR retrotransposon accumulation across 25 million years of panicoid grass evolution	June 22, 2013	HEREDITY
+634	inputFiles/WOSCorpus(634)	2013	6	22	Adaptive morphological shifts to Novemberel habitats in Marchine sculpin fishes	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+635	inputFiles/WOSCorpus(635)	2013	6	22	Distinguishing between anticipatory and responsive plasticity in a seasonally polyphenic butterfly	June 22, 2013	EVOLUTIONARY ECOLOGY
+636	inputFiles/WOSCorpus(636)	2013	6	22	Paths to selection on life history loci in different natural environments across the native range of Arabidopsis thaliana	June 22, 2013	MOLECULAR ECOLOGY
+637	inputFiles/WOSCorpus(637)	2013	6	22	Contrasting patterns of genome-wide polymorphism in the native and invasive range of the Marchine mollusc Crepidula fornicata	June 22, 2013	MOLECULAR ECOLOGY
+638	inputFiles/WOSCorpus(638)	2013	6	22	TRANSITIONS FROM REPRODUCTIVE SYSTEMS GOVERNED BY TWO SELF-INCOMPATIBLE LOCI TO ONE IN FUNGI	June 22, 2013	EVOLUTION
+639	inputFiles/WOSCorpus(639)	2013	6	22	The differential contributions of herkogamy and dichogamy as mechanisms of avoiding self-interference in four self-incompatible Epimedium species	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+640	inputFiles/WOSCorpus(640)	2013	6	22	A phylogenetic analysis and new delimitation of Senecio sect. Crociseris (Compositae: Senecioneae), with evidence of intergeneric hybridization	June 22, 2013	TAXON
+641	inputFiles/WOSCorpus(641)	2013	6	22	Selection, genome-wide fitness effects and evolutionary rates in the model legume Medicago truncatula	June 22, 2013	MOLECULAR ECOLOGY
+642	inputFiles/WOSCorpus(642)	2013	6	22	Allometry of a sexual trait in relation to diet experience and alternative mating tactics in two rubyspot damselflies (Calopterygidae: Hetaerina)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+643	inputFiles/WOSCorpus(643)	2013	6	22	Positional behavior and substrate use of Micromys minutus (Rodentia: Muridae): Insights for understanding primate origins	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+644	inputFiles/WOSCorpus(644)	2013	6	22	The impact of reproductive investment and early-life environmental conditions on senescence: support for the disposable soma hypothesis	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+645	inputFiles/WOSCorpus(645)	2013	6	22	Lack of Dosage Compensation Accompanies the Arrested Stage of Sex Chromosome Evolution in Ostriches	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+646	inputFiles/WOSCorpus(646)	2013	6	22	Genetic interactions controlling sex and color establish the potential for sexual conflict in Lake Malawi cichlid fishes	June 22, 2013	HEREDITY
+647	inputFiles/WOSCorpus(647)	2013	6	22	Spatial and temporal escape from fungal parasitism in natural communities of anciently asexual bdelloid rotifers	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+648	inputFiles/WOSCorpus(648)	2013	6	22	Using visual modelling to study the evolution of lizard coloration: sexual selection drives the evolution of sexual dichromatism in lacertids	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+649	inputFiles/WOSCorpus(649)	2013	6	22	Sexual selection hinders adaptation in experimental populations of yeast	June 22, 2013	BIOLOGY LETTERS
+650	inputFiles/WOSCorpus(650)	2013	6	22	Heritability of male attractiveness persists despite evidence for unreliable sexual signals in Drosophila simulans	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+651	inputFiles/WOSCorpus(651)	2013	6	22	Premating isolation is determined by larval rearing substrates in cactophilic Drosophila mojavensis. IX. Host plant and population specific epicuticular hydrocarbon expression influences mate choice and sexual selection	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+652	inputFiles/WOSCorpus(652)	2013	6	22	Garcinia brasiliensis: insights into reproductive phenology and sexual system in a Neotropical environment	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+653	inputFiles/WOSCorpus(653)	2013	6	22	Ecological and genetic factors influencing the transition between host-use strategies in sympatric Heliconius butterflies	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+654	inputFiles/WOSCorpus(654)	2013	6	22	DAMBE5: A Comprehensive Software Package for Data Analysis in Molecular Biology and Evolution	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+655	inputFiles/WOSCorpus(655)	2013	6	22	How the bat got its buzz	June 22, 2013	BIOLOGY LETTERS
+656	inputFiles/WOSCorpus(656)	2013	6	22	SNP discovery using Paired-End RAD-tag sequencing on pooled genomic DNA of Sisymbrium austriacum (Brassicaceae)	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+657	inputFiles/WOSCorpus(657)	2013	6	22	A SHIFT IN THE LONG-TERM MODE OF FORAMINIFERAN SIZE EVOLUTION CAUSED BY THE END-PERMIAN MASS EXTINCTION	June 22, 2013	EVOLUTION
+658	inputFiles/WOSCorpus(658)	2013	6	22	Snowdrops falling slowly into place: An improved phylogeny for Galanthus (AMarchyllidaceae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+659	inputFiles/WOSCorpus(659)	2013	6	22	Processing power limits social group size: computational evidence for the cognitive costs of sociality	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+660	inputFiles/WOSCorpus(660)	2013	6	22	Karyological data of 47 accessions of 28 Artemisia (Asteraceae, Anthemideae) species from Iran, with first new reports for Iranian populations and first absolute counts in three species	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+661	inputFiles/WOSCorpus(661)	2013	6	22	Do humans really punish altruistically? A closer look	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+662	inputFiles/WOSCorpus(662)	2013	6	22	The Evolution of the Cenozoic Terrestrial Mammalian Predator Guild in South America: Competition or Replacement?	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+663	inputFiles/WOSCorpus(663)	2013	6	22	The beginning of the Upper Paleolithic in the Iranian Zagros. A taphonomic approach and techno-economic comparison of Early Baradostian assemblages from Warwasi and Yafteh (Iran)	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+664	inputFiles/WOSCorpus(664)	2013	6	22	Postcranial Skeleton of the Cretaceous Mammal Akidolestes cifellii and Its Locomotor Adaptations	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+665	inputFiles/WOSCorpus(665)	2013	6	22	Transcriptome de Novembero assembly from next-generation sequencing and comparative analyses in the hexaploid salt Marchsh species Spartina Marchitima and Spartina alterniflora (Poaceae)	June 22, 2013	HEREDITY
+666	inputFiles/WOSCorpus(666)	2013	6	22	Ecological niche structure and rangewide abundance patterns of species	June 22, 2013	BIOLOGY LETTERS
+667	inputFiles/WOSCorpus(667)	2013	6	22	Diurnal lighting patterns and habitat alter opsin expression and colour preferences in a killifish	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+668	inputFiles/WOSCorpus(668)	2013	6	22	TRADE-OFFS, SPATIAL HETEROGENEITY, AND THE MAINTENANCE OF MICROBIAL DIVERSITY	June 22, 2013	EVOLUTION
+669	inputFiles/WOSCorpus(669)	2013	6	22	More rapid climate change promotes evolutionary rescue through selection for increased dispersal distance	June 22, 2013	EVOLUTIONARY APPLICATIONS
+670	inputFiles/WOSCorpus(670)	2013	6	22	Convergent evolution of morphology and habitat use in the explosive Hawaiian fancy case caterpillar radiation	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+671	inputFiles/WOSCorpus(671)	2013	6	22	A nonsemen copulatory fluid influences the outcome of sperm competition in Japanese quail	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+672	inputFiles/WOSCorpus(672)	2013	6	22	Sperm competition in tropical versus temperate zone birds	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+673	inputFiles/WOSCorpus(673)	2013	6	22	Evolution of sperm structure and energetics in passerine birds	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+674	inputFiles/WOSCorpus(674)	2013	6	22	Ancient Properties of Spider Silks Revealed by the Complete Gene Sequence of the Prey-Wrapping Silk Protein (AcSp1)	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+675	inputFiles/WOSCorpus(675)	2013	6	22	Mosaic Evolution of Silk Genes in Aliatypus Trapdoor Spiders (Mygalomorphae, Antrodiaetidae)	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+676	inputFiles/WOSCorpus(676)	2013	6	22	THE EVOLUTIONARY DYNAMICS OF SPITE IN FINITE POPULATIONS	June 22, 2013	EVOLUTION
+677	inputFiles/WOSCorpus(677)	2013	6	22	StAMPP: an R package for calculation of genetic differentiation and structure of mixed-ploidy level populations	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+678	inputFiles/WOSCorpus(678)	2013	6	22	GENOME EVOLUTION AND SPECIATION: TOWARD QUANTITATIVE DESCRIPTIONS OF PATTERN AND PROCESS	June 22, 2013	EVOLUTION
+679	inputFiles/WOSCorpus(679)	2013	6	22	RAD-Seq derived Marchkers flank the shell colour and banding loci of the Cepaea nemoralis supergene	June 22, 2013	MOLECULAR ECOLOGY
+680	inputFiles/WOSCorpus(680)	2013	6	22	Amalgamating Source Trees with Different Taxonomic Levels	June 22, 2013	SYSTEMATIC BIOLOGY
+681	inputFiles/WOSCorpus(681)	2013	6	22	General Models for the Spectra of Surface Area Scaling Strategies of Cells and Organisms: Fractality, Geometric Dissimilitude, and Internalization	June 22, 2013	AMERICAN NATURALIST
+682	inputFiles/WOSCorpus(682)	2013	6	22	New SNPs for population genetic analysis reveal possible cryptic speciation of eastern Australian sea mullet (Mugil cephalus)	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+683	inputFiles/WOSCorpus(683)	2013	6	22	Lack of fidelity revealed in an insect-fungal mutualism after invasion	June 22, 2013	BIOLOGY LETTERS
+684	inputFiles/WOSCorpus(684)	2013	6	22	Two ways to be a myrmecophilous butterfly: natural history and comparative immature-stage morphology of two species of Theope (Lepidoptera: Riodinidae)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+685	inputFiles/WOSCorpus(685)	2013	6	22	The use of digital photography in systematics	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+686	inputFiles/WOSCorpus(686)	2013	6	22	Linking the antigen archive structure to pathogen fitness in African trypanosomes	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+687	inputFiles/WOSCorpus(687)	2013	6	22	A Semantic Model for Species Description Applied to the Ensign Wasps (Hymenoptera: Evaniidae) of New Caledonia	June 22, 2013	SYSTEMATIC BIOLOGY
+688	inputFiles/WOSCorpus(688)	2013	6	22	Phylogenetic analyses of termite post-embryonic sequences illuminate caste and developmental pathway evolution	June 22, 2013	EVOLUTION & DEVELOPMENT
+689	inputFiles/WOSCorpus(689)	2013	6	22	Phylogeny of Tetillidae (Porifera, Demospongiae, Spirophorida) based on three molecular Marchkers	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+690	inputFiles/WOSCorpus(690)	2013	6	22	A new phylogeny of tetraodontiform fishes (Tetraodontiformes, Acanthomorpha) based on 22 loci	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+691	inputFiles/WOSCorpus(691)	2013	6	22	Adaptive responses in resurgent Lake Victoria cichlids over the past 30 years	June 22, 2013	EVOLUTIONARY ECOLOGY
+692	inputFiles/WOSCorpus(692)	2013	6	22	Molecular phylogeny of broken-back shrimps (genus Lysmata and allies): A test of the 'Tomlinson-Ghiselin' hypothesis explaining the evolution of hermaphroditism	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+693	inputFiles/WOSCorpus(693)	2013	6	22	EvoDevo meets ecology: the Ninth Okazaki Biology Conference on Marchine Biology	June 22, 2013	EVODEVO
+694	inputFiles/WOSCorpus(694)	2013	6	22	Getting a grip on the evolution of grasping in musteloid carnivorans: a three-dimensional analysis of forelimb shape	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+695	inputFiles/WOSCorpus(695)	2013	6	22	ADAPTATION FROM RESTRICTED GEOMETRIES: THE SHELL INCLINATION OF TERRESTRIAL GASTROPODS	June 22, 2013	EVOLUTION
+696	inputFiles/WOSCorpus(696)	2013	6	22	Potential for local adaptation in response to an anthropogenic agent of selection: effects of road deicing salts on amphibian embryonic survival and development	June 22, 2013	EVOLUTIONARY APPLICATIONS
+697	inputFiles/WOSCorpus(697)	2013	6	22	Molecular evolution and expression of archosaurian -keratins: Diversification and expansion of archosaurian -keratins and the origin of feather -keratins	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+698	inputFiles/WOSCorpus(698)	2013	6	22	Molecular population genetics of the melanic plumage polymorphism in Arctic skuas (Stercorarius parasiticus): evidence for divergent selection on plumage colour	June 22, 2013	MOLECULAR ECOLOGY
+699	inputFiles/WOSCorpus(699)	2013	6	22	Impact of climate changes from Middle Miocene onwards on evolutionary diversification in Eurasia: Insights from the mesobuthid scorpions	June 22, 2013	MOLECULAR ECOLOGY
+700	inputFiles/WOSCorpus(700)	2013	6	22	Biogeographic patterns in the chromosomal distribution of a satellite DNA in the banded tetra Astyanax fasciatus (Teleostei: Characiformes)	June 22, 2013	ORGANISMS DIVERSITY & EVOLUTION
+701	inputFiles/WOSCorpus(701)	2013	6	22	Novemberel aspects in the life cycle and biotrophic interactions in Pezizomycetes (Ascomycota, Fungi)	June 22, 2013	MOLECULAR ECOLOGY
+702	inputFiles/WOSCorpus(702)	2013	6	22	Basal metabolic rate is positively correlated with parental investment in laboratory mice	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+703	inputFiles/WOSCorpus(703)	2013	6	22	Sexually Antagonistic Coevolution for Sexual Harassment Can Act as a Barrier to Further Invasions by Parthenogenesis	June 22, 2013	AMERICAN NATURALIST
+704	inputFiles/WOSCorpus(704)	2013	6	22	The Azores bullfinch (Pyrrhula murina) has the same unusual and size-variable sperm morphology as the Eurasian bullfinch (Pyrrhula pyrrhula)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+705	inputFiles/WOSCorpus(705)	2013	6	22	Limited genetic differentiation between acoustically divergent populations of urban and rural silvereyes (Zosterops lateralis)	June 22, 2013	EVOLUTIONARY ECOLOGY
+706	inputFiles/WOSCorpus(706)	2013	6	22	Restricted distribution and limited gene flow in the model ciliate Tetrahymena thermophila	June 22, 2013	MOLECULAR ECOLOGY
+707	inputFiles/WOSCorpus(707)	2013	6	22	The first karyogram of a Bromeliaceae species: an allopolyploid genome	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+708	inputFiles/WOSCorpus(708)	2013	6	22	Parallel episodes of phyletic dwarfism in callitrichid and cheirogaleid primates	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+709	inputFiles/WOSCorpus(709)	2013	6	22	Comparative Genome Analysis and Gene Finding in Candida Species Using CGOB	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+710	inputFiles/WOSCorpus(710)	2013	6	22	An Alternative Look at Code Evolution: Using Non-canonical Codes to Evaluate Adaptive and Historic Models for the Origin of the Genetic Code	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+711	inputFiles/WOSCorpus(711)	2013	6	22	New wrist bones of Homo floresiensis from Liang Bua (Flores, Indonesia)	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+712	inputFiles/WOSCorpus(712)	2013	6	22	The precision of the hominid timescale estimated by relaxed clock methods	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+713	inputFiles/WOSCorpus(713)	2013	6	22	The systematic position of Hemicircus and the stepwise evolution of adaptations for drilling, tapping and climbing up in true woodpeckers (Picinae, Picidae)	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+714	inputFiles/WOSCorpus(714)	2013	6	22	Exploring the dichotomy between animals building using self-secreted materials and using materials collected from the environment	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+715	inputFiles/WOSCorpus(715)	2013	6	22	Comparative phylogeography of six herpetofauna species in Cyprus: late Miocene to Pleistocene colonization routes	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+716	inputFiles/WOSCorpus(716)	2013	6	22	Plastid genomes and deep relationships among the commelinid monocot angiosperms	June 22, 2013	CLADISTICS
+717	inputFiles/WOSCorpus(717)	2013	6	22	On the genetic parameter determining the efficiency of purging: an estimate for Drosophila egg-to-pupae viability	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+718	inputFiles/WOSCorpus(718)	2013	6	22	Evidence for hearing loss in amblyopsid cavefishes	June 22, 2013	BIOLOGY LETTERS
+719	inputFiles/WOSCorpus(719)	2013	6	22	Evolution of nesting behaviour and kleptoparasitism in a selected group of osmiine bees (Hymenoptera: Megachilidae)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+720	inputFiles/WOSCorpus(720)	2013	6	22	Body size and growth patterns in the therocephalian Moschorhinus kitchingi (Therapsida: Eutheriodontia) before and after the end-Permian extinction in South Africa	June 22, 2013	PALEOBIOLOGY
+721	inputFiles/WOSCorpus(721)	2013	6	22	Population biology of establishment in New Zealand hedgehogs inferred from genetic and historical data: conflict or compromise?	June 22, 2013	MOLECULAR ECOLOGY
+722	inputFiles/WOSCorpus(722)	2013	6	22	Timing and Consequences of Recurrent Polyploidy in Meadow-Rues (Thalictrum, Ranunculaceae)	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+723	inputFiles/WOSCorpus(723)	2013	6	22	Distal-less and dachshund pattern both plesiomorphic and apomorphic structures in chelicerates: RNA interference in the harvestman Phalangium opilio (Opiliones)	June 22, 2013	EVOLUTION & DEVELOPMENT
+724	inputFiles/WOSCorpus(724)	2013	6	22	Introgression of wing pattern alleles and speciation via homoploid hybridization in Heliconius butterflies: a review of evidence from the genome	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+725	inputFiles/WOSCorpus(725)	2013	6	22	Embryos, polyps and medusae of the Early Cambrian scyphozoan Olivooides	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+726	inputFiles/WOSCorpus(726)	2013	6	22	Linking conceptual mechanisms and transcriptomic evidence of plasticity-driven diversification	June 22, 2013	MOLECULAR ECOLOGY
+727	inputFiles/WOSCorpus(727)	2013	6	22	A phylogenetic blueprint for a modern whale	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+728	inputFiles/WOSCorpus(728)	2013	6	22	Cellular and molecular processes leading to embryo formation in sponges: evidences for high conservation of processes throughout animal evolution	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+729	inputFiles/WOSCorpus(729)	2013	6	22	Evolution of the vertebrate bone matrix: An expression analysis of the network forming collagen paralogues in amphibian osteoblasts	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+730	inputFiles/WOSCorpus(730)	2013	6	22	A new palaeobatrachid frog from the early Oligocene of Suceag, Romania	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+731	inputFiles/WOSCorpus(731)	2013	6	22	Convergent intron gains in hymenopteran elongation factor-1 alpha	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+732	inputFiles/WOSCorpus(732)	2013	6	22	Morphological, ecological and genetic aspects associated with endemism in the Fly Orchid group	June 22, 2013	MOLECULAR ECOLOGY
+733	inputFiles/WOSCorpus(733)	2013	6	22	Chasing the urmetazoon: Striking a blow for quality data?	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+734	inputFiles/WOSCorpus(734)	2013	6	22	Evidence for adaptive phenotypic differentiation in Baltic Sea sticklebacks	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+735	inputFiles/WOSCorpus(735)	2013	6	22	Biased sex-ratio and sex-biased heterozygote disadvantage affect the maintenance of a genetic polymorphism and the properties of hybrid zones	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+736	inputFiles/WOSCorpus(736)	2013	6	22	On the threshold of dispersal: hitchhiking on a giant fly favours exaggerated male traits in a male-dimorphic pseudoscorpion	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+737	inputFiles/WOSCorpus(737)	2013	6	22	Fear, food and sexual ornamentation: plasticity of colour development in Trinidadian guppies	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+738	inputFiles/WOSCorpus(738)	2013	6	22	Mapping phenotypic, expression and transmission ratio distortion QTL using RAD Marchkers in the Lake Whitefish (Coregonus clupeaformis)	June 22, 2013	MOLECULAR ECOLOGY
+739	inputFiles/WOSCorpus(739)	2013	6	22	Evolution of the temporal persistence of immune protection	June 22, 2013	BIOLOGY LETTERS
+740	inputFiles/WOSCorpus(740)	2013	6	22	Heterogeneity of selection and the evolution of resistance	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+741	inputFiles/WOSCorpus(741)	2013	6	22	Evolution of social behavior in finite populations: A payoff transformation in general n-player games and its implications	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+742	inputFiles/WOSCorpus(742)	2013	6	22	The adaptive invasion of epialleles in a heterogeneous environment	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+743	inputFiles/WOSCorpus(743)	2013	6	22	EVOLUTION OF VIVIPARITY: A PHYLOGENETIC TEST OF THE COLD-CLIMATE HYPOTHESIS IN PHRYNOSOMATID LIZARDS	June 22, 2013	EVOLUTION
+744	inputFiles/WOSCorpus(744)	2013	6	22	Molecular phylogeny and historical biogeography of West Indian boid snakes (Chilabothrus)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+745	inputFiles/WOSCorpus(745)	2013	6	22	Population expansion, isolation and selection: Novemberel insights on the evolution of color diversity in the strawberry poison frog	June 22, 2013	EVOLUTIONARY ECOLOGY
+746	inputFiles/WOSCorpus(746)	2013	6	22	Diversification rates have Decemberlined in the Malagasy herpetofauna	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+747	inputFiles/WOSCorpus(747)	2013	6	22	Facultative use of thelytokous parthenogenesis for queen production in the polyandrous ant Cataglyphis cursor	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+748	inputFiles/WOSCorpus(748)	2013	6	22	An Experimentally Tested Scenario for the Structural Evolution of Eukaryotic Cys(2)His(2) Zinc Fingers from Eubacterial Ros Homologs	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+749	inputFiles/WOSCorpus(749)	2013	6	22	The evolution of cooperation by social exclusion	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+750	inputFiles/WOSCorpus(750)	2013	6	22	A journey into the wild of the cnidarian model system Aiptasia and its symbionts	June 22, 2013	MOLECULAR ECOLOGY
+751	inputFiles/WOSCorpus(751)	2013	6	22	Female Mate Fidelity in a Lek Mating System and Its Implications for the Evolution of Cooperative Lekking Behavior	June 22, 2013	AMERICAN NATURALIST
+752	inputFiles/WOSCorpus(752)	2013	6	22	Diversification of the Duplicated F3h Genes in Triticeae	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+753	inputFiles/WOSCorpus(753)	2013	6	22	Microanatomy of the amniote femur and inference of lifestyle in limbed vertebrates	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+754	inputFiles/WOSCorpus(754)	2013	6	22	What is a genome?	June 22, 2013	MOLECULAR ECOLOGY
+755	inputFiles/WOSCorpus(755)	2013	6	22	Evolution of pleiotropic costs in experimental populations	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+756	inputFiles/WOSCorpus(756)	2013	6	22	The taxonomic value of floral characters in Rapateaceae (Poales-Monocotyledons)	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+757	inputFiles/WOSCorpus(757)	2013	6	22	The forensic analysis of foodborne bacterial pathogens in the age of whole-genome sequencing	June 22, 2013	CLADISTICS
+758	inputFiles/WOSCorpus(758)	2013	6	22	Tracing the evolution of the holothurian body plan through stem-group fossils	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+759	inputFiles/WOSCorpus(759)	2013	6	22	The discovery of Foxl2 paralogs in chondrichthyan, coelacanth and tetrapod genomes reveals an ancient duplication in vertebrates	June 22, 2013	HEREDITY
+760	inputFiles/WOSCorpus(760)	2013	6	22	OXIDATIVE STRESS AND THE EVOLUTION OF SEX DIFFERENCES IN LIFE SPAN AND AGEING IN THE DecemberORATED CRICKET, GRYLLODES SIGILLATUS	June 22, 2013	EVOLUTION
+761	inputFiles/WOSCorpus(761)	2013	6	22	Injury-induced asymmetric cell death as a driving force for head regeneration in Hydra	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+762	inputFiles/WOSCorpus(762)	2013	6	22	Is the juvenal plumage of altricial songbirds an honest signal of age? Evidence from a comparative study of thrushes (Passeriformes: Turdidae)	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+763	inputFiles/WOSCorpus(763)	2013	6	22	Gene duplication, genome duplication, and the functional diversification of vertebrate globins	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+764	inputFiles/WOSCorpus(764)	2013	6	22	A resurrection study reveals rapid adaptive evolution within populations of an invasive plant	June 22, 2013	EVOLUTIONARY APPLICATIONS
+765	inputFiles/WOSCorpus(765)	2013	6	22	Detecting Sequence Homology at the Gene Cluster Level with MultiGeneBlast	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+766	inputFiles/WOSCorpus(766)	2013	6	22	The expression pattern of the genes engrailed, pax6, otd and six3 with special respect to head and eye development in Euperipatoides kanangrensis Reid 1996 (Onychophora: Peripatopsidae)	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+767	inputFiles/WOSCorpus(767)	2013	6	22	Multivariate heredity of melanin-based coloration, body mass and immunity	June 22, 2013	HEREDITY
+768	inputFiles/WOSCorpus(768)	2013	6	22	EVIDENCE FOR REPEATED LOSS OF SELECTIVE CONSTRAINT IN RHODOPSIN OF AMBLYOPSID CAVEFISHES (TELEOSTEI: AMBLYOPSIDAE)	June 22, 2013	EVOLUTION
+769	inputFiles/WOSCorpus(769)	2013	6	22	Accelerated Evolution of Innate Immunity Proteins in Social Insects: Adaptive Evolution or Relaxed Constraint?	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+770	inputFiles/WOSCorpus(770)	2013	6	22	Twisted Signatures of GC-Biased Gene Conversion Embedded in an Evolutionary Stable Karyotype	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+771	inputFiles/WOSCorpus(771)	2013	6	22	Reticulate evolution of the critical Mediterranean Gagea sect. Didymobulbos (Liliaceae) and its taxonomic implications	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+772	inputFiles/WOSCorpus(772)	2013	6	22	Bayesian inference of phylogeny, morphology and range evolution reveals a complex evolutionary history in St. John's wort (Hypericum)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+773	inputFiles/WOSCorpus(773)	2013	6	22	Phylogenetic relationships among genera of the Periclimenes complex (Crustacea: Decemberapoda: Pontoniinae) based on mitochondrial and nuclear DNA	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+774	inputFiles/WOSCorpus(774)	2013	6	22	Diversification and dispersal of the Hawaiian Drosophilidae: The evolution of Scaptomyza	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+775	inputFiles/WOSCorpus(775)	2013	6	22	Genetic diversity of the golden potato cyst nematode Globodera rostochiensis and determination of the origin of populations in Quebec, Canada	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+776	inputFiles/WOSCorpus(776)	2013	6	22	Convergent evolution of floral signals underlies the success of Neotropical orchids	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+777	inputFiles/WOSCorpus(777)	2013	6	22	Identifying Hidden Rate Changes in the Evolution of a Binary Morphological Character: The Evolution of Plant Habit in Campanulid Angiosperms	June 22, 2013	SYSTEMATIC BIOLOGY
+778	inputFiles/WOSCorpus(778)	2013	6	22	Evolution of Manduca sexta hornworms and relatives: Biogeographical analysis reveals an ancestral diversification in Central America	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+779	inputFiles/WOSCorpus(779)	2013	6	22	Evolutionary events in Lilium (including Nomocharis, Liliaceae) are temporally correlated with orogenies of the Q-T plateau and the Hengduan Mountains	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+780	inputFiles/WOSCorpus(780)	2013	6	22	Testing the role of the Himalaya Mountains as a dispersal barrier in freshwater gastropods (Gyraulus spp.)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+781	inputFiles/WOSCorpus(781)	2013	6	22	A comprehensive molecular phylogeny for the hornbills (Ayes: Bucerotidae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+782	inputFiles/WOSCorpus(782)	2013	6	22	Molecular evidence for a natural diploid hybrid between Miscanthus sinensis (Poaceae) and M. sacchariflorus	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+783	inputFiles/WOSCorpus(783)	2013	6	22	Spots and stripes: ecology and colour pattern evolution in butterflyfishes	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+784	inputFiles/WOSCorpus(784)	2013	6	22	State-of the art methodologies dictate new standards for phylogenetic analysis	June 22, 2013	BMC EVOLUTIONARY BIOLOGY
+785	inputFiles/WOSCorpus(785)	2013	6	22	Evolved polygenic herbicide resistance in Lolium rigidum by low-dose herbicide selection within standing genetic variation	June 22, 2013	EVOLUTIONARY APPLICATIONS
+786	inputFiles/WOSCorpus(786)	2013	6	22	Non-concerted ITS evolution in fungi, as revealed from the important medicinal fungus Ophiocordyceps sinensis	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+787	inputFiles/WOSCorpus(787)	2013	6	22	Structural Characterization of the Internal Transcribed Spacer 2 (ITS2) of the Ribosomal DNA (rDNA) Cluster in Calyptratae (Diptera: Schizophora) and its Implications for Molecular Phylogenetic Analyses	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+788	inputFiles/WOSCorpus(788)	2013	6	22	Stem cells and lineages of the intestine: a developmental and evolutionary perspective	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+789	inputFiles/WOSCorpus(789)	2013	6	22	Patterns and processes in complex landscapes: testing alternative biogeographical hypotheses through integrated analysis of phylogeography and community ecology in Hawai'i	June 22, 2013	MOLECULAR ECOLOGY
+790	inputFiles/WOSCorpus(790)	2013	6	22	Unravelling the determinants of insular body size shifts	June 22, 2013	BIOLOGY LETTERS
+791	inputFiles/WOSCorpus(791)	2013	6	22	Diverse chromosome complements in the functional gametes of interspecific hybrids of MT- and A-karyotype Lycoris spp.	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+792	inputFiles/WOSCorpus(792)	2013	6	22	Reproductive and post-reproductive life history of wild-cAugustht Drosophila melanogaster under laboratory conditions	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+793	inputFiles/WOSCorpus(793)	2013	6	22	MUTATIONAL MELTDOWN IN SELFING ARABIDOPSIS LYRATA	June 22, 2013	EVOLUTION
+794	inputFiles/WOSCorpus(794)	2013	6	22	Geometric variation of the frontal squama in the genus homo: Frontal bulging and the origin of modern human morphology	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+795	inputFiles/WOSCorpus(795)	2013	6	22	Phylogenetic position, origin and biogeography of Palearctic and Socotran blind-snakes (Serpentes: Typhlopidae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+796	inputFiles/WOSCorpus(796)	2013	6	22	Selection Is No More Efficient in Haploid than in Diploid Life Stages of an Angiosperm and a Moss	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+797	inputFiles/WOSCorpus(797)	2013	6	22	Maternal admixture and population structure in Mexican-Mestizos based on mtDNA haplogroups	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+798	inputFiles/WOSCorpus(798)	2013	6	22	Communal breeding promotes a matrilineal social system where husband and wife live apart	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+799	inputFiles/WOSCorpus(799)	2013	6	22	Phylogenetic prediction of the maximum per capita rate of population growth	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+800	inputFiles/WOSCorpus(800)	2013	6	22	Phylogenetic reconstruction of key traits in the evolution of ivies (Hedera L.)	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+801	inputFiles/WOSCorpus(801)	2013	6	22	Albinism in phylogenetically and geographically distinct populations of Astyanax cavefish arises through the same loss-of-function Oca2 allele	June 22, 2013	HEREDITY
+802	inputFiles/WOSCorpus(802)	2013	6	22	Genetic diversity, phylogeny and evolution of alkaloid sequestering in Cuban miniaturized frogs of the Eleutherodactylus limbatus group	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+803	inputFiles/WOSCorpus(803)	2013	6	22	A reconsideration of Sphaerodactylus dommeli Bohme, 1984 (Squamata: Gekkota: Sphaerodactylidae), a Miocene lizard in amber	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+804	inputFiles/WOSCorpus(804)	2013	6	22	The role of birds and insects in pollination shifts of Scrophularia (Scrophulariaceae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+805	inputFiles/WOSCorpus(805)	2013	6	22	The expression of limb gap genes in the mite Archegozetes longisetosus reveals differential patterning mechanisms in chelicerates	June 22, 2013	EVOLUTION & DEVELOPMENT
+806	inputFiles/WOSCorpus(806)	2013	6	22	No Skeletal Dysplasia in the Nariokotome Boy KNM-WT 15000 (Homo erectus)-A Reassessment of Congenital Pathologies of the Vertebral Column	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+807	inputFiles/WOSCorpus(807)	2013	6	22	The origin of finches on Tristan da Cunha and Gough Island, central South Atlantic ocean	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+808	inputFiles/WOSCorpus(808)	2013	6	22	A Novemberel hearing specialization in the New Zealand bigeye, Pempheris adspersa	June 22, 2013	BIOLOGY LETTERS
+809	inputFiles/WOSCorpus(809)	2013	6	22	Epidendrum (Orchidaceae) as a model system for ecological and evolutionary studies in the Neotropics	June 22, 2013	TAXON
+810	inputFiles/WOSCorpus(810)	2013	6	22	Cells in the system of multicelular organism from positions of non-linear dynamics	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOCHEMISTRY AND PHYSIOLOGY
+811	inputFiles/WOSCorpus(811)	2013	6	22	Pedogenic carbonate stable isotopic evidence for wooded habitat preference of early Pleistocene tool makers in the Turkana Basin	June 22, 2013	JOURNAL OF HUMAN EVOLUTION
+812	inputFiles/WOSCorpus(812)	2013	6	22	RECURRENT EVOLUTION OF DIOECY IN BRYOPHYTES	June 22, 2013	EVOLUTION
+813	inputFiles/WOSCorpus(813)	2013	6	22	BODY AND LIMB SIZE DISSOCIATION AT THE ORIGIN OF BIRDS: UNCOUPLING ALLOMETRIC CONSTRAINTS ACROSS A MACROEVOLUTIONARY TRANSITION	June 22, 2013	EVOLUTION
+814	inputFiles/WOSCorpus(814)	2013	6	22	Mitogenomics does not resolve deep molluscan relationships (yet?)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+815	inputFiles/WOSCorpus(815)	2013	6	22	Osteology of EubioDecembertes libanicus (Pictet & Humbert, 1866) and some other ichthyoDecembertiformes (Teleostei): phylogenetic implications	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+816	inputFiles/WOSCorpus(816)	2013	6	22	Using nuclear gene data for plant phylogenetics: Progress and prospects (Reprinted from Molecular Phylogenetics and Evolution vol 65, pg 774-785, 2012)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+817	inputFiles/WOSCorpus(817)	2013	6	22	Metamerism, Morphogenesis, and the Expression of Carabelli and Other Dental Traits in Humans	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+818	inputFiles/WOSCorpus(818)	2013	6	22	Field but not lab paradigms support generalisation by predators of aposematic polymorphic prey: the Oophaga histrionica complex	June 22, 2013	EVOLUTIONARY ECOLOGY
+819	inputFiles/WOSCorpus(819)	2013	6	22	Evolutionary Dynamics of the Human NADPH Oxidase Genes CYBB, CYBA, NCF2, and NCF4: Functional Implications	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+820	inputFiles/WOSCorpus(820)	2013	6	22	Genetic background affects epistatic interactions between two beneficial mutations	June 22, 2013	BIOLOGY LETTERS
+821	inputFiles/WOSCorpus(821)	2013	6	22	The ITS region of groundwater amphipods: length, secondary structure and phylogenetic information content in Crangonyctoids and Niphargids	June 22, 2013	JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH
+822	inputFiles/WOSCorpus(822)	2013	6	22	The phylogeny of aglaspidid arthropods and the internal relationships within Artiopoda	June 22, 2013	CLADISTICS
+823	inputFiles/WOSCorpus(823)	2013	6	22	The biogeography of the yeti crabs (Kiwaidae) with notes on the phylogeny of the Chirostyloidea (Decemberapoda: Anomura)	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+824	inputFiles/WOSCorpus(824)	2013	6	22	Analysis of piRNA-Mediated Silencing of Active TEs in Drosophila melanogaster Suggests Limits on the Evolution of Host Genome Defense	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+825	inputFiles/WOSCorpus(825)	2013	6	22	Phylogenetic analyses of Tolpis Adans. (Asteraceae) reveal patterns of adaptive radiation, multiple colonization and interspecific hybridization	June 22, 2013	CLADISTICS
+826	inputFiles/WOSCorpus(826)	2013	6	22	A Novemberel approach to parasite population genetics: Experimental infection reveals geographic differentiation, recombination and host-mediated population structure in Pasteuria ramosa, a bacterial parasite of Daphnia	June 22, 2013	MOLECULAR ECOLOGY
+827	inputFiles/WOSCorpus(827)	2013	6	22	Phylogeny and systematics of the bee genus Osmia (Hymenoptera: Megachilidae) with emphasis on North American Melanosmia: subgenera, synonymies and nesting biology revisited	June 22, 2013	SYSTEMATIC ENTOMOLOGY
+828	inputFiles/WOSCorpus(828)	2013	6	22	Discordance between nuclear and mitochondrial genomes in sexual and asexual lineages of the freshwater snail Potamopyrgus antipodarum	June 22, 2013	MOLECULAR ECOLOGY
+829	inputFiles/WOSCorpus(829)	2013	6	22	Meiotic studies in some selected members of Gamopetalae from Kashmir Himalaya	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+830	inputFiles/WOSCorpus(830)	2013	6	22	The genome of the mustard leaf beetle encodes two active xylanases originally acquired from bacteria through horizontal gene transfer	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+831	inputFiles/WOSCorpus(831)	2013	6	22	The genomic consequences of adaptive divergence and reproductive isolation between species of manakins	June 22, 2013	MOLECULAR ECOLOGY
+832	inputFiles/WOSCorpus(832)	2013	6	22	Multiple regression modeling for estimating endocranial volume in extinct Mammalia	June 22, 2013	PALEOBIOLOGY
+833	inputFiles/WOSCorpus(833)	2013	6	22	Experimentally increased noise levels change spatial and singing behaviour	June 22, 2013	BIOLOGY LETTERS
+834	inputFiles/WOSCorpus(834)	2013	6	22	Forest refugia in Western and Central Africa as 'museums' of Mesozoic biodiversity	June 22, 2013	BIOLOGY LETTERS
+835	inputFiles/WOSCorpus(835)	2013	6	22	ELEVATED RATES OF MORPHOLOGICAL AND FUNCTIONAL DIVERSIFICATION IN REEF-DWELLING HAEMULID FISHES	June 22, 2013	EVOLUTION
+836	inputFiles/WOSCorpus(836)	2013	6	22	A SINGLE LINEAGE IN EARLY PLEISTOCENE HOMO: SIZE VARIATION CONTINUITY IN EARLY PLEISTOCENE HOMO CRANIA FROM EAST AFRICA AND GEORGIA	June 22, 2013	EVOLUTION
+837	inputFiles/WOSCorpus(837)	2013	6	22	Evolution of salinity tolerance from transcriptome to physiological system	June 22, 2013	MOLECULAR ECOLOGY
+838	inputFiles/WOSCorpus(838)	2013	6	22	Brief communication: 5-HTTLPR genetic diversity and mode of subsistence in Native Americans	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+839	inputFiles/WOSCorpus(839)	2013	6	22	The Identification of Concerted Convergence in Insect Heads Corroborates Palaeoptera	June 22, 2013	SYSTEMATIC BIOLOGY
+840	inputFiles/WOSCorpus(840)	2013	6	22	Parallel changes in genital morphology delineate cryptic diversification of planktonic nudibranchs	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+841	inputFiles/WOSCorpus(841)	2013	6	22	Unexpected Consequences of Culling on the Eradication of Wildlife Diseases: The Role of Virulence Evolution	June 22, 2013	AMERICAN NATURALIST
+842	inputFiles/WOSCorpus(842)	2013	6	22	Phylogenetic evidence for recent diversification of obligate coral-dwelling gobies compared with their host corals	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+843	inputFiles/WOSCorpus(843)	2013	6	22	A theoretical study of the role of spatial population structure in the evolution of parasite virulence	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+844	inputFiles/WOSCorpus(844)	2013	6	22	The oldest dinosaur? A Middle Triassic dinosauriform from Tanzania	June 22, 2013	BIOLOGY LETTERS
+845	inputFiles/WOSCorpus(845)	2013	6	22	Genome Analysis of Elysia chlorotica Egg DNA Provides No Evidence for Horizontal Gene Transfer into the Germ Line of This Kleptoplastic Mollusc	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+846	inputFiles/WOSCorpus(846)	2013	6	22	The Bony Labyrinth in Diprotodontian Marchsupial Mammals: Diversity in Extant and Extinct Forms and Relationships with Size and Phylogeny	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+847	inputFiles/WOSCorpus(847)	2013	6	22	Adaptive radiation in miniature: the minute salamanders of the Mexican highlands (Amphibia: Plethodontidae: Thorius)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+848	inputFiles/WOSCorpus(848)	2013	6	22	Selection and disequilibrium in Cepaea nemoralis	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+849	inputFiles/WOSCorpus(849)	2013	6	22	Fight club: a unique weapon in the wing of the solitaire, Pezophaps solitaria (Aves: Columbidae), an extinct flightless bird from Rodrigues, Mascarene Islands	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+850	inputFiles/WOSCorpus(850)	2013	6	22	Chromosome numbers of the Australian Cymodoceaceae	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+851	inputFiles/WOSCorpus(851)	2013	6	22	Quantitative genetic insights into the coevolutionary dynamics of male and female genitalia	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+852	inputFiles/WOSCorpus(852)	2013	6	22	Specificity and stability of the Acromyrmex-Pseudonocardia symbiosis	June 22, 2013	MOLECULAR ECOLOGY
+853	inputFiles/WOSCorpus(853)	2013	6	22	Are Mixed-Species Bird Flocks Stable through Two Decemberades?	June 22, 2013	AMERICAN NATURALIST
+854	inputFiles/WOSCorpus(854)	2013	6	22	EVOLUTION OF THE STORAGE EFFECT	June 22, 2013	EVOLUTION
+855	inputFiles/WOSCorpus(855)	2013	6	22	Ultrastructural and morphological features of the turbellarian worm Bothrioplana semperi and problem of monophyly of Seriata (Platyhelminthes, Turbellaria)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOCHEMISTRY AND PHYSIOLOGY
+856	inputFiles/WOSCorpus(856)	2013	6	22	Evolution of acoustic and visual signals in Asian barbets	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+857	inputFiles/WOSCorpus(857)	2013	6	22	Increased morphological asymmetry, evolvability and plasticity in human brain evolution	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+858	inputFiles/WOSCorpus(858)	2013	6	22	Stem cell dynamics in Cnidaria: are there unifying principles?	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+859	inputFiles/WOSCorpus(859)	2013	6	22	The evolving male: spinner dolphin (Stenella longirostris) ecotypes are divergent at Y chromosome but not mtDNA or autosomal Marchkers	June 22, 2013	MOLECULAR ECOLOGY
+860	inputFiles/WOSCorpus(860)	2013	6	22	The South American Gomphotheres (Mammalia, Proboscidea, Gomphotheriidae): Taxonomy, Phylogeny, and Biogeography	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+861	inputFiles/WOSCorpus(861)	2013	6	22	Repeated Parallel Evolution Reveals Limiting Similarity in Subterranean Diving Beetles	June 22, 2013	AMERICAN NATURALIST
+862	inputFiles/WOSCorpus(862)	2013	6	22	Genetic Signatures Reveal High-Altitude Adaptation in a Set of Ethiopian Populations	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+863	inputFiles/WOSCorpus(863)	2013	6	22	Body size and shape evolution in host races of the tick Ixodes uriae	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+864	inputFiles/WOSCorpus(864)	2013	6	22	Mutational Bias and Gene Conversion Affect the Intraspecific Nitrogen Stoichiometry of the Arabidopsis thaliana Transcriptome	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+865	inputFiles/WOSCorpus(865)	2013	6	22	Duplication and concerted evolution in a master sex determiner under balancing selection	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+866	inputFiles/WOSCorpus(866)	2013	6	22	A General Allometric and Life-History Model for Cellular Differentiation in the Transition to Multicellularity	June 22, 2013	AMERICAN NATURALIST
+867	inputFiles/WOSCorpus(867)	2013	6	22	AN EXPERIMENTAL TEST OF THE TRANSMISSION-VIRULENCE TRADE-OFF HYPOTHESIS IN A PLANT VIRUS	June 22, 2013	EVOLUTION
+868	inputFiles/WOSCorpus(868)	2013	6	22	Diversification in a biodiversity hotspot - The evolution of Southeast Asian rhacophorid tree frogs on Borneo (Amphibia: Anura: Rhacophoridae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+869	inputFiles/WOSCorpus(869)	2013	6	22	Revisiting the impacts of non-random extinction on the tree-of-life	June 22, 2013	BIOLOGY LETTERS
+870	inputFiles/WOSCorpus(870)	2013	6	22	The role of Bh4 in parallel evolution of hull colour in domesticated and weedy rice	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+871	inputFiles/WOSCorpus(871)	2013	6	22	Molecular Evolutionary Mechanisms Driving Functional Diversification of the HSP90A Family of Heat Shock Proteins in Eukaryotes	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+872	inputFiles/WOSCorpus(872)	2013	6	22	The role of 'soaking' in spiteful toxin production in Pseudomonas aeruginosa	June 22, 2013	BIOLOGY LETTERS
+873	inputFiles/WOSCorpus(873)	2013	6	22	Female-biased dispersal in a bat with a female-defence mating strategy	June 22, 2013	MOLECULAR ECOLOGY
+874	inputFiles/WOSCorpus(874)	2013	6	22	Genetic Constraints on Dishonesty and Caste Dimorphism in an Ant	June 22, 2013	AMERICAN NATURALIST
+875	inputFiles/WOSCorpus(875)	2013	6	22	A dynamic history of gene duplications and losses characterizes the evolution of the SPARC family in eumetazoans	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+876	inputFiles/WOSCorpus(876)	2013	6	22	Do pathogens become more virulent as they spread? Evidence from the amphibian Decemberlines in Central America	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+877	inputFiles/WOSCorpus(877)	2013	6	22	Mitogenome sequences stabilize the phylogenetics of weevils (Curculionoidea) and establish the monophyly of larval ectophagy	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+878	inputFiles/WOSCorpus(878)	2013	6	22	Diversification of the Yellow-shouldered bats, Genus Sturnira (Chiroptera, Phyllostomidae), in the New World tropics	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+879	inputFiles/WOSCorpus(879)	2013	6	22	Adaptive Phenotypic Diversification along a Temperature-Depth Gradient	June 22, 2013	AMERICAN NATURALIST
+880	inputFiles/WOSCorpus(880)	2013	6	22	Experimental and genetic analyses reveal that inbreeding depression Decemberlines with increased self-fertilization among populations of a coastal dune plant	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+881	inputFiles/WOSCorpus(881)	2013	6	22	Male age mediates reproductive investment and response to paternity assurance	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+882	inputFiles/WOSCorpus(882)	2013	6	22	SEX CHROMOSOME LINKED GENETIC VARIANCE AND THE EVOLUTION OF SEXUAL DIMORPHISM OF QUANTITATIVE TRAITS	June 22, 2013	EVOLUTION
+883	inputFiles/WOSCorpus(883)	2013	6	22	The use of stress-70 proteins in physiology: a re-appraisal	June 22, 2013	MOLECULAR ECOLOGY
+884	inputFiles/WOSCorpus(884)	2013	6	22	Polyploidy Is Genetic Hence May Cause Non-Adaptive Radiations, Whereas Pseudopolyploidy Is Genomic Hence May Cause Adaptive Non-Radiations	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+885	inputFiles/WOSCorpus(885)	2013	6	22	You are where you live: parasitic nematode mitochondrial genome size is associated with the thermal environment generated by hosts	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+886	inputFiles/WOSCorpus(886)	2013	6	22	The 5S rDNA High Dynamism in Diplodus sargus is a Transposon-Mediated Mechanism. Comparison with Other Multigene Families and Sparidae Species	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+887	inputFiles/WOSCorpus(887)	2013	6	22	Multivariate analysis of adaptive capacity for upper thermal limits in Drosophila simulans	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+888	inputFiles/WOSCorpus(888)	2013	6	22	Rapid evolution of troglomorphic characters suggests selection rather than neutral mutation as a driver of eye reduction in cave crabs	June 22, 2013	BIOLOGY LETTERS
+889	inputFiles/WOSCorpus(889)	2013	6	22	Palynological investigations on some Hypericum taxa (Hypericaceae) growing naturally in Turkey	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+890	inputFiles/WOSCorpus(890)	2013	6	22	Functional links between canine height and jaw gape in catarrhines with special reference to early hominins	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+891	inputFiles/WOSCorpus(891)	2013	6	22	Evolution of General Transcription Factors	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+892	inputFiles/WOSCorpus(892)	2013	6	22	Natural selection. VI. Partitioning the information in fitness and characters by path analysis	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+893	inputFiles/WOSCorpus(893)	2013	6	22	DIVERSITY-DEPENDENT CLADOGENESIS AND TRAIT EVOLUTION IN THE ADAPTIVE RADIATION OF THE AUKS (AVES: ALCIDAE)	June 22, 2013	EVOLUTION
+894	inputFiles/WOSCorpus(894)	2013	6	22	Evidence for genetic differentiation in timing of maturation among nine-spined stickleback populations	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+895	inputFiles/WOSCorpus(895)	2013	6	22	On the origin of planetary-scale tipping points	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+896	inputFiles/WOSCorpus(896)	2013	6	22	Major lineages of Nolidae (Lepidoptera, NOctoberuoidea) elucidated by molecular phylogenetics	June 22, 2013	CLADISTICS
+897	inputFiles/WOSCorpus(897)	2013	6	22	TESTING FOR PHYLOGENETIC SIGNAL IN BIOLOGICAL TRAITS: THE UBIQUITY OF CROSS-PRODUCT STATISTICS	June 22, 2013	EVOLUTION
+898	inputFiles/WOSCorpus(898)	2013	6	22	EVOLUTIONARILY STABLE SIZE OF A MEGAGAMETOPHYTE: EVOLUTION OF TINY MEGAGAMETOPHYTES OF ANGIOSPERMS FROM LARGE ONES OF GYMNOSPERMS	June 22, 2013	EVOLUTION
+899	inputFiles/WOSCorpus(899)	2013	6	22	Using a comprehensive DNA barcode library to detect Novemberel egg and larval host plant associations in a Cephaloleia rolled-leaf beetle (Coleoptera: Chrysomelidae)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+900	inputFiles/WOSCorpus(900)	2013	6	22	The Developmental Brain Gene NPAS3 Contains the Largest Number of Accelerated Regulatory Sequences in the Human Genome	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+901	inputFiles/WOSCorpus(901)	2013	6	22	Rogue taxa phenomenon: A biological companion to simulation analysis	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+902	inputFiles/WOSCorpus(902)	2013	6	22	Genetic and physiological data suggest demographic and adaptive responses in complex interactions between populations of figs (Ficus pumila) and their pollinating wasps (Wiebesia pumilae)	June 22, 2013	MOLECULAR ECOLOGY
+903	inputFiles/WOSCorpus(903)	2013	6	22	Female Reproductive Effort and Sexual Selection on Males of Waterfowl	June 22, 2013	EVOLUTIONARY BIOLOGY
+904	inputFiles/WOSCorpus(904)	2013	6	22	Tooth Root Morphology in the Early Pliocene African Bear Agriotherium africanum (Mammalia, Carnivora, Ursidae) and its Implications for Feeding Ecology	June 22, 2013	JOURNAL OF MAMMALIAN EVOLUTION
+905	inputFiles/WOSCorpus(905)	2013	6	22	Transcription Start Site Evolution in Drosophila	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+906	inputFiles/WOSCorpus(906)	2013	6	22	Exaptation of Transposable Elements into Novemberel Cis-Regulatory Elements: Is the Evidence Always Strong?	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+907	inputFiles/WOSCorpus(907)	2013	6	22	Transposable elements and microevolutionary changes in natural populations	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+908	inputFiles/WOSCorpus(908)	2013	6	22	Isotopic tracing of the impact of mobility on infectious disease: The origin of people with treponematosis buried in hull, England, in the late medieval period	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+909	inputFiles/WOSCorpus(909)	2013	6	22	Evidence for Diversifying Selection in a Set of Mycobacterium tuberculosis Genes in Response to Antibiotic- and Nonantibiotic-Related Pressure	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+910	inputFiles/WOSCorpus(910)	2013	6	22	The Malthusian-Darwinian dynamic and the trajectory of civilization	June 22, 2013	TRENDS IN ECOLOGY & EVOLUTION
+911	inputFiles/WOSCorpus(911)	2013	6	22	Analysis of ciliary band formation in the mollusc Ilyanassa obsoleta	June 22, 2013	DEVELOPMENT GENES AND EVOLUTION
+912	inputFiles/WOSCorpus(912)	2013	6	22	High level of genetic variation within clonal orchid Goodyera repens	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+913	inputFiles/WOSCorpus(913)	2013	6	22	Morphogenesis and reaction to hypoxia of atrial myoendocrine cells in chick embryos (Gallus gallus)	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOCHEMISTRY AND PHYSIOLOGY
+914	inputFiles/WOSCorpus(914)	2013	6	22	Ecological divergence and speciation between lemur (Eulemur) sister species in Madagascar	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+915	inputFiles/WOSCorpus(915)	2013	6	22	Patterns of Epistasis between Beneficial Mutations in an Antibiotic Resistance Gene	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+916	inputFiles/WOSCorpus(916)	2013	6	22	EPISTATIC INTERACTIONS DETERMINE THE MUTATIONAL PATHWAYS AND COEXISTENCE OF LINEAGES IN CLONAL ESCHERICHIA COLI POPULATIONS	June 22, 2013	EVOLUTION
+917	inputFiles/WOSCorpus(917)	2013	6	22	Water-level fluctuations and metapopulation dynamics as drivers of genetic diversity in populations of three Tanganyikan cichlid fish species	June 22, 2013	MOLECULAR ECOLOGY
+918	inputFiles/WOSCorpus(918)	2013	6	22	Ontogenetic and stratigraphic influence on observed phenotypic integration in the limb skeleton of a fossil tetrapod	June 22, 2013	PALEOBIOLOGY
+919	inputFiles/WOSCorpus(919)	2013	6	22	Ontogenetic trajectories in the ornithischian endocranium	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+920	inputFiles/WOSCorpus(920)	2013	6	22	Shared and unique morphological responses of stream fishes to anthropogenic habitat alteration	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+921	inputFiles/WOSCorpus(921)	2013	6	22	Characterization of transcriptomes from sexual and asexual lineages of a New Zealand snail (Potamopyrgus antipodarum)	June 22, 2013	MOLECULAR ECOLOGY RESOURCES
+922	inputFiles/WOSCorpus(922)	2013	6	22	MicroRNAs support the monophyly of enteropneust hemichordates	June 22, 2013	JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION
+923	inputFiles/WOSCorpus(923)	2013	6	22	Mitogenomics at the base of Metazoa	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+924	inputFiles/WOSCorpus(924)	2013	6	22	Making the Impossible Possible: Rooting the Tree of Placental Mammals	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+925	inputFiles/WOSCorpus(925)	2013	6	22	Water-induced finger wrinkles improve handling of wet objects	June 22, 2013	BIOLOGY LETTERS
+926	inputFiles/WOSCorpus(926)	2013	6	22	The Evolution of Canalization and Evolvability in Stable and Fluctuating Environments	June 22, 2013	EVOLUTIONARY BIOLOGY
+927	inputFiles/WOSCorpus(927)	2013	6	22	Temporal and geographical variation in skull size of the red fox (Vulpes vulpes) and the Eurasian badger (Meles meles) in Austria	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+928	inputFiles/WOSCorpus(928)	2013	6	22	Porosity and water vapor conductance of two Troodon formosus eggs: an assessment of incubation strategy in a maniraptoran dinosaur	June 22, 2013	PALEOBIOLOGY
+929	inputFiles/WOSCorpus(929)	2013	6	22	How Does Climate Influence Speciation?	June 22, 2013	AMERICAN NATURALIST
+930	inputFiles/WOSCorpus(930)	2013	6	22	A new approach to quantify the adaptive potential of gene expression variation in gymnosperms	June 22, 2013	MOLECULAR ECOLOGY
+931	inputFiles/WOSCorpus(931)	2013	6	22	Lateral transfers of insertion sequences between Wolbachia, Cardinium and Rickettsia bacterial endosymbionts	June 22, 2013	HEREDITY
+932	inputFiles/WOSCorpus(932)	2013	6	22	Molecular and cellular changes associated with the evolution of Novemberel jaw muscles in parrots	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+933	inputFiles/WOSCorpus(933)	2013	6	22	Suppressors of RNAi from plant viruses are subject to episodic positive selection	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+934	inputFiles/WOSCorpus(934)	2013	6	22	Genetic diversity, structure, and patterns of differentiation in the genus Vitis	June 22, 2013	PLANT SYSTEMATICS AND EVOLUTION
+935	inputFiles/WOSCorpus(935)	2013	6	22	Vocal copying of individually distinctive signature whistles in bottlenose dolphins	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+936	inputFiles/WOSCorpus(936)	2013	6	22	Fine-scale temporal adaptation within a salmonid population: mechanism and consequences	June 22, 2013	MOLECULAR ECOLOGY
+937	inputFiles/WOSCorpus(937)	2013	6	22	Selection Gradients, the Opportunity for Selection, and the Coefficient of Determination	June 22, 2013	AMERICAN NATURALIST
+938	inputFiles/WOSCorpus(938)	2013	6	22	Mature male parr contribution to the effective size of an anadromous Atlantic salmon (Salmo salar) population over 30years	June 22, 2013	MOLECULAR ECOLOGY
+939	inputFiles/WOSCorpus(939)	2013	6	22	Dating Phylogenies with Sequentially Sampled Tips	June 22, 2013	SYSTEMATIC BIOLOGY
+940	inputFiles/WOSCorpus(940)	2013	6	22	Contrasting Patterns of Evolution of 45S and 5S rDNA Families Uncover New Aspects in the Genome Constitution of the Agronomically Important Grass Thinopyrum intermedium (Triticeae)	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+941	inputFiles/WOSCorpus(941)	2013	6	22	Effects of population, family, and diet on craniofacial morphology of Icelandic Arctic charr (Salvelinus alpinus)	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+942	inputFiles/WOSCorpus(942)	2013	6	22	Adaptive divergence in Darwin's small ground finch (Geospiza fuliginosa): divergent selection along a cline	June 22, 2013	BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY
+943	inputFiles/WOSCorpus(943)	2013	6	22	New nuclear Marchkers and exploration of the relationships among Serraniformes (Acanthomorpha, Teleostei): The importance of working at multiple scales	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+944	inputFiles/WOSCorpus(944)	2013	6	22	Linkage map of the peppered moth, Biston betularia (Lepidoptera, Geometridae): a model of industrial melanism	June 22, 2013	HEREDITY
+945	inputFiles/WOSCorpus(945)	2013	6	22	Membrane Environment Imposes Unique Selection Pressures on Transmembrane Domains of G Protein-Coupled Receptors	June 22, 2013	JOURNAL OF MOLECULAR EVOLUTION
+946	inputFiles/WOSCorpus(946)	2013	6	22	A 20-state empirical amino-acid substitution model for green plant chloroplasts	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+947	inputFiles/WOSCorpus(947)	2013	6	22	Molecular phylogeny, divergence times and biogeography of spiders of the subfamily Euophryinae (Araneae: Salticidae)	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+948	inputFiles/WOSCorpus(948)	2013	6	22	GENETIC DIFFERENTIATION AND SELECTION AGAINST MIGRANTS IN EVOLUTIONARILY REPLICATED EXTREME ENVIRONMENTS	June 22, 2013	EVOLUTION
+949	inputFiles/WOSCorpus(949)	2013	6	22	Evolutionary history and genetic parallelism affect correlated responses to evolution	June 22, 2013	MOLECULAR ECOLOGY
+950	inputFiles/WOSCorpus(950)	2013	6	22	Stalking the wild Tetrahymena	June 22, 2013	MOLECULAR ECOLOGY
+951	inputFiles/WOSCorpus(951)	2013	6	22	Lineage-specific mapping of quantitative trait loci	June 22, 2013	HEREDITY
+952	inputFiles/WOSCorpus(952)	2013	6	22	Phylogenomics of Annelida revisited: a cladistic approach using genome-wide expressed sequence tag data mining and examining the effects of missing data	June 22, 2013	CLADISTICS
+953	inputFiles/WOSCorpus(953)	2013	6	22	A multi-locus timetree of surgeonfishes (Acanthuridae, Percomorpha), with revised family taxonomy	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+954	inputFiles/WOSCorpus(954)	2013	6	22	Comparative fruit structure in Hydatellaceae (Nymphaeales) reveals specialized pericarp dehiscence in some early-divergent angiosperms with ascidiate carpels	June 22, 2013	TAXON
+955	inputFiles/WOSCorpus(955)	2013	6	22	Bayesian Tests of Topology Hypotheses with an Example from Diving Beetles	June 22, 2013	SYSTEMATIC BIOLOGY
+956	inputFiles/WOSCorpus(956)	2013	6	22	Dynamics of sexual populations structured by a space variable and a phenotypical trait	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+957	inputFiles/WOSCorpus(957)	2013	6	22	Statistical Evaluation of the Rodin-Ohno Hypothesis: Sense/Antisense Coding of Ancestral Class I and II Aminoacyl-tRNA Synthetases	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+958	inputFiles/WOSCorpus(958)	2013	6	22	New ophiacanthid brittle stars (Echinodermata: Ophiuroidea) from the Upper Triassic of Japan: first insights into the origin and evolution of an extant deep-sea group	June 22, 2013	JOURNAL OF SYSTEMATIC PALAEONTOLOGY
+959	inputFiles/WOSCorpus(959)	2013	6	22	Genetic hitchhiking in spatially extended populations	June 22, 2013	THEORETICAL POPULATION BIOLOGY
+960	inputFiles/WOSCorpus(960)	2013	6	22	Introgression and the fate of domesticated genes in a wild mammal population	June 22, 2013	MOLECULAR ECOLOGY
+961	inputFiles/WOSCorpus(961)	2013	6	22	Morphological variation of genetically confirmed Alouatta Pigra A. palliata hybrids from a natural hybrid zone in Tabasco, Mexico	June 22, 2013	AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY
+962	inputFiles/WOSCorpus(962)	2013	6	22	Predation risk causes oxidative damage in prey	June 22, 2013	BIOLOGY LETTERS
+963	inputFiles/WOSCorpus(963)	2013	6	22	Deleterious effects of recombination and possible nonrecombinatorial advantages of sex in a fungal model	June 22, 2013	JOURNAL OF EVOLUTIONARY BIOLOGY
+964	inputFiles/WOSCorpus(964)	2013	6	22	A comparative analysis of complete mitochondrial genomes among Hexapoda	June 22, 2013	MOLECULAR PHYLOGENETICS AND EVOLUTION
+965	inputFiles/WOSCorpus(965)	2013	6	22	Natural history of a plant trait: branch-system abscission in Paleozoic conifers and its environmental, autecological, and ecosystem implications in a fire-prone world	June 22, 2013	PALEOBIOLOGY
+966	inputFiles/WOSCorpus(966)	2013	6	22	Living on the edge: how philopatry maintains adaptive potential	June 22, 2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+967	inputFiles/WOSCorpus(967)	2013	6	22	Natural variation of the Y chromosome suppresses sex ratio distortion and modulates testis-specific gene expression in Drosophila simulans	June 22, 2013	HEREDITY
+968	inputFiles/WOSCorpus(968)	2013	6	22	Gene Survival and Death on the Human Y Chromosome	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
+969	inputFiles/WOSCorpus(969)	2013	6	22	Evaluating molecular support for and against the monophyly of the Peritrichia and phylogenetic relationships within the Mobilida (Ciliophora, Oligohymenophorea)	June 22, 2013	ZOOLOGICA SCRIPTA
+970	inputFiles/WOSCorpus(970)	2013	6	22	Zhengyia shennongensis: A new bulbiliferous genus and species of the nettle family (Urticaceae) from central China exhibiting parallel evolution of the bulbil trait	June 22, 2013	TAXON
+971	inputFiles/WOSCorpus(971)	2013	6	22	Marchked host specificity and lack of phylogeographic population structure of Campylobacter jeJunei in wild birds	June 22, 2013	MOLECULAR ECOLOGY
+972	inputFiles/WOSCorpus(972)	2013	6	22	Coevolution and Life Cycle Specialization of Plant Cell Wall Degrading Enzymes in a Hemibiotrophic Pathogen	June 22, 2013	MOLECULAR BIOLOGY AND EVOLUTION
